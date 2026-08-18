@@ -112,6 +112,7 @@ County overview of these tools: [House and Property History Records](https://mul
 - 1933 address-change directory for **369 E 73rd Ave N** (C04) — lead only until checked
 - Multnomah marriage register for Nola Diane DeVeny / Jack Howard Fick, 31 Dec 1950 (announcement already W26)
 - Neighbor’s name and date of the O2 conversation
+- Re-read P6 month (C08); 1611 occupants re basement tank (O4)
 - Gas-furnace permit/invoice for 1992–1999 tank removal (O4)
 - Date/provenance of Portland Archives aerial A2010-001.86
 - Builder still unknown
