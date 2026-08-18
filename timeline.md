@@ -42,9 +42,9 @@ Public-record aggregators also list year built 1912 (1,102 sq ft; 5,724 sq ft lo
 
 Legal description on the card: Lots 27 & 28, Block 33, Jonesmore; between Halsey and Broadway.
 
-- **Working reading:** owner **Mr. J. Deveny** (S2022’s “M. J.” treated as “Mr.”)
+- **Owner:** **Mr. J. Deveny** (leading **M.** = title **Mr.**, not a given name; [decisions.md](decisions.md) C02)
 - **Sources:** P1, S2022, S2026
-- **Status:** card transcription **working** (C02); identifying him as James Benjamin **still open (C03)**
+- **Status:** transcription **resolved**; identifying him as James Benjamin **still open (C03)**
 
 ### Pre-1933 — Earlier street number “369”
 
@@ -100,14 +100,21 @@ Permit 185319, inspection 7 Feb 1947, final 14 Feb 1947, old dwelling, one water
 - **Sources:** P3, S2022, S2026
 - **Status:** work accepted; identity **disputed**
 
-### 1950 census — not yet retrieved
+### 1 Apr 1950 — Edgar A. DeVeny household at 1623 (census)
 
-Next occupancy check: whether Edgar and Fern (and Irene / Nola) were still at 1623. Search: [1950census.archives.gov](https://1950census.archives.gov/search/). Same rule as 1940: occupancy, not title.
+Ancestry index of the original schedule, Portland ED **37-206** (P8). Census day **1 Apr 1950**. Street **N. E 73**, house **1623**. Occupancy, not title (same rule as C05).
 
-Census day was **1 Apr 1950**, eight months **before** Nola’s 31 Dec 1950 wedding (W26). If she was still at 1623 that spring, she should appear as unmarried daughter Nola DeVeny.
+| Line | Indexed name | Relation | Age | Work |
+| --- | --- | --- | --- | --- |
+| 1 | Edgar A. Deveny | Head | 54 | Printer, private printing co. |
+| 2 | Fenn A. Deveny (= Fern) | Wife | 44 | Keeping house |
+| 3 | Nala D. Deveny (= Nola) | Daughter | 16 | Never married |
 
-- **Sources:** W20, P7, W26
-- **Status:** queue item; no page in this archive yet
+Irene (in the 1940 household) is **not** listed. Nola is still at home eight months before the 31 Dec 1950 wedding (W26). Ancestry’s birth year **1934** for Nola is computed from age 16; C15 remains open.
+
+- **Certainty:** 5/5 occupancy of these three at 1623 on census day (Ancestry index of the sheet); 4/5 that Fenn/Nala are Fern/Nola
+- **Sources:** P8, W20
+- **Status:** occupancy documented; original-sheet screenshot still optional
 
 ### 31 Dec 1950 — Nola Diane DeVeny married Jack Howard Fick
 

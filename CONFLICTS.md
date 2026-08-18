@@ -4,7 +4,7 @@ Working calls already recorded are in [decisions.md](decisions.md). Items below 
 
 | Working (do not re-argue unless new evidence) | Still open |
 | --- | --- |
-| C02 “Mr. J.”, C05 occupancy≠title, C09 basement tank only (no UST), C12 1992 parties, C17 Nola marriages & name, C01 plumbing dates (3/2/1912; 3/13/1913) | C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16 |
+| C01 plumbing dates (3/2/1912; 3/13/1913), C02 “Mr. J. Deveny” (not M. J. as a person), C05 occupancy≠title, C09 basement tank only (no UST), C12 1992 parties, C17 Nola marriages & name | C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16 |
 
 Primary scans are in `photos/permits/`. Genealogy screenshots and the Nola clipping are in `photos/genealogy/`.
 
@@ -18,18 +18,7 @@ Primary scans are in `photos/permits/`. Genealogy screenshots and the Nola clipp
 
 ## C02 — Name on the 1912 owner line
 
-**Question:** Who is named as owner on the first plumbing card?
-
-| | Assertion | Source |
-| --- | --- | --- |
-| A | **M. J. Deveny** | S2022 text, reading of P1 |
-| B | **Mr. J. Deveny**; first initial most plausibly **J**, but stylized | S2026, source P1 |
-
-**Primary document:** same 1912 card as C01.
-
-**Note:** “M.” and “Mr.” are a plausible misreading of the same abbreviation. “Deveny / Devery / Deviny” spellings also wander across later cards.
-
-**Working reading (2026-08-17):** B — “Mr. J. Deveny”; old “M.” treated as “Mr.” See [decisions.md](decisions.md).
+**Decided (2026-08-18):** Owner is **Mr. J. Deveny**. **M.** is the abbreviation for **Mr.**, not a given name. S2022’s “M. J. Deveny” is not a separate person. Later cards on this house type **Mr.** / **Mrs.** on the owner line (P2, P3). Identifying him as James Benjamin remains **C03**. See [decisions.md](decisions.md).
 
 ---
 
@@ -217,7 +206,7 @@ Screenshot contents (Ancestry 1940 census summary):
 | --- | --- | --- |
 | A | Nola **(1933–2000)** | S2022; Lloyd Dowty tree screenshot also 1933; VA cemetery data 1933 (W5) |
 | B | SortedByName index **1930**, conflicting with VA **1933**. S2026 does not resolve it | S2026, W11 vs W5 |
-| Census | Nola, daughter, **age 6 in 1940** → birth about **1933–1934** | P7 |
+| Census | Nola, daughter, **age 6 in 1940** → birth about **1933–1934**; **age 16 on 1 Apr 1950** → same window; Ancestry computed 1934 | P7, P8 |
 
 **Your call:** [ ] 1933  [ ] 1930  [ ] About 1933–34 from census only  [ ] Other: ________
 

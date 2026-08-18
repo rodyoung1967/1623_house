@@ -23,7 +23,7 @@ The builder is unknown. In 1907 George D. Schalk advertised Jonesmore lots and o
 
 A City of Portland plumbing card records a **new one-story frame dwelling** on this legal description (P1). First inspection **2 Mar 1912**, final **13 Mar 1913** ([decisions.md](decisions.md) C01). The card lists dwelling use and handwritten fixture and drain notes (P1).
 
-The owner line on the same card is read as **Mr. J. Deveny** ([decisions.md](decisions.md) C02). Identifying that man as James Benjamin DeVeny (1871–1945) is a family lead, not proven (C03; S2022, W12). Sophia Charlotte DeVeny is not named on any permit in this archive (S2022).
+The owner line on the same card is **Mr. J. Deveny** ([decisions.md](decisions.md) C02). Identifying that man as James Benjamin DeVeny (1871–1945) is a family lead, not proven (C03; S2022, W12). Sophia Charlotte DeVeny is not named on any permit in this archive (S2022).
 
 The card also shows an earlier street number **369**, later overwritten or annotated as **1623 N.E.** (P1). Portland finished citywide renumbering in July 1933 (W10). The 2022 notes give the full old form as **369 E 73rd Ave N** (S2022). The number 369 is on the card; the exact old street string is still open (C04).
 
@@ -50,7 +50,21 @@ An Ancestry 1940 census summary (not yet the original enumeration sheet) lists t
 | Irene Deveney | Daughter | 17 | P7 |
 | Nola Deveney | Daughter | 6 | P7 |
 
-That is occupancy. It is not treated as a deed (C05). The 1950 census page for this address has not been retrieved (W20).
+That is occupancy. It is not treated as a deed (C05).
+
+---
+
+## 1950: Edgar, Fern, and Nola; Irene gone
+
+An Ancestry index of the original 1950 schedule (ED **37-206**, census day **1 Apr 1950**) lists **1623 N. E 73** (P8):
+
+| Person (indexed) | Role | Age in 1950 | Notes | Source |
+| --- | --- | --- | --- | --- |
+| Edgar A. Deveny | Head | 54 | Printer, private printing company | P8 |
+| Fenn A. Deveny | Wife | 44 | Indexed **Fenn** = Fern | P8 |
+| Nala D. Deveny | Daughter | 16 | Indexed **Nala** = Nola; never married | P8 |
+
+Irene is **not** in the household. Nola was still at home and unmarried eight months before the Fick wedding (W26). Occupancy only; not a deed (same rule as C05).
 
 ---
 
@@ -136,7 +150,7 @@ The house and a rear-yard structure remain visible on Portland Maps aerials thro
 
 - 1910–1920 census or 1912 directory to identify Mr. J. Deveny (C03)
 - 1933 address-change directory for the full old address (C04)
-- Original 1940 census sheet and the 1950 page (P7 upgrade; W20)
+- Original 1940 census sheet (P7 upgrade); optional 1950 sheet screenshot of ED 37-206 lines 1–3 (P8 already indexed)
 - Fern’s 1986 obituary, death certificate, and probate (C10)
 - Recorder: 1986–88 Fern → Nola; **1 Dec 1992** deed; **1999** deed (C12, C14)
 - Reverse directories 1969–1992 for occupants after Edgar

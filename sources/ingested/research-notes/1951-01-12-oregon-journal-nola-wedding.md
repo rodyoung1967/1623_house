@@ -23,4 +23,4 @@ The left column is a **different** wedding (San Carlos Mission, Monterey). Do no
 | “At home here” | Portland circulation area | 4/5 place; **not** 1623 | Does not prove she stayed at or left 1623 |
 | Parents | **Mr. and Mrs. E. A. DeVeny** | 5/5 that Edgar’s household is named | Occupancy of 1623 still from other records |
 
-1950 census day was **1 Apr 1950**, eight months before this wedding. If Nola was still at 1623 that spring, she should appear as unmarried daughter Nola DeVeny.
+1950 census day was **1 Apr 1950**, eight months before this wedding. Nola was still at 1623 as unmarried daughter **Nala D. Deveny**, age 16 (P8).

@@ -68,7 +68,7 @@ IDs are stable. New sources get the next number in the same prefix. Machine mirr
 - **Reading (2026-08-18):** first **3/2/1912**, final **3/13/1913**; owner “Mr. J. Deveny”
 - **S2022 reading (not carried forward):** date `2/2/12?`; owner “M. J. Deveny”
 - **Prior reading (not carried forward):** September 1912 misread
-- **Status:** C01 resolved in [decisions.md](decisions.md); C02/C04 still open
+- **Status:** C01 and C02 resolved in [decisions.md](decisions.md); C04 still open
 - **S2026 file cite:** 785317.pdf, page 5
 
 ### P2 — City of Portland plumbing inspection, 1939 cesspool-to-sewer
@@ -117,6 +117,17 @@ IDs are stable. New sources get the next number in the same prefix. Machine mirr
 - **Use:** Occupancy 1940. Title transfer is C05
 - **Upgrade path:** add the original census sheet image (ED, sheet, line numbers)
 
+### P8 — 1950 U.S. Census household at 1623 NE 73rd (Ancestry index of original sheet)
+
+- **Type:** Ancestry index panel from the original 1950 schedule (handwritten page not yet cropped into this archive)
+- **Census day:** 1 Apr 1950
+- **ED:** **37-206** (Oregon, Multnomah, Portland)
+- **File:** `sources/ingested/census/1950-united-states-federal-census-ed-37-206.mhtml`
+- **Extract:** `sources/ingested/research-notes/1950-census-ed-37-206.md`
+- **Ancestry image:** [collection 62308, Oregon-145375-0001](https://www.ancestry.com/imageviewer/collections/62308/images/43290879-Oregon-145375-0001)
+- **Contents:** Edgar A. Deveny, 54, head, printer at a private printing co.; Fenn A. (Fern), 44, wife; Nala D. (Nola), 16, unmarried daughter. Address **1623 N. E 73**. Irene not listed.
+- **Use:** Occupancy 1950. Same occupancy-not-title rule as C05 / P7.
+
 ---
 
 ## Oral history
@@ -155,7 +166,7 @@ See [oral-history.md](oral-history.md) for the full statements.
 | W17 | [Multnomah Circuit Court Records](https://www.courts.oregon.gov/courts/multnomah/records/pages/default.aspx) | How to order Fern’s probate: MUL.Records@ojd.state.or.us · 971-274-0570 · Room 3315 |
 | W18 | [Multnomah Recording & Customer Service](https://multco.us/departments/recording-customer-service) | 503-988-2273 · clerk@multco.us · Suite 175, 501 SE Hawthorne. Pre-2002 deeds via office/terminals |
 | W19 | [Multnomah County — House and Property History Records](https://multco.us/info/house-and-property-history-records) | Starting-point map: Portland Maps historic permits, SHPO database, MCL/OHS, surveyor, recorder, neighbors |
-| W20 | [NARA 1950 Census search](https://1950census.archives.gov/search/) | Bridge between 1940 household and later occupancy. **Not yet retrieved for 1623** |
+| W20 | [NARA 1950 Census search](https://1950census.archives.gov/search/) | Free browse of the original schedules. **ED 37-206** is the district for 1623 (P8). |
 | W21 | [MCL — Find past residents in Portland city directories](https://multcolib.org/who-lived-my-house-find-past-residents-portland-city-directories) | Reverse “Street and Avenue Guide” from **1930**; pre-1933 use old address **369**; 1929-and-earlier have no reverse section |
 | W22 | [Multnomah — Property Records and Recording](https://multco.us/info/property-records-and-recording) | Deeds **after 12/31/2001** printable from home. Older images: DART order or lobby computers |
 | W23 | [Polk's Portland city directory, 1956](https://archive.org/details/polksportlandcity1956porich) | Edgar A. (Fern A.) at 1623 NE 73d (OCR; r vs h uncertain). Extract: `sources/ingested/research-notes/polk-directories-1956-1959.md` |

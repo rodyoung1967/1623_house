@@ -20,6 +20,8 @@ Worth running because S2022 / P7 place **Edgar, Fern, Irene, and Nola** at 1623 
 
 **Search:** address `1623 NE 73rd Ave`, Portland, Multnomah County, Oregon; names Edgar / Fern DeVeny, Deveney, Deveny.
 
+**Later:** retrieved 2026-08-18 as **P8** (ED **37-206**). See `sources/ingested/research-notes/1950-census-ed-37-206.md`.
+
 ## Portland city directories (MCL)
 
 https://multcolib.org/who-lived-my-house-find-past-residents-portland-city-directories

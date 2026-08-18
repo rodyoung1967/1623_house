@@ -25,7 +25,7 @@ sources:
     type: primary
     title: City of Portland plumbing inspection — new dwelling
     path: photos/permits/1912-plumbing-inspection.png
-    reading_conflict: [C02, C04]
+    reading_conflict: [C04]
   - id: P2
     type: primary
     title: City of Portland plumbing inspection — 1939 cesspool to sewer
@@ -54,6 +54,15 @@ sources:
     path: photos/genealogy/1940-census-edgar-deveney-household.jpeg
     from: S2022
     upgrade: original enumeration page
+  - id: P8
+    type: census_index
+    title: 1950 U.S. Census — Ancestry index of ED 37-206 sheet for 1623 NE 73rd
+    path: sources/ingested/census/1950-united-states-federal-census-ed-37-206.mhtml
+    extract: sources/ingested/research-notes/1950-census-ed-37-206.md
+    url: https://www.ancestry.com/imageviewer/collections/62308/images/43290879-Oregon-145375-0001
+    census_day: "1950-04-01"
+    ed: "37-206"
+    notes: Occupancy of Edgar, Fern, Nola. Irene gone. Indexed Fenn/Nala. Original sheet screenshot optional.
   - id: O1
     type: oral_history
     informant: Rodney A. Young (current owner, firsthand)
@@ -153,7 +162,8 @@ sources:
     type: census_search
     title: NARA 1950 Census search
     url: https://1950census.archives.gov/search/
-    status: not_yet_retrieved
+    ed: "37-206"
+    notes: Free original schedules. Household already indexed as P8.
   - id: W21
     type: library_guide
     title: Portland city directories — find past residents

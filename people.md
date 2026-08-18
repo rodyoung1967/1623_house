@@ -2,7 +2,7 @@
 
 Only house-relevant facts are treated as claims about 1623. Family dates from Find a Grave / trees are labeled as genealogy.
 
-**Named on the parcel (identity still open):** [C02](CONFLICTS.md#c02--name-on-the-1912-owner-line), [C03](CONFLICTS.md#c03--was-the-1912-owner-james-benjamin-deveny), [C06](CONFLICTS.md#c06--who-is-mrs-deveny-on-the-1947-plumbing-card).
+**Named on the parcel (identity still open):** [C03](CONFLICTS.md#c03--was-the-1912-owner-james-benjamin-deveny), [C06](CONFLICTS.md#c06--who-is-mrs-deveny-on-the-1947-plumbing-card).
 
 **Later owners / occupants:** [C12](CONFLICTS.md#c12--who-bought-the-house-in-1992), [C13](CONFLICTS.md#c13--who-are-randy--christine).
 
@@ -16,10 +16,10 @@ Only house-relevant facts are treated as claims about 1623. Family dates from Fi
 
 ### “Mr. J. Deveny” (1912 card)
 
-- Named as owner on P1. Working reading: **Mr. J. Deveny** (S2022’s “M. J.” treated as “Mr.” — C02)
+- Named as owner on P1: **Mr. J. Deveny**. The leading **M.** is the title **Mr.**, not a given-name initial ([decisions.md](decisions.md) C02)
 - May be James Benjamin DeVeny, or another DeVeny (C03)
 - **Sources:** P1
-- **Status:** card name **working**; person identification **open**
+- **Status:** card name **resolved**; person identification **open**
 
 
 
@@ -52,6 +52,7 @@ Only house-relevant facts are treated as claims about 1623. Family dates from Fi
 
 - **Also spelled** Deveney (1940 census index)
 - **1940:** head of household at 1623 (P7)
+- **1950:** head at 1623; age 54; printer at a private printing company (P8)
 - **1951:** named with his wife as Nola’s parents, “Mr. and Mrs. E. A. DeVeny” (W26) — Portland, not by itself 1623 occupancy
 - **1956–1959:** Polk directories list Edgar A. (Fern A.) at 1623 NE 73d; 1957 occupation **printer, Ivy Press**; 1959 phone **AL 2-4971** (W23–W25)
 - **1966:** oil-burner permit installed for E. A. DeVeny (P6) — 4/5 this is Edgar
@@ -60,7 +61,7 @@ Only house-relevant facts are treated as claims about 1623. Family dates from Fi
 - **Parents (Find a Grave):** James Benjamin DeVeny and Sophia DeVeny (W13)
 - **Spouse:** Fern A. DeVeny
 - **Marriage:** S2022 says m. 1921 — not independently sourced in S2026
-- **Sources:** P6, P7, W2, W3, W13, W23, W24, W25, W26, W27, W28, S2022
+- **Sources:** P6, P7, P8, W2, W3, W13, W23, W24, W25, W26, W27, W28, S2022
 
 
 
@@ -69,19 +70,21 @@ Only house-relevant facts are treated as claims about 1623. Family dates from Fi
 - **Birthplace (Find a Grave screenshot):** Midvale, Washington County, Idaho
 - **Parents (same):** Daniel Webster Farmer and Diana Farmer
 - **1940:** wife, age 34, at 1623 (P7)
+- **1950:** wife, age 44, at 1623; indexed **Fenn A.** (P8)
 - **1947:** S2022 identifies “Mrs. Deveny” as Fern — disputed (C06)
 - **1956–1959:** listed as Edgar’s wife at 1623 in Polk directories (W23–W25) — occupancy, not title
 - **1969:** named as surviving wife in Edgar’s death notice, which gives **his** address as 1623 (W27). Not a separate address line for Fern, and not title
 - **Neighbor (O2):** older woman / Fern died in the house 1986 — disputed (C10)
-- **Sources:** P7, W4, W14, W23, W24, W25, W27, O2, S2022
+- **Sources:** P7, P8, W4, W14, W23, W24, W25, W27, O2, S2022
 
 
 
 ### Irene F. Taylor (b. ~1922–1923)
 
 - **1940 census:** daughter Irene Deveney, age 17, at 1623 (P7)
+- **1950 census:** **not** in the 1623 household (P8). She had left by 1 Apr 1950.
 - **1969:** Edgar’s death notice names her **Irene F. Taylor** (W27). Listed as a daughter, **not** as living at 1623
-- **Sources:** P7, W27, S2022
+- **Sources:** P7, P8, W27, S2022
 - **Open:** whether she later owned or occupied the house; husband’s given name
 
 
@@ -91,7 +94,8 @@ Only house-relevant facts are treated as claims about 1623. Family dates from Fi
 One person. Occupant as a child; 1992 grantor as Nola D. Dowty.
 
 - **1940 census:** daughter, age 6, at 1623 (P7)
-- **Birth year:** 1933 (S2022, W5, Lloyd tree) vs 1930 (W11) vs ~1933–34 from census — C15
+- **1950 census:** unmarried daughter **Nala D.** (Nola), age 16, at 1623 (P8). Still at home eight months before the Fick wedding
+- **Birth year:** 1933 (S2022, W5, Lloyd tree) vs 1930 (W11) vs ~1933–34 from 1940 age 6 and 1950 age 16 — C15
 - **Given name:** **Nola Diane** (W26, W5, W27). Alternate **Diana Nola** on family-tree screenshot (S2022)
 - **First marriage:** **31 Dec 1950** to **Jack Howard Fick**, son of George S. Fick(s); *Oregon Journal* 12 Jan 1951, p. 15 (W26)
 - **Second marriage:** **Lloyd Wallace Dowty**, son of Mr. and Mrs. Willard D. Dowty; “Nola D. DeVeny Weds Saturday,” Grant Park Baptist (W30). S2026c dates the paper 26 Sept 1952 and infers **20 Sept 1952** (masthead unverified). How the Fick marriage ended is not documented
@@ -99,7 +103,7 @@ One person. Occupant as a child; 1992 grantor as Nola D. Dowty.
 - **1969:** Edgar’s death notice names **Nola D. Dowty** as daughter, not as of 1623 (W27)
 - **Neighbor (O2):** never moved back with Lloyd and Diane (C11)
 - **1992 grantor (working):** sold 12/1/1992 for $64,950 to Wayne Irvin et al. (S2022 + W1 date/price; deed not in archive) (C12)
-- **Sources:** P7, W1, W5, W11, W26, W27, W29, W30, W31, W32, O1, O2, S2022, S2026, S2026b, S2026c
+- **Sources:** P7, P8, W1, W5, W11, W26, W27, W29, W30, W31, W32, O1, O2, S2022, S2026, S2026b, S2026c
 
 ---
 

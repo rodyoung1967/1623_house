@@ -59,9 +59,10 @@ Resolved or working calls. Newest at the top. Open items remain in [CONFLICTS.md
 
 ---
 
-## C02 — 1912 owner line (working reading)
+## C02 — 1912 owner line is “Mr. J. Deveny” (resolved)
 
-- **Date resolved:** 2026-08-17 (working reading of P1)
-- **Decision:** Do **not** carry **“M. J. Deveny”** forward as a separate person. Working reading: **“Mr. J. Deveny.”** The old “M.” is treated as a likely misreading of the abbreviation **Mr.** Identifying that man as James Benjamin DeVeny remains **unproven (C03)**.
-- **Relied on:** P1; S2026; S2026b
-- **Override:** re-read the owner line on P1 if you disagree
+- **Date resolved:** 2026-08-18 (re-read of P1 plus period abbreviation practice)
+- **Decision:** The owner line is **Mr. J. Deveny**. Do **not** carry **“M. J. Deveny”** as a separate person. The leading **M.** is the courtesy title **Mr.** (often written as a large M with a small raised *r*), not a given-name initial.
+- **Why:** Early-20th-century clerks routinely abbreviated Mister as **M.** or **Mr.** City of Portland plumbing cards for this house use a courtesy title on the owner line: **“Mr. De Verney”** (typed, P2, 1939) and **“Mrs. Deveny”** (typed, P3, 1947). The 1912 card is the same pattern, handwritten.
+- **Relied on:** P1 (2022 scan shows the raised *r* most clearly); P2; P3; S2026; S2026b
+- **Still open (separate):** identifying that man as James Benjamin DeVeny (**C03**)

@@ -4,9 +4,9 @@ people:
     name: Mr. J. Deveny
     alt_readings: [M. J. Deveny]
     role: named owner on 1912 plumbing card
-    working_reading: Mr. J. Deveny (C02)
+    reading: Mr. J. Deveny (C02 resolved; M. = Mr.)
     sources: [P1]
-    conflict: [C02, C03]
+    conflict: [C03]
   - id: person-james-benjamin-deveny
     name: James Benjamin DeVeny
     lifespan: [1871, 1945]
@@ -27,31 +27,35 @@ people:
     death_place_index: 1623 NE 73rd Ave
     at_house:
       - {year: 1940, evidence: head of household, source: P7}
+      - {year: 1950, evidence: head age 54 printer at 1623, source: P8}
       - {year: 1956, evidence: Polk directory at 1623 NE 73d, source: W23}
       - {year: 1957, evidence: Polk directory printer Ivy Press h1623, source: W24}
       - {year: 1959, evidence: Polk directory and reverse list, phone AL 2-4971, source: W25}
       - {year: 1966, evidence: oil permit installed for E. A. DeVeny, source: P6}
       - {year: 1969, evidence: death/funeral notices give residence 1623, source: W27}
-    sources: [P6, P7, W2, W3, W13, W23, W24, W25, W26, W27, W28]
+    sources: [P6, P7, P8, W2, W3, W13, W23, W24, W25, W26, W27, W28]
   - id: person-fern-a-deveny
     name: Fern A. Farmer DeVeny
     born: "1906-01-29"
     died: "1986-07-18"
     at_house:
       - {year: 1940, evidence: wife in household, source: P7}
+      - {year: 1950, evidence: wife age 44 indexed Fenn A., source: P8}
       - {year: 1956, evidence: Polk directory wife of Edgar at 1623, source: W23}
       - {year: 1957, evidence: Polk directory wife of Edgar h1623, source: W24}
       - {year: 1959, evidence: Polk directory wife of Edgar at 1623, source: W25}
       - {year: 1969, evidence: named wife in Edgar death notice giving his address as 1623, source: W27}
-    sources: [P7, W4, W14, W23, W24, W25, W27, O2]
+    sources: [P7, P8, W4, W14, W23, W24, W25, W27, O2]
     conflict: [C06, C07, C10]
   - id: person-irene-deveney
     name: Irene F. Taylor
     alt_names: [Irene Deveney]
     at_house:
       - {year: 1940, evidence: daughter age 17, source: P7}
+    not_at_house:
+      - {year: 1950, evidence: not in 1623 household, source: P8}
     later_name: Irene F. Taylor (Edgar death notice 1969; not listed as of 1623)
-    sources: [P7, W27, S2022]
+    sources: [P7, P8, W27, S2022]
   - id: person-nola-deveny-dowty
     name: Nola Diane DeVeny / Fick / Dowty
     alt_names: [Nola Deveney, Diana Nola Deveny, Nola D. Fick, Nola D. Dowty]
@@ -68,10 +72,11 @@ people:
       sources: [S2022, W5, W27]
     at_house:
       - {year: 1940, evidence: daughter age 6, source: P7}
+      - {year: 1950, evidence: unmarried daughter age 16 indexed Nala D., source: P8}
     grantor_1992:
       working: Nola D. Dowty sold to Wayne Irvin et al. for $64950 on 1992-12-01
       sources: [S2022, W1, S2026b]
-    sources: [P7, W1, W5, W11, W26, W27, O1, O2, S2022]
+    sources: [P7, P8, W1, W5, W11, W26, W27, O1, O2, S2022]
     conflict: [C11, C12, C15]
   - id: person-jack-howard-fick
     name: Jack Howard Fick

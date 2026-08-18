@@ -37,6 +37,7 @@ These are screenshots of databases, not substitutes for the underlying certifica
 | File                                                        | What it is                            | Source IDs         |
 | ----------------------------------------------------------- | ------------------------------------- | ------------------ |
 | `photos/genealogy/1940-census-edgar-deveney-household.jpeg` | Ancestry 1940 census summary for 1623 | P7                 |
+| `sources/ingested/census/1950-united-states-federal-census-ed-37-206.mhtml` | Ancestry 1950 image-viewer save (ED 37-206 index) | P8 |
 | `photos/genealogy/james-benjamin-deveny-family-tree.jpeg`   | James Benjamin family tree            | S2022, W12 context |
 | `photos/genealogy/findagrave-edgar-arthur-deveny.jpeg`      | Edgar memorial + stone                | W13                |
 | `photos/genealogy/findagrave-fern-a-deveny.jpeg`            | Fern memorial + stone                 | W4, W14            |
@@ -111,6 +112,7 @@ Portland Maps originals also live in `sources/ingested/portland-maps/`.
 
 - Any **ground-level historic photo** of the house (porch, street elevation, interior)
 - Original **1940 census sheet** (not just the Ancestry card)
+- Optional crop of **1950** ED 37-206 lines 1–3 (index already P8)
 - **1992 and 1999 deeds**
 - Photos of the **oil tank**, **furnace**, and **1611** transfer if they exist
 - Named photos of **Fern, Edgar**, or later occupants **at this address** (Nola’s W26 portrait is a wedding-page headshot, not a house photo)

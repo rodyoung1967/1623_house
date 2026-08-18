@@ -14,7 +14,7 @@ The high-value **title** records (1992/1999 deeds, Fern probate) are **not** dow
 
 | Search | Where | Why |
 | --- | --- | --- |
-| **1950 census page** | [NARA 1950 search](https://1950census.archives.gov/search/) after getting the ED from [Steve Morse Unified ED Finder](https://stevemorse.org/census/unified.html) (Oregon → Portland → NE 73rd, cross streets Halsey & Broadway) | Bridge from 1940 household (Edgar, Fern, Irene, Nola). Census day **1 Apr 1950** is before Nola’s **31 Dec 1950** wedding (W26), so she should still be listed as DeVeny if at 1623. Name index is incomplete; browse by ED. |
+| **1950 census page** | Ancestry image viewer saved 2026-08-18; NARA browse ED **37-206** | **Done (P8).** Edgar, Fern, Nola at 1623 on 1 Apr 1950; Irene gone; Nola unmarried. Occupancy only. Optional: crop of handwritten lines 1–3. |
 | **1940 original sheet** | [FamilySearch](https://www.familysearch.org/) (free account) — search Edgar Deveney / DeVeny, Portland, 1623 NE 73rd | Upgrade P7 from Ancestry summary to ED/sheet/line |
 | **Oregon Death Index for Fern** | Ancestry / FamilySearch “Oregon, U.S., Death Index, 1898–2008” | Often gives **county**, **certificate no.**, sometimes spouse — search window 18 Jul 1986. SSDI already matches birth 29 Jan 1906, death Jul 1986 ([SortedByName](https://sortedbyname.com/letter_d/deveny/index_4.html)) |
 | **Fern / Edgar full obituaries** | [Newspapers.com](https://www.newspapers.com/) (Oregonian / Journal) | **Edgar death/funeral notices done (W27, W28)** — residence 1623; survivors Fern A., Irene F. Taylor, Nola D. Dowty. Still want a longer narrative obituary if one ran, and **Fern 1986**. |
@@ -83,10 +83,10 @@ Public terminals also have recorded documents 1955–current and a deed index 18
 
 ---
 
-## 4. Census pages: 1940 original + 1950 search
+## 4. Census pages: 1940 original (1950 indexed)
 
-- **1940:** Upgrade P7 from the Ancestry summary screenshot to the enumeration sheet (ED, sheet, line). Occupancy is already the working reading; this makes it 5/5.
-- **1950:** Search [NARA 1950 Census](https://1950census.archives.gov/search/) for **1623 NE 73rd Ave** and Edgar/Fern DeVeny (spellings Deveney / Deveny). Census day **1 Apr 1950** is before Nola’s wedding, so she should still be listed as DeVeny if at 1623. Treat as occupancy, not title.
+- **1940:** Upgrade P7 from the Ancestry summary screenshot to the enumeration sheet (ED, sheet, line). Occupancy is already documented; this makes it 5/5.
+- **1950:** **Done (P8).** ED **37-206**; Edgar, Fern, Nola at 1623; Irene not listed. Optional crop of the handwritten lines. Free copy: [NARA 1950](https://1950census.archives.gov/search/) ED 37-206 (W20).
 
 ## 5. City directories (MCL method)
 

@@ -30,11 +30,11 @@ events:
     prior_reading_not_carried: September 1912 misread
   - id: E1912-owner
     date: "1912"
-    status: working_reading
-    conflict: [C02, C03]
+    status: documented
+    conflict: [C03]
     title: DeVeny named as owner on first plumbing card
     sources: [P1]
-    working_reading: Mr. J. Deveny
+    reading: Mr. J. Deveny
     s2022_reading_not_carried: M. J. Deveny
   - id: E-pre1933-address
     date: before-1933
@@ -63,10 +63,11 @@ events:
     sources: [P3]
   - id: E1950-census
     date: "1950-04-01"
-    status: not_yet_retrieved
-    title: 1950 census occupancy check for 1623 (Edgar/Fern/Irene/Nola)
-    notes: Census day is before Nola's 1950-12-31 wedding (W26)
-    sources: [W20, P7, W26]
+    status: occupancy_documented_not_title
+    title: Edgar A. Deveny household enumerated at 1623
+    household: [Edgar A. Deveny 54 printer, Fenn A. Deveny 44 wife, Nala D. Deveny 16 unmarried daughter]
+    notes: ED 37-206. Indexed Fenn/Nala = Fern/Nola. Irene not listed. Occupancy only (C05 rule).
+    sources: [P8, W20]
   - id: E1950-nola-marriage
     date: "1950-12-31"
     status: documented
