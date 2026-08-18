@@ -1,0 +1,293 @@
+# Machine-readable source register. Human narrative: ../sources.md
+sources:
+  - id: S2022
+    type: compiled_notes
+    title: 1623 NE 73rd Ave (original Word notes)
+    path: sources/ingested/2022-original-notes/1623 NE 73rd Ave.docx
+    created: 2022-01-19
+    modified: 2022-04-11
+    author: Young, Rod
+  - id: S2026
+    type: compiled_report
+    title: House History Evidence Report
+    path: sources/ingested/2026-evidence-report/1623_NE_73rd_Ave_House_History_Evidence_Report_2026-08-16.docx
+    assembled_through: 2026-08-16
+  - id: S2026b
+    type: follow_up_research
+    title: 2026-08-17 follow-up research (owner-supplied)
+    path: sources/ingested/research-notes/2026-08-17-follow-up-research.md
+  - id: S2026c
+    type: compiled_report
+    title: House History Evidence-Based Working Edition 2026-08-17
+    path: sources/ingested/2026-08-17-house-history/1623_NE_73rd_Ave_House_History_2026-08-17.docx
+    extract: sources/ingested/2026-08-17-house-history/extracted-text.txt
+  - id: P1
+    type: primary
+    title: City of Portland plumbing inspection — new dwelling
+    path: photos/permits/1912-plumbing-inspection.png
+    reading_conflict: [C01, C02, C04]
+  - id: P2
+    type: primary
+    title: City of Portland plumbing inspection — 1939 cesspool to sewer
+    path: photos/permits/1939-plumbing-cesspool-to-sewer.png
+  - id: P3
+    type: primary
+    title: City of Portland plumbing inspection — 1947 water service
+    path: photos/permits/1947-plumbing-water-service.png
+    identity_conflict: C06
+  - id: P4
+    type: primary
+    title: Public Works sewer permit 41973
+    path: photos/permits/1939-sewer-permit-41973.png
+  - id: P5
+    type: primary
+    title: Historic sewer/service sketch
+    cite: 529994.pdf page 1
+  - id: P6
+    type: primary
+    title: Oil-burner permit — 275-gallon basement tank
+    path: photos/permits/1966-oil-burner-permit.jpg
+    reading_conflict: [C07, C08, C09]
+  - id: P7
+    type: census_screenshot
+    title: 1940 U.S. Census — Ancestry summary for 1623 NE 73rd
+    path: photos/genealogy/1940-census-edgar-deveney-household.jpeg
+    from: S2022
+    upgrade: original enumeration page
+  - id: O1
+    type: oral_history
+    informant: Rodney A. Young (current owner, firsthand)
+    captured_in: S2026
+  - id: O2
+    type: oral_history
+    informant: next-door neighbor who knew Fern (name not recorded)
+    captured_in: S2022
+  - id: O3
+    type: oral_history
+    informant: Randy and Christine (previous owners/occupants)
+    captured_in: S2022
+  - id: O4
+    type: oral_history
+    informant: unnamed ("I was told")
+    captured_in: S2022
+    topic: oil tank removed 1992-1999 and given to 1611 NE 73rd
+  - id: W1
+    type: secondary_aggregation
+    title: Realtor.com public-record history
+    url: https://www.realtor.com/realestateandhomes-detail/1623-NE-73rd-Ave_Portland_OR_97213_M11432-78291
+  - id: W2
+    type: newspaper_index
+    title: Oregon obituary index — Edgar A. DeVeny
+    url: https://oregonlive.newspapers.com/articles/obituary/1092756795/83066f5e-fc17-4fb3-91f2-e515d785ac0d
+  - id: W3
+    type: cemetery_transcription
+    title: Willamette National Cemetery — Edgar A. DeVeny
+    url: https://www.interment.net/united-states/oregon/multnomah-county/portland/willamette-national-cemetery/transcription/411.php?page=1482&sort=za
+  - id: W4
+    type: findagrave
+    title: Fern A. Farmer DeVeny
+    url: https://www.findagrave.com/memorial/567125/fern_a-deveny
+  - id: W5
+    type: cemetery_transcription
+    title: Willamette National Cemetery — Nola Diane Dowty
+    url: https://www.interment.net/united-states/oregon/multnomah-county/portland/willamette-national-cemetery/transcription/411.php?page=1458&sort=za
+  - id: W6
+    type: newspaper
+    title: Sunday Oregonian 1907-09-29 Schalk Jonesmore ad
+    url: https://oregonnews.uoregon.edu/lccn/sn83045782/1907-09-29/ed-1/seq-16/
+  - id: W7
+    type: newspaper
+    title: Sunday Oregonian 1912-04-07 North Jonesmore
+    url: https://oregonnews.uoregon.edu/lccn/sn83045782/1912-04-07/ed-1/seq-61/
+  - id: W8
+    type: government_guide
+    title: City of Portland public records / historic plumbing
+    url: https://www.portland.gov/ppd/public-records
+  - id: W9
+    type: government_guide
+    title: Multnomah County tax, property, and recorded documents
+    url: https://multco.us/services/tax-property-marriage-and-military-discharge-records
+  - id: W10
+    type: library_guide
+    title: Portland address renumbering (completed 1933)
+    url: https://multcolib.org/who-lived-my-house-getting-started
+  - id: W11
+    type: genealogical_index
+    title: SortedByName Nola Diane Dowty
+    url: https://sortedbyname.com/letter_d/dowty/index_10.html
+  - id: W12
+    type: findagrave
+    title: James Benjamin DeVeny
+    url: https://www.findagrave.com/memorial/189773929/james-benjamin-deveny
+  - id: W13
+    type: findagrave
+    title: Edgar Arthur DeVeny
+    url: https://www.findagrave.com/memorial/567124/edgar-arthur-deveny
+    path: photos/genealogy/findagrave-edgar-arthur-deveny.jpeg
+  - id: W14
+    type: findagrave_screenshot
+    title: Fern A. DeVeny screenshot (parents, birthplace)
+    path: photos/genealogy/findagrave-fern-a-deveny.jpeg
+    same_memorial_as: W4
+  - id: W15
+    type: secondary_aggregation
+    title: Zillow 1623 NE 73rd Ave
+    url: https://www.zillow.com/homedetails/1623-NE-73rd-Ave-Portland-OR-97213/53891405_zpid/
+  - id: W16
+    type: archives_inventory
+    title: Oregon SOS Multnomah County Records Inventory
+    url: https://sos.oregon.gov/archives/county-records-guide/Pages/multnomah-inventory.aspx
+  - id: W17
+    type: government_guide
+    title: Multnomah Circuit Court Records
+    url: https://www.courts.oregon.gov/courts/multnomah/records/pages/default.aspx
+  - id: W18
+    type: government_guide
+    title: Multnomah Recording and Customer Service
+    url: https://multco.us/departments/recording-customer-service
+  - id: W19
+    type: government_guide
+    title: House and Property History Records
+    url: https://multco.us/info/house-and-property-history-records
+  - id: W20
+    type: census_search
+    title: NARA 1950 Census search
+    url: https://1950census.archives.gov/search/
+    status: not_yet_retrieved
+  - id: W21
+    type: library_guide
+    title: Portland city directories — find past residents
+    url: https://multcolib.org/who-lived-my-house-find-past-residents-portland-city-directories
+  - id: W22
+    type: government_guide
+    title: Property Records and Recording (DART home-print cutoff)
+    url: https://multco.us/info/property-records-and-recording
+  - id: W23
+    type: city_directory
+    title: Polk Portland city directory 1956
+    url: https://archive.org/details/polksportlandcity1956porich
+    extract: sources/ingested/research-notes/polk-directories-1956-1959.md
+  - id: W24
+    type: city_directory
+    title: Polk Portland city directory 1957
+    url: https://archive.org/details/polksportlandcity1957porich
+    extract: sources/ingested/research-notes/polk-directories-1956-1959.md
+  - id: W25
+    type: city_directory
+    title: Polk Portland city directory 1959
+    url: https://archive.org/details/polksportlandcity1959rich
+    extract: sources/ingested/research-notes/polk-directories-1956-1959.md
+  - id: W26
+    type: newspaper_clipping
+    title: Oregon Journal 1951-01-12 — Nola Diane DeVeny / Jack Howard Fick
+    path: photos/genealogy/1951-01-12-oregon-journal-nola-deveny-fick-wedding.png
+    ingested: sources/ingested/newspapers/1951-01-12-oregon-journal-nola-deveny-fick-wedding.png
+    extract: sources/ingested/research-notes/1951-01-12-oregon-journal-nola-wedding.md
+    conflict: C17
+  - id: W27
+    type: newspaper_clipping
+    title: Oregon Journal 1969-04-26 — Edgar A. DeVeny death notice
+    path: photos/genealogy/1969-04-26-oregon-journal-edgar-deveny-death-notice.png
+    ingested: sources/ingested/newspapers/1969-04-26-oregon-journal-edgar-deveny-death-notice.png
+    extract: sources/ingested/research-notes/1969-04-edgar-deveny-notices.md
+  - id: W28
+    type: newspaper_clipping
+    title: Oregon Journal 1969-04-28 — Edgar A. DeVeny funeral notice
+    path: photos/genealogy/1969-04-28-oregon-journal-edgar-deveny-funeral-notice.png
+    ingested: sources/ingested/newspapers/1969-04-28-oregon-journal-edgar-deveny-funeral-notice.png
+    extract: sources/ingested/research-notes/1969-04-edgar-deveny-notices.md
+    index: W2
+  - id: W29
+    type: newspaper_clipping
+    title: Oregon Journal 1967-06-07 p.18 — Denise Genevieve Dowty birth
+    path: photos/genealogy/1967-06-07-oregon-journal-denise-dowty-birth.png
+    ingested: sources/ingested/newspapers/1967-06-07-oregon-journal-denise-dowty-birth.png
+    extract: sources/ingested/research-notes/1967-06-07-oregon-journal-denise-dowty-birth.md
+  - id: W30
+    type: newspaper_clipping
+    title: Nola D. DeVeny Weds Saturday — Lloyd Wallace Dowty
+    path: photos/genealogy/1952-nola-deveny-lloyd-dowty-wedding.png
+    ingested: sources/ingested/newspapers/1952-nola-deveny-lloyd-dowty-wedding.png
+    extract: sources/ingested/research-notes/1945-1957-newspaper-clippings.md
+    s2026c: N2
+    notes: S2026c dates paper 1952-09-26 and infers wedding 1952-09-20; disk filename Nov 10 1952
+  - id: W31
+    type: newspaper_clipping
+    title: Oregon Journal 1954-10-06 — Bruce Edgar Dowty born 1954-10-02
+    path: photos/genealogy/1954-10-06-oregon-journal-bruce-edgar-dowty-birth.png
+    ingested: sources/ingested/newspapers/1954-10-06-oregon-journal-bruce-edgar-dowty-birth.png
+    s2026c: N3
+  - id: W32
+    type: newspaper_clipping
+    title: Oregon Journal 1957-02-15 — Diane Fern Dowty born 1957-02-08
+    path: photos/genealogy/1957-02-15-oregon-journal-diane-fern-dowty-birth.png
+    ingested: sources/ingested/newspapers/1957-02-15-oregon-journal-diane-fern-dowty-birth.png
+    s2026c: N4
+  - id: W33
+    type: newspaper_clipping
+    title: James B. DeVeny funeral notice 1945-11-01 — 0214 SW Dakota St
+    path: photos/genealogy/1945-11-01-james-b-deveny-funeral-notice.png
+    ingested: sources/ingested/newspapers/1945-11-01-james-b-deveny-funeral-notice.png
+    s2026c: N8
+    notes: paper title unverified; not 1623
+  - id: M1910s
+    type: aerial
+    title: Portland Archives aerial A2010-001.86 (neighborhood)
+    path: photos/aerials/portland-archives-A2010-001.86-neighborhood.jpeg
+  - id: M1962
+    type: aerial
+    title: Portland Maps aerial 1962
+    path: photos/aerials/Portland Maps 1962.jpg
+  - id: M1975
+    type: aerial
+    title: Portland Maps aerial 1975
+    path: photos/aerials/Portland Maps 1975.jpg
+  - id: M1990
+    type: aerial
+    title: Portland Maps aerial 1990
+    path: photos/aerials/Portland Maps 1990.jpg
+  - id: M1996
+    type: aerial
+    title: Portland Maps aerial 1996 summer
+    path: photos/aerials/Portland Maps 1996 Summer.jpg
+  - id: M1998
+    type: aerial
+    title: Portland Maps aerial 1998 summer
+    path: photos/aerials/Portland Maps 1998 Summer.jpg
+  - id: M1999
+    type: aerial
+    title: Portland Maps aerial 1999 summer
+    path: photos/aerials/Portland Maps 1999 Summer.jpg
+  - id: M2017
+    type: aerial
+    title: Portland Maps aerial PDF 2017 summer
+    path: photos/aerials/Portland Maps Aerial Photo 2017 Summer.pdf
+  - id: M2018
+    type: aerial
+    title: Portland Maps aerial 2018 summer
+    path: photos/aerials/Portland Maps 2018 Summer.jpg
+  - id: M2020
+    type: aerial
+    title: Portland Maps aerial 2020 summer
+    path: photos/aerials/Portland Maps 2020 Summer.jpg
+  - id: M2022
+    type: aerial
+    title: Portland Maps aerial 2022 summer
+    path: photos/aerials/Portland Maps 2022 Summer.jpg
+  - id: M2023
+    type: aerial
+    title: Portland Maps aerial 2023 summer
+    path: photos/aerials/Portland Maps 2023 Summer.jpg
+  - id: M2024
+    type: aerial
+    title: Portland Maps aerial 2024 summer
+    path: photos/aerials/Portland Maps 2024 Summer.jpg
+  - id: M2025
+    type: aerial
+    title: Portland Maps aerial 2025 summer
+    path: photos/aerials/Portland Maps 2025 Summer.jpg
+  - id: PL2018
+    type: plans
+    title: Backyard firepit plans 2018-05-02
+    path: photos/plans/Backyeard Firepit plans - 1623 NE 73rd Ave - May 2 2018 - 3-33 PM.pdf
+    ingested: sources/ingested/plans/Backyeard Firepit plans - 1623 NE 73rd Ave - May 2 2018 - 3-33 PM.pdf

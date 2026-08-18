@@ -1,0 +1,112 @@
+# Structured people register. Human narrative: ../people.md
+people:
+  - id: person-mr-j-deveny
+    name: Mr. J. Deveny
+    alt_readings: [M. J. Deveny]
+    role: named owner on 1912 plumbing card
+    working_reading: Mr. J. Deveny (C02)
+    sources: [P1]
+    conflict: [C02, C03]
+  - id: person-james-benjamin-deveny
+    name: James Benjamin DeVeny
+    lifespan: [1871, 1945]
+    house_claim: possible original owner/occupant
+    sources: [S2022, W12]
+    conflict: C03
+  - id: person-sophia-charlotte-deveny
+    name: Sophia Charlotte DeVeny
+    maiden_name_conflict: [Goodwin, Godwin]
+    lifespan: [1872, 1952]
+    sources: [S2022]
+    conflict: C16
+  - id: person-edgar-arthur-deveny
+    name: Edgar Arthur DeVeny
+    alt_spellings: [Deveney]
+    born: "1895-09-16"
+    died: "1969-04-24"
+    death_place_index: 1623 NE 73rd Ave
+    at_house:
+      - {year: 1940, evidence: head of household, source: P7}
+      - {year: 1956, evidence: Polk directory at 1623 NE 73d, source: W23}
+      - {year: 1957, evidence: Polk directory printer Ivy Press h1623, source: W24}
+      - {year: 1959, evidence: Polk directory and reverse list, phone AL 2-4971, source: W25}
+      - {year: 1966, evidence: oil permit installed for E. A. DeVeny, source: P6}
+      - {year: 1969, evidence: death/funeral notices give residence 1623, source: W27}
+    sources: [P6, P7, W2, W3, W13, W23, W24, W25, W26, W27, W28]
+  - id: person-fern-a-deveny
+    name: Fern A. Farmer DeVeny
+    born: "1906-01-29"
+    died: "1986-07-18"
+    at_house:
+      - {year: 1940, evidence: wife in household, source: P7}
+      - {year: 1956, evidence: Polk directory wife of Edgar at 1623, source: W23}
+      - {year: 1957, evidence: Polk directory wife of Edgar h1623, source: W24}
+      - {year: 1959, evidence: Polk directory wife of Edgar at 1623, source: W25}
+      - {year: 1969, evidence: named wife in Edgar death notice giving his address as 1623, source: W27}
+    sources: [P7, W4, W14, W23, W24, W25, W27, O2]
+    conflict: [C06, C07, C10]
+  - id: person-irene-deveney
+    name: Irene F. Taylor
+    alt_names: [Irene Deveney]
+    at_house:
+      - {year: 1940, evidence: daughter age 17, source: P7}
+    later_name: Irene F. Taylor (Edgar death notice 1969; not listed as of 1623)
+    sources: [P7, W27, S2022]
+  - id: person-nola-deveny-dowty
+    name: Nola Diane DeVeny / Fick / Dowty
+    alt_names: [Nola Deveney, Diana Nola Deveny, Nola D. Fick, Nola D. Dowty]
+    died: "2000-10-09"
+    birth_year_conflict: [1930, 1933]
+    first_marriage:
+      date: "1950-12-31"
+      spouse: Jack Howard Fick
+      source: W26
+    later_marriage:
+      spouse: Lloyd Wallace Dowty
+      child: Diane Fern Dowty
+      named_as_dowty_by: "1969-04-26"
+      sources: [S2022, W5, W27]
+    at_house:
+      - {year: 1940, evidence: daughter age 6, source: P7}
+    grantor_1992:
+      working: Nola D. Dowty sold to Wayne Irvin et al. for $64950 on 1992-12-01
+      sources: [S2022, W1, S2026b]
+    sources: [P7, W1, W5, W11, W26, W27, O1, O2, S2022]
+    conflict: [C11, C12, C15, C17]
+  - id: person-jack-howard-fick
+    name: Jack Howard Fick
+    role: first husband of Nola Diane DeVeny (1950-12-31)
+    parents: George S. Fick(s)
+    sources: [W26]
+    house_claim: not shown as occupant of 1623 on W26
+  - id: person-lloyd-wallace-dowty
+    name: Lloyd Wallace Dowty
+    born: "1926-01-15"
+    died: "2004-07-18"
+    sources: [S2022, W5]
+  - id: person-diane-fern-dowty
+    name: Diane Fern Dowty
+    lifespan: [1957, 1993]
+    sources: [S2022]
+  - id: person-wayne-irvin
+    name: Wayne Irvin
+    role: named 1992 purchaser (et al.)
+    relation: father of Christine M. Irvin
+    sources: [S2022, O1, S2026b]
+    conflict: C12
+  - id: person-christine-m-irvin
+    name: Christine M. Irvin
+    role: 1999 seller; likely 1992 et al. grantee
+    sources: [S2022, O1, W1, S2026b]
+    conflict: C12
+  - id: person-randy
+    name: Randy
+    role: named with Christine as previous owners in S2022
+    sources: [S2022, O3]
+    conflict: C13
+  - id: person-rodney-a-young
+    name: Rodney A. Young
+    role: current owner; compiler of S2022; informant O1
+    purchase: 1999
+    sources: [S2022, O1, W1]
+    conflict: C14

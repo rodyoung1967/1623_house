@@ -1,0 +1,154 @@
+# Structured timeline. Human narrative: ../timeline.md
+property:
+  current_address: 1623 NE 73rd Ave, Portland, OR 97213
+  legal_description: Lots 27 and 28, Block 33, Jonesmore
+  legal_description_sources: [P1, P4]
+  tax_account: R193918
+  tax_account_sources: [S2026b]
+  zillow_zpid: "53891405"
+
+events:
+  - id: E1907
+    date: "1907-09"
+    status: context
+    title: Jonesmore lots marketed; generic build-for-buyer offer
+    certainty: "5/5 context; 1/5 builder of this house"
+    sources: [W6]
+  - id: E1912-boom
+    date: "1912-04-07"
+    status: context
+    title: North Jonesmore building boom reported
+    sources: [W7]
+  - id: E1912-build
+    date: "1912"
+    date_precision: year
+    status: working_reading
+    conflict: C01
+    title: New 1-story frame dwelling plumbing inspection
+    sources: [P1, W1]
+    working_reading: first 1912-09-02; final 1912-09-13
+    s2022_reading_not_carried: first inspection 2/2/1912 (queried)
+  - id: E1912-owner
+    date: "1912"
+    status: working_reading
+    conflict: [C02, C03]
+    title: DeVeny named as owner on first plumbing card
+    sources: [P1]
+    working_reading: Mr. J. Deveny
+    s2022_reading_not_carried: M. J. Deveny
+  - id: E-pre1933-address
+    date: before-1933
+    status: disputed
+    conflict: C04
+    title: Earlier street number 369
+    sources: [P1, W10, S2022]
+  - id: E1939-sewer
+    date: "1939-09-26"
+    status: accepted
+    title: Change from cesspool to sewer; permit 41973
+    certainty: "5/5"
+    sources: [P2, P4, P5]
+  - id: E1940-census
+    date: "1940"
+    status: occupancy_working_not_title
+    conflict: C05
+    title: Edgar Deveney household enumerated at 1623
+    household: [Edgar Deveney 44, Fern Deveney 34, Irene Deveney 17, Nola Deveney 6]
+    sources: [P7, S2022]
+  - id: E1947-water
+    date: "1947-02-07"
+    status: work_accepted_identity_disputed
+    conflict: C06
+    title: Water service replacement; owner Mrs. Deveny
+    sources: [P3]
+  - id: E1950-census
+    date: "1950-04-01"
+    status: not_yet_retrieved
+    title: 1950 census occupancy check for 1623 (Edgar/Fern/Irene/Nola)
+    notes: Census day is before Nola's 1950-12-31 wedding (W26)
+    sources: [W20, P7, W26]
+  - id: E1950-nola-marriage
+    date: "1950-12-31"
+    status: working_reading
+    conflict: C17
+    title: Nola Diane DeVeny married Jack Howard Fick
+    notes: Oregon Journal 1951-01-12. "At home here" is Portland, not 1623 occupancy. Left-hand Monterey wedding is a different couple. S2022 Lloyd-in-1950 not carried.
+    sources: [W26]
+  - id: E1956-dir
+    date: "1956"
+    status: occupancy_working
+    title: Polk directory — Edgar A. (Fern A.) at 1623 NE 73d
+    sources: [W23]
+  - id: E1957-dir
+    date: "1957"
+    status: occupancy_working
+    title: Polk directory — Edgar printer Ivy Press h1623 NE 73d
+    sources: [W24]
+  - id: E1959-dir
+    date: "1959"
+    status: occupancy_working
+    title: Polk directory and reverse list — Edgar A. DeVeny at 1623, AL 2-4971
+    sources: [W25]
+  - id: E1962-aerial
+    date: "1962"
+    status: accepted
+    title: House visible on Portland Maps aerial; 1611 immediately south
+    sources: [M1962]
+  - id: E1966-oil
+    date: "1966"
+    date_precision: month_disputed
+    conflict: [C07, C08]
+    title: Oil burner; 275-gallon basement tank; installed for E. A. DeVeny
+    sources: [P6]
+  - id: E1969-edgar-death
+    date: "1969-04-24"
+    status: accepted
+    title: Edgar A. DeVeny died; notices give residence 1623 NE 73rd Ave
+    sources: [W27, W28, W2, W3, W13, S2026b]
+    death_notice: Oregon Journal 1969-04-26
+    funeral_notice: Oregon Journal 1969-04-28
+    survivors: [Fern A. DeVeny, Irene F. Taylor, Nola D. Dowty]
+  - id: E1986-fern-death
+    date: "1986-07-18"
+    status: date_accepted_place_disputed
+    conflict: C10
+    title: Fern A. DeVeny died
+    sources: [W4, W14, O2]
+  - id: E1986-1992-occupancy
+    date: "1986/1992"
+    status: disputed
+    conflict: C11
+    title: Occupancy between Fern's death and 1992 sale
+    sources: [O1, O2, S2022, S2026]
+  - id: E1992-sale
+    date: "1992-12-01"
+    status: working
+    conflict: [C12, C13]
+    title: Nola D. Dowty sold to Wayne Irvin et al for $64950
+    notes: Wayne is Christine M. Irvin's father (O1). Christine likely among et al. Deed required.
+    sources: [W1, S2022, O1, S2026b]
+  - id: E1992-tenant
+    date: "1992"
+    status: oral
+    title: Tenant-occupied at Christine's purchase; Christine did not later rent it
+    sources: [O1]
+  - id: E1992-1999-tank
+    date: "1992/1999"
+    status: working
+    conflict: C09
+    title: Oil tank removed; given to 1611; possible gas furnace
+    sources: [O4]
+  - id: E1999-sale
+    date: "1999"
+    date_precision: day_disputed
+    conflict: C14
+    title: Sale $127,000 to Rodney A. Young ET AL from Christine M. Irvin
+    s2022_date: "1999-05-01"
+    w1_date: "1999-05-27"
+    owner_recall: summer/July 1999
+    sources: [W1, S2022, O1]
+  - id: E2018-firepit
+    date: "2018-05-02"
+    status: accepted
+    title: Backyard firepit plans
+    sources: [PL2018]
