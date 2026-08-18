@@ -120,7 +120,7 @@ Public records report a sale on **1 Dec 1992** for **$64,950** (W1). That date a
 
 The current owner says the house was tenant-occupied at that purchase and that Christine did **not** rent it afterward (O1). Tenant names are unknown (O1).
 
-Sometime **1992–1999**, an unnamed informant said the oil tank was removed and **given to the owners of 1611 NE 73rd**, likely when a gas furnace was installed (O4). **1611 is the south neighbor**, not this house (M1962). That story is treated as concerning the documented **basement** tank at 1623 (P6), not as proof of a separate underground tank ([decisions.md](decisions.md) C09). A UST, if any, is still a pending record (O1).
+Sometime **1992–1999**, an unnamed informant said the oil tank was removed and **given to the owners of 1611 NE 73rd**, likely when a gas furnace was installed (O4). **1611 is the south neighbor**, not this house (M1962). That tank was the **275-gallon basement tank** documented in 1966 (P6). There was **no underground storage tank** at 1623 ([decisions.md](decisions.md) C09).
 
 Public records report a sale on **27 May 1999** for **$127,000** (W1). The 2022 notes give **1 May 1999**, **Rodney A. Young ET AL**, from **Christine M. Irvin**, same price (S2022). The owner recalls summer or July 1999 (O1). Price is accepted; the exact day and who “ET AL” is remain open (C14).
 

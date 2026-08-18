@@ -31,12 +31,12 @@ Resolved or working calls. Newest at the top. Open items remain in [CONFLICTS.md
 
 ---
 
-## C09 — Basement tank vs UST (split)
+## C09 — Oil tank: basement only; no UST (resolved)
 
-- **Date resolved:** 2026-08-17 (scope of O4 only)
-- **Decision:** The S2022 oral-history note about a tank removed 1992–1999 and given to **1611 NE 73rd** (likely when gas heat was installed) is treated as concerning the **documented 275-gallon basement tank (P6)**, not as proof of a separate underground tank. A UST, if any, remains a separate 1/5 pending-record item (O1).
-- **Relied on:** S2022 O4; P6; S2026b
-- **Still open:** informant for O4; confirmation from 1611 occupants; furnace/tank-removal paperwork; UST records
+- **Date resolved:** 2026-08-18 (owner confirmation closes UST question opened 2026-08-17)
+- **Decision:** 1623 had **one** oil tank: the **275-gallon basement tank** documented on the 1966 permit (P6). There was **no underground storage tank (UST)** at this address. The oral-history note about a tank removed 1992–1999 and given to **1611 NE 73rd** (likely when gas heat was installed) refers to **that basement tank**, not a separate buried tank.
+- **Relied on:** P6; O1 (owner, 2026-08-18: no UST; basement tank only); S2022 O4; S2026b
+- **Still open:** informant for O4; confirmation from 1611 occupants; furnace/tank-removal paperwork
 
 ---
 

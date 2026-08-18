@@ -20,7 +20,7 @@ The high-value **title** records (1992/1999 deeds, Fern probate) are **not** dow
 | **Fern / Edgar full obituaries** | [Newspapers.com](https://www.newspapers.com/) (Oregonian / Journal) | **Edgar death/funeral notices done (W27, W28)** — residence 1623; survivors Fern A., Irene F. Taylor, Nola D. Dowty. Still want a longer narrative obituary if one ran, and **Fern 1986**. |
 | **Polk directories 1956–1959** | Internet Archive copies searched 2026-08-17 | **Done.** Edgar A. (Fern A.) at 1623; 1957 printer at Ivy Press; 1959 reverse list + AL 2-4971. See `sources/ingested/research-notes/polk-directories-1956-1959.md` |
 | **Nola wedding announcement** | *Oregon Journal* 12 Jan 1951 | **Done (W26).** Married Jack Howard Fick 31 Dec 1950. Optional upgrade: county marriage register / license. |
-| **PortlandMaps property profile** | [portlandmaps.com](https://www.portlandmaps.com) → 1623 NE 73rd → Permits & Zoning → Historic Plumbing **and** Underground Storage Tanks | UST tab is the online check for C09; historic plumbing we already have scans of |
+| **PortlandMaps property profile** | [portlandmaps.com](https://www.portlandmaps.com) → 1623 NE 73rd → Permits & Zoning → Historic Plumbing | Historic plumbing scans already in archive; UST closed — no underground tank (C09) |
 | **Oregon Historic Sites Database** | [heritagedata.prd.state.or.us/historic](https://heritagedata.prd.state.or.us/historic/index.cfm?do=v.dsp_main) | Unlikely a hit; one-time check |
 | **HeritageQuest / Ancestry directories** | MCL library card | Reverse listings 1969–1992 not on Archive.org |
 
@@ -112,7 +112,6 @@ County overview of these tools: [House and Property History Records](https://mul
 - 1933 address-change directory for **369 E 73rd Ave N** (C04) — lead only until checked
 - Multnomah marriage register for Nola Diane DeVeny / Jack Howard Fick, 31 Dec 1950 (announcement already W26)
 - Neighbor’s name and date of the O2 conversation
-- Re-read P6 month (C08); 1611 occupants re: basement tank (O4)
-- Gas-furnace permit/invoice; any UST/DEQ file (separate from O4)
+- Gas-furnace permit/invoice for 1992–1999 tank removal (O4)
 - Date/provenance of Portland Archives aerial A2010-001.86
 - Builder still unknown

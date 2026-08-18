@@ -36,8 +36,7 @@ Builder is **unknown**. Schalk is neighborhood context only (W6).
 | Year | Work | Certainty | Source |
 | --- | --- | --- | --- |
 | 1966 | Warm-air oil heat; 275-gallon **basement** tank; installed for E. A. DeVeny | 5/5 permit; 4/5 identity | P6 |
-| 1992–1999? | Basement oil tank removed and given to **1611 NE 73rd**; likely when **gas furnace** installed | oral (O4); working scope = P6 tank | O4, C09 |
-| UST | Extra underground tank not shown on the reviewed 1966 permit | 1/5 pending | O1 |
+| 1992–1999? | Basement oil tank removed and given to **1611 NE 73rd**; likely when **gas furnace** installed | oral (O4) | O4 |
 
 ---
 

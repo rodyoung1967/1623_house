@@ -15,7 +15,7 @@ Oral history is evidence. Each statement keeps an informant, a capture document,
 | Christine did not operate the house as a rental after she bought it | 4/5 oral | |
 | **Wayne Irvin is Christine M. Irvin’s father** | 5/5 oral / firsthand (2026-08-17) | Does not by itself prove 1992 deed parties |
 | Working recollection that Nola held the property before the Irvin purchase | 3/5 after S2022 + W1; deed will lock grantor | C12 working record |
-| Recalls additional underground-storage-tank material not in the current permit set | 1/5 pending record | Separate from O4 basement-tank story |
+| **No underground storage tank (UST)** | 5/5 owner / firsthand (2026-08-18) | Only tank was basement (P6) |
 
 ---
 
@@ -52,7 +52,7 @@ If the 2022 notes accurately captured the conversation, treat these as **strong 
 
 **Captured in:** S2022 (“I was told”)
 
-**Working scope (2026-08-17):** this is about the **275-gallon basement tank on P6**, not a UST.
+**Scope:** the **275-gallon basement tank on P6** — the only oil tank at 1623 (no UST; [decisions.md](decisions.md) C09).
 
 | Statement | Certainty | Notes |
 | --- | --- | --- |

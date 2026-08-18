@@ -47,7 +47,7 @@ sources:
     type: primary
     title: Oil-burner permit — 275-gallon basement tank
     path: photos/permits/1966-oil-burner-permit.jpg
-    reading_conflict: [C07, C08, C09]
+    reading_conflict: [C07, C08]
   - id: P7
     type: census_screenshot
     title: 1940 U.S. Census — Ancestry summary for 1623 NE 73rd

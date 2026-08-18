@@ -235,10 +235,10 @@ Public-record aggregation: **1 Dec 1992**, **$64,950** (5/5 for event/price in W
 
 ### 1992–1999 — Basement oil tank removal / gas furnace (oral)
 
-S2022: tank removed 1992–1999 and given to owners of **1611 NE 73rd**, likely when a gas furnace was installed. Informant not named (O4). **Working call:** this concerns the **P6 basement tank**, not a UST. Underground tank, if any, is still a separate pending record.
+S2022: tank removed 1992–1999 and given to owners of **1611 NE 73rd**, likely when a gas furnace was installed. Informant not named (O4). This was the **P6 basement tank** — the only oil tank at 1623; **no UST** ([decisions.md](decisions.md) C09).
 
 - **Sources:** O4, P6, O1
-- **Status:** **working** for basement-tank scope (C09); informant and paperwork still missing
+- **Status:** oral; informant and removal paperwork still missing
 
 ### 1999 — Sale to current owner
 

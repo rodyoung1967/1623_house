@@ -105,7 +105,7 @@ IDs are stable. New sources get the next number in the same prefix. Machine mirr
 - **Scans:** `photos/permits/1966-oil-burner-permit.jpg` (S2026); `photos/permits/1966-oil-burner-permit-2022-scan.jpeg` (S2022)
 - **S2026 reading:** July 1966; installed for E. A. DeVeny; warm-air heat; 275-gallon basement tank
 - **S2022:** basement oil tank; Edgar (and Fern) still owners
-- **Month and ownership inferences:** C07, C08, C09
+- **Month and ownership inferences:** C07, C08
 
 ### P7 — 1940 U.S. Census household at 1623 NE 73rd (Ancestry summary screenshot)
 

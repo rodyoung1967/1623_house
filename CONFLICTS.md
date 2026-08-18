@@ -4,7 +4,7 @@ Working calls already recorded are in [decisions.md](decisions.md). Items below 
 
 | Working (do not re-argue unless new evidence) | Still open |
 | --- | --- |
-| C01 date, C02 “Mr. J.”, C05 occupancy≠title, C09 basement-tank scope, C12 1992 parties, C17 Nola marriages & name | C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16 |
+| C01 date, C02 “Mr. J.”, C05 occupancy≠title, C09 basement tank only (no UST), C12 1992 parties, C17 Nola marriages & name | C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16 |
 
 Primary scans are in `photos/permits/`. Genealogy screenshots and the Nola clipping are in `photos/genealogy/`.
 
@@ -143,18 +143,9 @@ Screenshot contents (Ancestry 1940 census summary):
 
 ---
 
-## C09 — Basement oil tank vs underground tank vs removal to 1611
+## C09 — Oil tank: basement only; removal to 1611
 
-**Question:** How many tanks were there, and what happened to them?
-
-| | Assertion | Source |
-| --- | --- | --- |
-| A | The oil tank was **removed 1992–1999** and **given to the owners of 1611 NE 73rd**, likely when the **gas furnace** was installed | S2022 note, oral history (“I was told”) — now O4 |
-| B | 1966 permit documents a **275-gallon basement** tank, not an underground tank. Additional UST records recalled by the owner are not in the evidence set (1/5 pending) | S2026, P6, O1 |
-
-**Decided (2026-08-17):** O4 is about the **documented basement tank (P6)**. A separate UST remains unproven. Informant for O4 still unnamed.
-
-**Still useful:** [ ] Confirm with 1611 occupants  [ ] Informant was: ________
+**Decided (2026-08-18):** 1623 had **no underground storage tank**. The only documented tank is the **275-gallon basement tank** on the 1966 permit (P6). Owner confirmation (O1). The O4 story (removed 1992–1999, given to **1611 NE 73rd**, likely at gas-furnace install) refers to that basement tank. Informant for O4 still unnamed; removal paperwork still missing. See [decisions.md](decisions.md).
 
 ---
 

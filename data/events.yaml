@@ -133,10 +133,10 @@ events:
     sources: [O1]
   - id: E1992-1999-tank
     date: "1992/1999"
-    status: working
-    conflict: C09
-    title: Oil tank removed; given to 1611; possible gas furnace
-    sources: [O4]
+    status: oral
+    title: Basement oil tank removed; given to 1611; possible gas furnace
+    notes: P6 basement tank only; no UST (C09 resolved).
+    sources: [O4, P6, O1]
   - id: E1999-sale
     date: "1999"
     date_precision: day_disputed
