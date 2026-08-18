@@ -65,9 +65,10 @@ IDs are stable. New sources get the next number in the same prefix. Machine mirr
 
 - **Type:** Primary municipal record
 - **Scans:** `photos/permits/1912-plumbing-inspection.png` (S2026); `photos/permits/1912-plumbing-inspection-2022-scan.jpeg` (S2022)
-- **Working reading (2026-08-17):** first 9/2/1912, final 9/13/1912; owner “Mr. J. Deveny”
+- **Reading (2026-08-18):** first **3/2/1912**, final **3/13/1913**; owner “Mr. J. Deveny”
 - **S2022 reading (not carried forward):** date `2/2/12?`; owner “M. J. Deveny”
-- **Status:** C01/C02 working readings in [decisions.md](decisions.md); C04 still open
+- **Prior reading (not carried forward):** September 1912 misread
+- **Status:** C01 resolved in [decisions.md](decisions.md); C02/C04 still open
 - **S2026 file cite:** 785317.pdf, page 5
 
 ### P2 — City of Portland plumbing inspection, 1939 cesspool-to-sewer

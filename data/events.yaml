@@ -20,14 +20,14 @@ events:
     title: North Jonesmore building boom reported
     sources: [W7]
   - id: E1912-build
-    date: "1912"
-    date_precision: year
-    status: working_reading
-    conflict: C01
+    date: "1913-03-13"
+    date_note: final inspection; first inspection 1912-03-02
+    status: documented
     title: New 1-story frame dwelling plumbing inspection
     sources: [P1, W1]
-    working_reading: first 1912-09-02; final 1912-09-13
+    reading: first 1912-03-02; final 1913-03-13
     s2022_reading_not_carried: first inspection 2/2/1912 (queried)
+    prior_reading_not_carried: September 1912 misread
   - id: E1912-owner
     date: "1912"
     status: working_reading

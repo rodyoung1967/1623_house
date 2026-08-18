@@ -48,12 +48,14 @@ Resolved or working calls. Newest at the top. Open items remain in [CONFLICTS.md
 
 ---
 
-## C01 — 1912 plumbing-card date (working reading)
+## C01 — 1912 plumbing-card dates (resolved)
 
-- **Date resolved:** 2026-08-17 (working reading of P1)
-- **Decision:** Do **not** carry S2022’s `2/2/12?` forward as the event date. Working reading of the same primary card (P1): first inspection **2 Sep 1912**, final **13 Sep 1912**. S2022 itself marked the February reading with a question mark.
-- **Relied on:** P1; S2026; S2026b
-- **Override:** re-read `photos/permits/1912-plumbing-inspection.png` if you disagree
+- **Date resolved:** 2026-08-18 (owner re-read of P1)
+- **Decision:** Do **not** carry S2022’s `2/2/12?` or the prior September working reading. Reading of `photos/permits/1912-plumbing-inspection.png` (P1):
+  - First inspection **3/2/1912** (2 Mar 1912)
+  - Final inspection **3/13/1913** (13 Mar 1913)
+- **Relied on:** P1; owner re-read (2026-08-18)
+- **Note:** Public-record “built 1912” (W1, W15) may reflect the first-inspection year or an approximate year; the card’s final inspection is **1913**.
 
 ---
 

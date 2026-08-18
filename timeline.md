@@ -34,9 +34,9 @@ Sunday Oregonian (7 Apr 1912) reported many new homes in North Jonesmore and str
 
 Public-record aggregators also list year built 1912 (1,102 sq ft; 5,724 sq ft lot). The plumbing card is the stronger primary source.
 
-- **Certainty:** 5/5 that a new 1-story frame dwelling was inspected on this legal description; inspections **2 Sep 1912** and **13 Sep 1912** (working reading of P1; C01)
+- **Certainty:** 5/5 that a new 1-story frame dwelling was inspected on this legal description; first inspection **2 Mar 1912**, final **13 Mar 1913** (P1; [decisions.md](decisions.md) C01)
 - **Sources:** P1, W1
-- **Status:** accepted as construction; card date is a **working reading** ([decisions.md](decisions.md))
+- **Status:** accepted as construction; aggregators’ “built 1912” may reflect first-inspection year
 
 ### 1912 — A DeVeny is named as owner on the first plumbing card
 

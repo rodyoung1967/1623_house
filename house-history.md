@@ -21,7 +21,7 @@ The builder is unknown. In 1907 George D. Schalk advertised Jonesmore lots and o
 
 ## 1912: a new one-story frame dwelling
 
-A City of Portland plumbing card records a **new one-story frame dwelling** on this legal description (P1). Working reading of that card: first inspection **2 Sep 1912**, final **13 Sep 1912** ([decisions.md](decisions.md) C01). The card lists dwelling use and handwritten fixture and drain notes (P1).
+A City of Portland plumbing card records a **new one-story frame dwelling** on this legal description (P1). First inspection **2 Mar 1912**, final **13 Mar 1913** ([decisions.md](decisions.md) C01). The card lists dwelling use and handwritten fixture and drain notes (P1).
 
 The owner line on the same card is read as **Mr. J. Deveny** ([decisions.md](decisions.md) C02). Identifying that man as James Benjamin DeVeny (1871–1945) is a family lead, not proven (C03; S2022, W12). Sophia Charlotte DeVeny is not named on any permit in this archive (S2022).
 

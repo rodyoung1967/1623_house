@@ -4,7 +4,7 @@ Working calls already recorded are in [decisions.md](decisions.md). Items below 
 
 | Working (do not re-argue unless new evidence) | Still open |
 | --- | --- |
-| C01 date, C02 “Mr. J.”, C05 occupancy≠title, C09 basement tank only (no UST), C12 1992 parties, C17 Nola marriages & name | C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16 |
+| C02 “Mr. J.”, C05 occupancy≠title, C09 basement tank only (no UST), C12 1992 parties, C17 Nola marriages & name, C01 plumbing dates (3/2/1912; 3/13/1913) | C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16 |
 
 Primary scans are in `photos/permits/`. Genealogy screenshots and the Nola clipping are in `photos/genealogy/`.
 
@@ -12,18 +12,7 @@ Primary scans are in `photos/permits/`. Genealogy screenshots and the Nola clipp
 
 ## C01 — Date on the first plumbing inspection
 
-**Question:** When was the original dwelling plumbing inspection?
-
-| | Assertion | Source |
-| --- | --- | --- |
-| A | First inspection about **2/2/1912** (the notes mark the date with a question mark) | S2022 text |
-| B | First inspection **9/2/1912**, final **9/13/1912**. S2026 presents this as a correction: September 1912, not 1913 | S2026, source P1 |
-
-**Primary document:** `photos/permits/1912-plumbing-inspection.png` (and the 2022 scan of the same card).
-
-**Why it matters:** This is the strongest construction-date record. The handwriting on the month is easy to misread (2 vs 9). S2022 itself was already unsure (`2/2/12?`).
-
-**Working reading (2026-08-17):** B — see [decisions.md](decisions.md). Override here if you re-read the card differently.
+**Decided (2026-08-18):** P1 reads **3/2/1912** (first inspection) and **3/13/1913** (final inspection). Prior September-1912 reading and S2022’s `2/2/12?` are not carried forward. See [decisions.md](decisions.md).
 
 ---
 

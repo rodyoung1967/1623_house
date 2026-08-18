@@ -25,7 +25,7 @@ sources:
     type: primary
     title: City of Portland plumbing inspection — new dwelling
     path: photos/permits/1912-plumbing-inspection.png
-    reading_conflict: [C01, C02, C04]
+    reading_conflict: [C02, C04]
   - id: P2
     type: primary
     title: City of Portland plumbing inspection — 1939 cesspool to sewer
