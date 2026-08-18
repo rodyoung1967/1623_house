@@ -4,17 +4,17 @@ Resolved or working calls. Newest at the top. Open items remain in [CONFLICTS.md
 
 ---
 
-## C17 — 1950 marriage is to Jack Howard Fick, not Lloyd (working reading)
+## C17 — Nola: marriages and given name (resolved)
 
-- **Date resolved:** 2026-08-17 (clipping W26; name-order leftover still in CONFLICTS)
-- **Decision:** Do **not** carry S2022’s “married 1950; husband Lloyd” as a single event. Working reading from the *Oregon Journal* “Recent Bride” item (12 Jan 1951):
-  - Bride: **Nola Diane DeVeny** (caption hyphenates De-Veny at a line break)
-  - Married **31 Dec 1950** to **Jack Howard Fick**, son of the **George S. Ficks**
-  - Parents named: **Mr. and Mrs. E. A. DeVeny**
-  - “Now at home here” means the Portland paper’s market, **not** proof she lived at 1623 after the wedding
-- Lloyd Wallace Dowty is a **later** husband (clipping W30; S2026c infers 20 Sept 1952). The left-hand column on the 1951 page (San Carlos Mission, Monterey) is a **different** wedding; do not attach it to Nola.
-- **Relied on:** W26
-- **Still open:** preferred later form **Diana Nola** vs **Nola Diane** (genealogy screenshot vs this clipping and W5); C11 (whether she ever returned to 1623)
+- **Date resolved:** 2026-08-18 (marriage and name-order closed; C11 remains open separately)
+- **Decision:**
+  - **31 Dec 1950** — **Nola Diane DeVeny** married **Jack Howard Fick**, son of the **George S. Ficks** (*Oregon Journal*, 12 Jan 1951, W26). Parents named: **Mr. and Mrs. E. A. DeVeny**.
+  - **~20 Sept 1952** — later marriage to **Lloyd Wallace Dowty** (W30; S2026c infers date from paper 26 Sept 1952). How the Fick marriage ended is not documented.
+  - **Preferred given name:** **Nola Diane** (W26, W5, W27, cemetery). **Diana Nola** on a family-tree screenshot (S2022 image11) is recorded as an alternate only.
+  - “Now at home here” (W26) means the Portland paper’s market, **not** proof she lived at 1623 after the wedding.
+  - Do **not** re-import S2022’s “married 1950; husband Lloyd” as one event.
+- **Relied on:** W26, W30, W5, S2022 image11
+- **Still open (separate):** C11 (whether she ever returned to 1623); exact Dowty wedding day pending W30 masthead check
 
 ---
 

@@ -6,7 +6,7 @@ Only house-relevant facts are treated as claims about 1623. Family dates from Fi
 
 **Later owners / occupants:** [C12](CONFLICTS.md#c12--who-bought-the-house-in-1992), [C13](CONFLICTS.md#c13--who-are-randy--christine).
 
-**Name/date leftovers:** [C15](CONFLICTS.md#c15--nolas-birth-year), [C16](CONFLICTS.md#c16--sophias-maiden-name), [C17](CONFLICTS.md#c17--nolas-given-name-order-and-1950-marriage) (1950 marriage is a working reading; name-order still open).
+**Name/date leftovers:** [C15](CONFLICTS.md#c15--nolas-birth-year), [C16](CONFLICTS.md#c16--sophias-maiden-name).
 
 ---
 
@@ -92,9 +92,9 @@ One person. Occupant as a child; 1992 grantor as Nola D. Dowty.
 
 - **1940 census:** daughter, age 6, at 1623 (P7)
 - **Birth year:** 1933 (S2022, W5, Lloyd tree) vs 1930 (W11) vs ~1933–34 from census — C15
-- **Given name in 1951 paper:** **Nola Diane DeVeny** (W26). Later tree screenshot uses **Diana Nola** — leftover C17
-- **First marriage (working):** **31 Dec 1950** to **Jack Howard Fick**, son of George S. Fick(s); *Oregon Journal* 12 Jan 1951, p. 15 (W26)
-- **Second marriage (working):** **Lloyd Wallace Dowty**, son of Mr. and Mrs. Willard D. Dowty; “Nola D. DeVeny Weds Saturday,” Grant Park Baptist (W30). S2026c dates the paper 26 Sept 1952 and infers **20 Sept 1952**. How the Fick marriage ended is not documented
+- **Given name:** **Nola Diane** (W26, W5, W27). Alternate **Diana Nola** on family-tree screenshot (S2022)
+- **First marriage:** **31 Dec 1950** to **Jack Howard Fick**, son of George S. Fick(s); *Oregon Journal* 12 Jan 1951, p. 15 (W26)
+- **Second marriage:** **Lloyd Wallace Dowty**, son of Mr. and Mrs. Willard D. Dowty; “Nola D. DeVeny Weds Saturday,” Grant Park Baptist (W30). S2026c dates the paper 26 Sept 1952 and infers **20 Sept 1952** (masthead unverified). How the Fick marriage ended is not documented
 - **Children:** **Bruce Edgar** born 2 Oct 1954 (W31; 1957 notice calls him Bruce Lloyd, W32); **Diane Fern** born 8 Feb 1957 (W32); **Denise Genevieve** born 23 May 1967, parents **of Milwaukie** (W29)
 - **1969:** Edgar’s death notice names **Nola D. Dowty** as daughter, not as of 1623 (W27)
 - **Neighbor (O2):** never moved back with Lloyd and Diane (C11)

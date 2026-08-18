@@ -183,7 +183,6 @@ sources:
     path: photos/genealogy/1951-01-12-oregon-journal-nola-deveny-fick-wedding.png
     ingested: sources/ingested/newspapers/1951-01-12-oregon-journal-nola-deveny-fick-wedding.png
     extract: sources/ingested/research-notes/1951-01-12-oregon-journal-nola-wedding.md
-    conflict: C17
   - id: W27
     type: newspaper_clipping
     title: Oregon Journal 1969-04-26 — Edgar A. DeVeny death notice

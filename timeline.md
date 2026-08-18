@@ -115,13 +115,10 @@ Census day was **1 Apr 1950**, eight months **before** Nola’s 31 Dec 1950 wedd
 
 > Mrs. Jack Howard Fick (Nola Diane De-Veny), who was married December 31, is now at home here. Her parents are Mr. and Mrs. E. A. DeVeny. Mr. Fick is the son of the George S. Ficks.
 
-The adjacent left-hand wedding (San Carlos Mission, Monterey) is a **different** couple.
-
-Later she used **Fick** then **Dowty** (Lloyd Wallace Dowty; daughter Diane Fern Dowty, 1957–1993). Nola Diane Dowty died **9 Oct 2000**. Birth year 1933 vs 1930 is C15. Whether she ever returned to 1623 is C11.
+Later she married **Lloyd Wallace Dowty** (~Sept 1952, W30). Nola Diane Dowty died **9 Oct 2000**. Birth year 1933 vs 1930 is C15. Whether she ever returned to 1623 is C11.
 
 - **Certainty:** 5/5 for names and 31 Dec 1950 marriage; 4/5 that “here” is Portland; **not** used as 1623 occupancy after the wedding
-- **Sources:** W26, W5, W11, O2, S2022
-- **Status:** **working** ([decisions.md](decisions.md) C17). S2022’s “1950 / husband Lloyd” is not carried forward
+- **Sources:** W26, W5, W30
 
 ### 20 Sept 1952? — Nola marries Lloyd Wallace Dowty
 

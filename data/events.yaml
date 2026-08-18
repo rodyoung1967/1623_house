@@ -69,10 +69,9 @@ events:
     sources: [W20, P7, W26]
   - id: E1950-nola-marriage
     date: "1950-12-31"
-    status: working_reading
-    conflict: C17
+    status: documented
     title: Nola Diane DeVeny married Jack Howard Fick
-    notes: Oregon Journal 1951-01-12. "At home here" is Portland, not 1623 occupancy. Left-hand Monterey wedding is a different couple. S2022 Lloyd-in-1950 not carried.
+    notes: Oregon Journal 1951-01-12. "At home here" is Portland, not 1623 occupancy.
     sources: [W26]
   - id: E1956-dir
     date: "1956"

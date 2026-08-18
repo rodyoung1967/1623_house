@@ -4,7 +4,7 @@ Working calls already recorded are in [decisions.md](decisions.md). Items below 
 
 | Working (do not re-argue unless new evidence) | Still open |
 | --- | --- |
-| C01 date, C02 “Mr. J.”, C05 occupancy≠title, C09 basement-tank scope, C12 1992 parties, C17 1950 = Fick not Lloyd | C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16, C17 name-order |
+| C01 date, C02 “Mr. J.”, C05 occupancy≠title, C09 basement-tank scope, C12 1992 parties, C17 Nola marriages & name | C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16 |
 
 Primary scans are in `photos/permits/`. Genealogy screenshots and the Nola clipping are in `photos/genealogy/`.
 
@@ -257,28 +257,14 @@ Screenshot contents (Ancestry 1940 census summary):
 
 ---
 
-## C17 — Nola’s given-name order and 1950 marriage
+## C17 — Nola’s marriages and given name
 
-**Question:** Name and first marriage.
-
-| | Assertion | Source |
-| --- | --- | --- |
-| A | Daughter **Nola**, married **1950**, husband **Lloyd**, daughter **Diane** | S2022 |
-| B | **Nola Diane Dowty**, also **Nola D. Fick**, wife of **Lloyd W. Dowty**, died 10/9/2000 | S2026, W5, W11 |
-| C | Genealogy screenshot: **Diana Nola Deveny** (1933–2000), child **Diane Fern Dowty** (1957–1993); Lloyd Wallace Dowty (1926–2004) | S2022 image11 |
-| D | *Oregon Journal* 12 Jan 1951: **Mrs. Jack Howard Fick (Nola Diane DeVeny)**, married **December 31**, now at home here; parents **Mr. and Mrs. E. A. DeVeny**; groom’s parents **George S. Ficks** | W26 |
-| E | “Nola D. DeVeny Weds Saturday”: **Lloyd Wallace Dowty**; S2026c dates paper 26 Sept 1952 and infers **20 Sept 1952** | W30, S2026c |
-
-**Working reading (2026-08-17):** D for the **1950** marriage — **31 Dec 1950** to **Jack Howard Fick**, not Lloyd. Later marriage to Lloyd is W30 (1952 clipping). S2022 conflated the year with the later Dowty marriage. See [decisions.md](decisions.md).
-
-**Still open:** preferred later name form (**Nola Diane** vs **Diana Nola**); exact Dowty wedding day depends on verifying W30’s masthead (filename says Nov 10 1952).
-
-**Your call:** Preferred later name form: ________
+**Decided (2026-08-18):** First marriage **31 Dec 1950** to **Jack Howard Fick** (W26). Later marriage to **Lloyd Wallace Dowty** (~Sept 1952, W30). Standard given name **Nola Diane**; **Diana Nola** is an alternate from a family-tree screenshot. S2022’s “1950 / Lloyd” conflation is closed. See [decisions.md](decisions.md).
 
 ---
 
 ## How to answer
 
-Remaining high-value calls: **C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16**, plus C17’s leftover name-order preference.
+Remaining high-value calls: **C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16**.
 
 Reply with the conflict ID and your call. I will move it to `decisions.md`.

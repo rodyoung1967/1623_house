@@ -72,7 +72,7 @@ people:
       working: Nola D. Dowty sold to Wayne Irvin et al. for $64950 on 1992-12-01
       sources: [S2022, W1, S2026b]
     sources: [P7, W1, W5, W11, W26, W27, O1, O2, S2022]
-    conflict: [C11, C12, C15, C17]
+    conflict: [C11, C12, C15]
   - id: person-jack-howard-fick
     name: Jack Howard Fick
     role: first husband of Nola Diane DeVeny (1950-12-31)
