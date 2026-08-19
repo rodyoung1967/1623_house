@@ -50,13 +50,6 @@ IDs are stable. New sources get the next number in the same prefix. Machine mirr
 - **Plaintext extract:** `sources/ingested/2026-08-17-house-history/extracted-text.txt`
 - **Use:** Nola–Lloyd marriage date; Dowty children’s birth notices; James B. DeVeny 1945 Dakota address. Its N1–N8 map to W26, W30–W33, W29, W27, W28. Does **not** include Polk 1956–1959 (W23–W25) already in this archive.
 
-
-- **File:** `sources/ingested/research-notes/2026-08-17-follow-up-research.md`
-- **Type:** Second-pass synthesis vs S2022/S2026, plus owner addendum (Wayne is Christine’s dad)
-- **Use:** working 1992 wording; R193918; Edgar Journal index date; Fern probate/recorder search path; stronger reading of the neighbor interview
-- **Companion excerpt:** `sources/ingested/research-notes/multnomah-probate-inventory-excerpt.md`
-- **Guides added 2026-08-17:** W19–W22 — see `sources/ingested/research-notes/2026-08-17-research-guides.md`
-
 ---
 
 ## Primary property records
