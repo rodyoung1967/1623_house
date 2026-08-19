@@ -11,8 +11,9 @@ people:
     name: James Benjamin DeVeny
     lifespan: [1871, 1945]
     house_claim: possible original owner/occupant
-    sources: [S2022, W12]
+    sources: [S2022, W12, W33]
     conflict: C03
+    residence_at_death_notice: 0214 SW Dakota St
   - id: person-sophia-charlotte-deveny
     name: Sophia Charlotte DeVeny
     maiden_name_conflict: [Goodwin, Godwin]
@@ -24,7 +25,8 @@ people:
     alt_spellings: [Deveney]
     born: "1895-09-16"
     died: "1969-04-24"
-    death_place_index: 1623 NE 73rd Ave
+    residence_at_death_notice: 1623 NE 73rd Ave
+    death_place: not documented
     at_house:
       - {year: 1940, evidence: head of household, source: P7}
       - {year: 1950, evidence: head age 54 printer at 1623, source: P8}
@@ -38,6 +40,10 @@ people:
     name: Fern A. Farmer DeVeny
     born: "1906-01-29"
     died: "1986-07-18"
+    death_at_house:
+      status: strong_oral_history_documentary_confirmation_pending
+      source: O2
+      conflict: C10
     at_house:
       - {year: 1940, evidence: wife in household, source: P7}
       - {year: 1950, evidence: wife age 44 indexed Fenn A., source: P8}
@@ -66,17 +72,21 @@ people:
       spouse: Jack Howard Fick
       source: W26
     later_marriage:
+      date: "1952-09-20"
+      date_status: working_inference_from_1952-09-26_clipping
       spouse: Lloyd Wallace Dowty
-      child: Diane Fern Dowty
+      children: [Bruce Edgar / Bruce Lloyd Dowty, Diane Fern Dowty, Denise Genevieve Dowty]
       named_as_dowty_by: "1969-04-26"
-      sources: [S2022, W5, W27]
+      sources: [W30, W31, W32, W29, W27, W5, S2026c]
     at_house:
       - {year: 1940, evidence: daughter age 6, source: P7}
       - {year: 1950, evidence: unmarried daughter age 16 indexed Nala D., source: P8}
+    residence_elsewhere:
+      - {year: 1967, evidence: Mr. and Mrs. Lloyd Wallace Dowty reported of Milwaukie, source: W29}
     grantor_1992:
       working: Nola D. Dowty sold to Wayne Irvin et al. for $64950 on 1992-12-01
       sources: [S2022, W1, S2026b]
-    sources: [P7, P8, W1, W5, W11, W26, W27, O1, O2, S2022]
+    sources: [P7, P8, W1, W5, W11, W26, W27, W29, W30, W31, W32, O1, O2, S2022, S2026c]
     conflict: [C11, C12, C15]
   - id: person-jack-howard-fick
     name: Jack Howard Fick
@@ -88,11 +98,32 @@ people:
     name: Lloyd Wallace Dowty
     born: "1926-01-15"
     died: "2004-07-18"
-    sources: [S2022, W5]
+    spouse: Nola Diane DeVeny / Fick / Dowty
+    parents: Mr. and Mrs. Willard D. Dowty
+    children: [Bruce Edgar / Bruce Lloyd Dowty, Diane Fern Dowty, Denise Genevieve Dowty]
+    residence_1967: Milwaukie
+    sources: [S2022, W5, W29, W30, W31, W32, O2]
+    house_claim: not shown as occupant of 1623 in these records
+  - id: person-bruce-dowty
+    name: Bruce Edgar Dowty
+    alt_names: [Bruce Lloyd Dowty]
+    born: "1954-10-02"
+    sources: [W31, W32]
+    house_claim: not shown as occupant of 1623
   - id: person-diane-fern-dowty
     name: Diane Fern Dowty
-    lifespan: [1957, 1993]
-    sources: [S2022]
+    born: "1957-02-08"
+    died: "1993"
+    death_source_status: S2022 family tree only
+    sources: [W32, S2022]
+    house_claim: not shown as occupant of 1623
+  - id: person-denise-genevieve-dowty
+    name: Denise Genevieve Dowty
+    born: "1967-05-23"
+    birth_hospital: Bess Kaiser Hospital
+    parents_residence_at_birth: Milwaukie
+    sources: [W29]
+    house_claim: not shown as occupant of 1623
   - id: person-wayne-irvin
     name: Wayne Irvin
     role: named 1992 purchaser (et al.)
@@ -102,6 +133,10 @@ people:
   - id: person-christine-m-irvin
     name: Christine M. Irvin
     role: 1999 seller; likely 1992 et al. grantee
+    purchase_context:
+      tenant_occupied_when_bought: true
+      rented_after_purchase: false
+      source: O1
     sources: [S2022, O1, W1, S2026b]
     conflict: C12
   - id: person-randy
