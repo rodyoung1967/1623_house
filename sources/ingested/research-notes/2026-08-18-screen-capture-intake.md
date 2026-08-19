@@ -2,60 +2,150 @@
 
 Source commit: `04126ebeac2f103153cbb0e332e283b907d20f6b` (`new photos`).
 
-This note records the latest screen captures after archival organization. The binary files were moved from repository root into canonical `sources/ingested/` locations and, where useful for daily work, mirrored under `photos/genealogy/` using the same Git blob. No image was recompressed and no source content was discarded.
+This note records the intake status after **visual review and integration**. The underlying binary files remain preserved in canonical `sources/ingested/` locations and, where useful, mirrored under `photos/genealogy/` without recompression.
 
-## Evidence rule for this intake
+The detailed visual transcription for the integrated material is now:
 
-The GitHub connector used for this processing pass can preserve and identify the binary files but cannot expose their pixels for reliable visual transcription. Therefore **no historical claim is created or conflict closed from a filename alone**. Filename wording is retained as user-supplied provenance/intake metadata only. Each capture below remains `needs-visual-transcription` until its visible text, date, page/masthead, names, addresses, and context are checked.
+**`sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md`**
 
-## Census / NARA material
+Machine status mirror: **`data/screen-capture-intake-2026-08-18.yaml`**.
 
-### 1940 Census 1623 capture
-- Original upload: `1940 Census 1623.png`
-- Git blob: `102b6feeff986d69450f1826a3c78cca0f2817eb`
-- Canonical original: `sources/ingested/census/1940-census-1623-page-capture.png`
-- Working copy: `photos/genealogy/1940-census-1623-page-capture.png`
-- Candidate relationship: potential upgrade to `P7`, which is currently only an Ancestry summary screenshot.
-- Must verify visually: enumeration district, sheet/page, line numbers, street and house number, household names, owned/rented field, home value/rent, and all other fields actually visible.
-- Do not upgrade P7 to original-sheet status until that check is complete.
+---
 
-### NARA 1940 enumeration-district description save
-- Original upload: `1940 Census Enumeration District Descriptions - Oregon - Multnomah County - ED 37-228, ED 37-229, ED 37-230.htm`
-- Git blob: `ab6d3245e367610c9e6feec1a15d30f687376f84`
-- Canonical path: `sources/ingested/census/1940-nara-ed-descriptions-37-228-37-230.htm`
-- Saved from National Archives Catalog ID `5878834`.
-- The saved page explicitly describes `OR ED 37-228`, `OR ED 37-229`, and `OR ED 37-230` as Portland City enumeration districts in election precincts 164/165.
-- Important limitation: this finding-aid page by itself does **not** establish which of those EDs contains 1623 NE 73rd Ave. That link must come from the census page/address or an ED map/street-boundary check.
+## Integrated results
 
-## Newspaper and genealogy captures
+### SC-001 — 1940 Census 1623 capture → P7
 
-| Intake item | Canonical working copy | Possible existing relationship | Required follow-up |
-| --- | --- | --- | --- |
-| `945-11-01-james-b-deveny-funeral-notice  part 2.png` | `photos/genealogy/1945-11-01-james-b-deveny-funeral-notice-part-2.png` | Compare with `W33` | Determine whether this is continuation/alternate crop of W33; transcribe survivors, residence, publication/date/page. |
-| `Denise Genevieve Dowty Birth Notice Oregonian.png` | `photos/genealogy/1967-denise-genevieve-dowty-birth-notice-oregonian.png` | Compare with `W29` | W29 is currently an *Oregon Journal* 7 Jun 1967 notice. Determine whether this is a separate *Oregonian* notice or only an alternate/mislabeled capture before assigning a new source ID. |
-| `Deveney Oregon Journal September 21, 1920.png` | `photos/genealogy/1920-09-21-oregon-journal-deveney.png` | New candidate source | Transcribe the DeVeny name(s), address(es), event, and page. Assess relevance to `C03` / early DeVeny family identification only after text is known. |
-| `Fern Funeral Notice Oregonian.png` | `photos/genealogy/fern-deveny-funeral-notice-oregonian.png` | New high-priority candidate | Transcribe exact date/page, residence, place-of-death wording if any, survivors and service details. Highest priority for `C10` (Fern at 1623 / death in house). Do not treat a funeral notice as proof of place of death unless it explicitly says so. |
-| `Irene Funeral Notice.png` | `photos/genealogy/irene-f-taylor-funeral-notice.png` | New candidate source | Identify publication/date and confirm whether this is Edgar and Fern's daughter Irene F. Taylor; extract residence, spouse/children, dates, and family links. |
-| `James B Deveny Funeral Notice Oregonian.png` | `photos/genealogy/1945-james-b-deveny-funeral-notice-oregonian.png` | Compare with `W33` | Determine whether this is W33 from another crop/publication or a distinct notice. The filename's `Oregonian` label is not treated as verified masthead evidence until checked. |
-| `Nola Deveny Marriage Licence to Lloyd Oregonian.png` | `photos/genealogy/1952-nola-deveny-lloyd-dowty-marriage-license-oregonian.png` | New candidate source | Determine whether it records a license application/issuance or completed marriage; transcribe date and parties. Could resolve the exact 1952 Dowty marriage date, but a license date must not be substituted for a wedding date. |
-| `Nola Deveny Wedding to Lloyd Oregonian.png` | `photos/genealogy/1952-nola-deveny-lloyd-dowty-wedding-oregonian.png` | Compare with `W30` | Verify masthead/publication date and wedding date. W30 currently has a working 20 Sep 1952 inference from a supposed 26 Sep clipping; this capture may confirm or correct that. |
-| `Sophia Devny.png` | `photos/genealogy/sophia-deveny-capture.png` | New candidate / document type unknown | Identify what record/site is shown and transcribe name spelling, dates, relationships and maiden name. Relevant to `C16` only if the source actually supplies the maiden name. |
-| `Sophie Devny Obituary Oregonian.png` | `photos/genealogy/sophia-deveny-obituary-oregonian.png` | New candidate source | Transcribe exact name spelling, publication/date/page, residence, spouse/children, maiden-name wording if present. Could bear on `C03` and `C16`; do not infer parcel ownership from family relationship alone. |
+**Status: integrated / P7 upgraded.**
 
-Canonical originals for the newspaper captures are in `sources/ingested/newspapers/`; the Sophia non-obituary capture is in `sources/ingested/genealogy/`.
+The image is the original 1940 population schedule, not merely a summary:
 
-## What can be accepted now
+- NARA display NAID **137524984**
+- Oregon, Multnomah County, Portland
+- **ED 37-308**
+- **Sheet 1A**
+- Enumerated **2 Apr 1940**
+- DeVeny household **lines 16–19**
+- House number **1623**
+- Edgar 44, Fern 34, Irene 17, Nola 6
+- Edgar's row reports **O (owned)**, home value **$1,500**, farm **No**
 
-1. The repository now contains a higher-resolution / page-style 1940 census capture candidate in addition to the older P7 summary.
-2. The NARA saved page is a valid finding aid for ED 37-228 through 37-230, but it does not yet link 1623 to a specific ED.
-3. The new captures create concrete follow-up evidence paths for Fern, Irene, James/Sophia, the 1920 DeVeny family, Nola/Lloyd's 1952 marriage, and Denise's 1967 notice.
-4. No existing historical conclusion is overturned by this intake pass, because the image text has not yet been visually verified.
+C05 remains the evidence rule: this is strong contemporary census-reported tenure but not a substitute for a recorded deed.
 
-## Close-out checklist
+### SC-002 — NARA ED descriptions 37-228 through 37-230
 
-After visual transcription, for each item:
-1. decide whether it is a new source or an alternate capture of an existing `W#`/`P#`;
-2. add or update the stable source ID in `sources.md` and `data/sources.yaml`;
-3. add a short plaintext transcription/summary under `sources/ingested/research-notes/`;
-4. update `timeline.md`, `people.md`, `house-history.md`, `CONFLICTS.md` / `decisions.md`, and YAML mirrors only for claims actually supported;
-5. remove the corresponding `needs-visual-transcription` item from this intake note once integrated.
+**Status: preserved finding aid; not used to identify the house's ED.**
+
+The actual P7 census page independently establishes **ED 37-308**. The saved NARA page describing ED 37-228/229/230 remains in the archive but is not the address-to-ED evidence for 1623.
+
+### SC-003 — James B. DeVeny funeral-notice part 2
+
+**Status: alternate/continuation crop; no separate stable ID solely for the crop.**
+
+It remains preserved and associated with the W33/W35 James B. DeVeny 1945 material.
+
+### SC-004 — Denise Genevieve Dowty birth notice → W38
+
+**Status: integrated as W38.**
+
+The *Oregonian* notice reports **25 May 1967**. Existing W29, *Oregon Journal*, reports **23 May 1967**. The family identity is consistent, but the birth date conflicts by two days. New conflict **C18** requires a primary birth record.
+
+### SC-005 — Oregon Journal, 21 Sep 1920 → W34
+
+**Status: integrated as W34.**
+
+Death notice for **James Goodwin** identifies his daughter as **Mrs. Sophia DeVeny of 102 Dakota Street**. This is contemporary evidence resolving **C16** in favor of **Goodwin**, rather than the later family-tree spelling Godwin.
+
+### SC-006 — Fern funeral/obituary notice → W39
+
+**Status: integrated as W39.**
+
+*Oregonian*, 22 Jul 1986:
+
+- Fern A. DeVeny died **18 Jul 1986 at Friendship Care Center**
+- age 80
+- obituary reports birthplace **Cambridge, Idaho**
+- Portland resident since youth
+- active in square-dance clubs; enjoyed gardening
+- married 48 years to Edgar, who died in 1969
+- daughters **Irene Fern Taylor of Portland** and **Nola Diane Dowty of Milwaukie**
+- four grandchildren
+- burial Willamette National Cemetery
+
+This resolves **C10**: Fern did **not** die at 1623. O2's place-of-death memory is contradicted. The neighbor's identification of the elderly woman as **Fern** remains the accepted working conclusion and is strengthened by the broader timeline (**C19**).
+
+W39 creates **C20**, because its Cambridge, Idaho birthplace conflicts with W14/Find a Grave's Midvale, Idaho.
+
+### SC-007 — Irene funeral notice → W40
+
+**Status: integrated as W40.**
+
+The 17 Sep 1987 *Oregonian* obituary identifies **Irene Fern DeVeny Taylor**, age 65, and records Grant High/UO attendance, World War II shipyard welding, Oregon Journal classified-ad work, Ikebana activity, husband Roy, son Jeff, and sister **Nola Dowty of Milwaukie**.
+
+For the house history, the major value is the independent 1987 Milwaukie residence evidence for Nola.
+
+### SC-008 — James Benjamin DeVeny Oregonian obituary → W35
+
+**Status: integrated as W35.**
+
+*Oregonian*, 2 Nov 1945:
+
+- James Benjamin DeVeny died at home **0214 SW Dakota Street**
+- born **14 Aug 1871**, Memphis, Tennessee
+- came to Portland about 61 years earlier
+- 53rd wedding anniversary celebrated the previous year
+- sons include **E. A., L. R., and Howard DeVeny**
+- nine grandchildren
+
+This strengthens the family reconstruction but does not by itself identify the 1912 `Mr. J. Deveny` on P1 (C03 still open).
+
+### SC-009 — Nola/Lloyd marriage-license listing → W36
+
+**Status: integrated as W36.**
+
+*Oregonian*, 4 Nov 1952, Portland Marriage Licenses:
+
+- **Lloyd W. Dowty, 4807 N.E. 75th**
+- **Nola D. DeVeny, 1623 N.E. 73d**
+
+This is direct address-specific evidence that Nola was using 1623 as her residence immediately before the Dowty wedding. It is a license listing, not itself the wedding date.
+
+### SC-010 — Nola/Lloyd wedding article → W37
+
+**Status: integrated as W37.**
+
+*Oregonian*, 11 Nov 1952, says **Nola Diane DeVeny married Lloyd Wallace Dowty on 8 Nov 1952** at Grant Park Baptist Church. Her parents are Mr. and Mrs. Edgar A. DeVeny; his are Mr. and Mrs. Willard D. Dowty.
+
+This corrects the prior September-1952 inference in W30/S2026c. C17 is corrected/resolved to **8 Nov 1952**.
+
+---
+
+## Still pending for additional family detail
+
+### SC-011 — Sophia capture
+
+- Canonical: `sources/ingested/genealogy/sophia-deveny-capture.png`
+- Working: `photos/genealogy/sophia-deveny-capture.png`
+- **Status:** needs visual transcription only if we want additional dates/residences/relationships.
+- **Note:** C16 is already resolved as **Goodwin** from W34.
+
+### SC-012 — Sophia/Sophie obituary capture
+
+- Canonical: `sources/ingested/newspapers/sophia-deveny-obituary-oregonian.png`
+- Working: `photos/genealogy/sophia-deveny-obituary-oregonian.png`
+- **Status:** needs visual transcription for additional family detail.
+- **Caution:** do not infer parcel ownership unless the clipping itself supplies an address/property link.
+
+---
+
+## Archive updates completed from this intake
+
+- P7 upgraded from census summary to original schedule metadata.
+- W34–W40 assigned and entered in `sources.md` / `data/sources.yaml`.
+- `house-history.md`, `timeline.md`, `people.md`, `oral-history.md`, `decisions.md`, and `CONFLICTS.md` updated.
+- `data/events.yaml` and `data/people.yaml` updated.
+- `photos.md` updated.
+- `research-queue.md` updated.
+- Master remaining-record checklist created as **`needed-records.md`**.
+
+The highest-value unresolved work is now title/probate and the **1969–1992 occupancy gap**, not transcription of the already integrated screenshots.
