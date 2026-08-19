@@ -55,6 +55,12 @@ events:
     title: Edgar Deveney household enumerated at 1623
     household: [Edgar Deveney 44, Fern Deveney 34, Irene Deveney 17, Nola Deveney 6]
     sources: [P7, S2022]
+  - id: E1945-james-address
+    date: "1945-11-01"
+    status: accepted
+    title: James B. DeVeny funeral notice gives home 0214 SW Dakota St, not 1623
+    notes: Occupancy at death; does not resolve whether he was the 1912 Mr. J. Deveny (C03).
+    sources: [W33, S2026c]
   - id: E1947-water
     date: "1947-02-07"
     status: work_accepted_identity_disputed
@@ -74,11 +80,30 @@ events:
     title: Nola Diane DeVeny married Jack Howard Fick
     notes: Oregon Journal 1951-01-12. "At home here" is Portland, not 1623 occupancy.
     sources: [W26]
+  - id: E1952-nola-dowty-marriage
+    date: "1952-09-20"
+    date_precision: working_inference
+    status: working
+    title: Nola Diane DeVeny married Lloyd Wallace Dowty
+    notes: S2026c infers 20 Sep from a clipping dated 26 Sep 1952; verify the W30 masthead. How the Fick marriage ended is not documented.
+    sources: [W30, S2026c]
+  - id: E1954-bruce-birth
+    date: "1954-10-02"
+    status: accepted
+    title: Bruce Edgar Dowty born
+    notes: W31 calls him Bruce Edgar; W32 later calls the brother Bruce Lloyd. Family event, not evidence of 1623 occupancy.
+    sources: [W31, W32]
   - id: E1956-dir
     date: "1956"
     status: occupancy_working
     title: Polk directory — Edgar A. (Fern A.) at 1623 NE 73d
     sources: [W23]
+  - id: E1957-diane-birth
+    date: "1957-02-08"
+    status: accepted
+    title: Diane Fern Dowty born
+    notes: Family event, not evidence of 1623 occupancy.
+    sources: [W32]
   - id: E1957-dir
     date: "1957"
     status: occupancy_working
@@ -100,6 +125,12 @@ events:
     conflict: [C07, C08]
     title: Oil burner; 275-gallon basement tank; installed for E. A. DeVeny
     sources: [P6]
+  - id: E1967-denise-birth
+    date: "1967-05-23"
+    status: accepted
+    title: Denise Genevieve Dowty born; parents reported of Milwaukie
+    notes: Establishes the Lloyd and Nola Dowty household in Milwaukie in 1967. Supports a separate household but does not prove Nola never later returned to 1623 (C11).
+    sources: [W29, W27]
   - id: E1969-edgar-death
     date: "1969-04-24"
     status: accepted
