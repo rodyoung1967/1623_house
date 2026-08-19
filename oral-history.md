@@ -1,6 +1,6 @@
 # Oral history
 
-Oral history is evidence. Each statement keeps an informant, a capture document, and a certainty. It is not “less than” a permit; it is a different type.
+Oral history is evidence. Each statement keeps an informant, a capture document, and a certainty. It is not “less than” a permit; it is a different type. When a document contradicts one detail of an oral account, preserve the rest of the account rather than discarding it wholesale.
 
 ---
 
@@ -21,19 +21,21 @@ Oral history is evidence. Each statement keeps an informant, a capture document,
 
 ## O2 — Next-door neighbor who knew Fern
 
-**Captured in:** S2022; restated as the stronger neighbor interview in S2026b. S2026 had under-used this specificity.
+**Captured in:** S2022; restated in S2026b. Neighbor’s name and exact interview date are not yet recorded.
 
-If the 2022 notes accurately captured the conversation, treat these as **strong oral history** (still not a death certificate):
+The 2026-08-18 newspaper review lets us separate the accurate identification from one inaccurate detail:
 
-| Statement | Certainty | Notes |
+| Statement | Current assessment | Notes |
 | --- | --- | --- |
-| Neighbor **knew Fern** | 4/5 oral as reported by owner | Neighbor’s name not yet recorded |
-| Fern **died in the house in 1986** | 4/5 oral; 1/5 documentary | Search obituaries/probate around 18 Jul 1986 (C10) |
-| An older woman lived in the house alone | folded into the Fern identification above | |
-| Nola **never moved back** with Lloyd and Diane | 4/5 oral | C11 still open for move-out year |
-| Randy & Christine’s “old crazy lady” **was Fern**, not a different tenant | 4/5 oral | O3 + O2 together |
+| Neighbor **knew Fern** | 4/5 oral | Strong provenance for identifying the person remembered |
+| The elderly woman living alone at 1623 **was Fern** | **Accepted working conclusion; C19 resolved** | Consistent with documentary timeline: Edgar died 1969; Nola documented in Milwaukie in 1967 and 1987 |
+| Fern **died in the house in 1986** | **Contradicted by W39** | *Oregonian* 22 Jul 1986 says Fern died at **Friendship Care Center** on 18 Jul 1986 |
+| Nola **never moved back** with Lloyd and Diane | 4/5 oral, still not fully document-proven | W29 and W40 independently place Nola in Milwaukie in 1967 and 1987; C11 remains open for any other interval |
+| Randy & Christine’s “old crazy lady” **was Fern**, not a different tenant | 4/5 oral | O3 + O2; working conclusion C19 |
 
-**Upgrade:** write the neighbor’s name, address (1611 vs another lot), and approximate year of the conversation.
+**Do not repeat “Fern died in the house” as fact.** The useful remaining question is **when Fern stopped living at 1623 and entered care**, not where she died.
+
+**Upgrade still needed:** record the neighbor’s name, neighboring address, years they knew Fern, and approximate date of the conversation.
 
 ---
 
@@ -43,8 +45,8 @@ If the 2022 notes accurately captured the conversation, treat these as **strong 
 
 | Statement | Certainty | Notes |
 | --- | --- | --- |
-| An old “crazy” lady lived here | oral, secondhand via current owner | Neighbor (O2) identified her as Fern |
-| They were the previous owners | S2022 wording | Randy’s legal role is C13 |
+| An old “crazy” lady lived here | oral, secondhand via current owner | Neighbor (O2) identified her as Fern; C19 working conclusion |
+| They were the previous owners | S2022 wording | Randy’s legal role is C13; recorded deed needed |
 
 ---
 
@@ -56,7 +58,7 @@ If the 2022 notes accurately captured the conversation, treat these as **strong 
 
 | Statement | Certainty | Notes |
 | --- | --- | --- |
-| Oil tank removed sometime 1992–1999 | 2/5 until informant is named | Check with longtime 1611 occupants |
+| Oil tank removed sometime 1992–1999 | 2/5 until informant is named | Check gas-furnace permit/invoice |
 | Given to the owners of **1611 NE 73rd** | 2/5 | 1611 is the south neighbor on aerials |
 | Likely when the gas furnace was installed | 2/5 inference | |
 
@@ -67,6 +69,6 @@ If the 2022 notes accurately captured the conversation, treat these as **strong 
 ## How to add a new oral-history item
 
 1. Give it the next `O#`.
-2. Record **who said it**, **when**, **to whom**, and **the exact claim**.
+2. Record **who said it**, **when**, **to whom**, and the exact claim.
 3. Put it here and add the ID to [sources.md](sources.md).
-4. If it contradicts a document or another oral item, add a row in [CONFLICTS.md](CONFLICTS.md).
+4. If it contradicts a document or another oral item, add the issue to [CONFLICTS.md](CONFLICTS.md).
