@@ -10,7 +10,8 @@ This is not a title report or legal ownership opinion. Every claim in this archi
 2. Read **[CONFLICTS.md](CONFLICTS.md)** for what is still open. Recorded calls are in **[decisions.md](decisions.md)**.
 3. Use **[timeline.md](timeline.md)** as the dated working record (authoritative order for events).
 4. Next records to pull: **[research-queue.md](research-queue.md)** (Fern probate + 1986–1992 deeds for parcel **R193918**).
-5. Add new photos, deeds, and notes under `sources/ingested/` and log them in **[sources.md](sources.md)** and `data/sources.yaml`.
+5. Latest untranscribed image intake: **[2026-08-18 screen-capture intake](sources/ingested/research-notes/2026-08-18-screen-capture-intake.md)**. Its machine-readable checklist is `data/screen-capture-intake-2026-08-18.yaml`.
+6. Add new photos, deeds, and notes under `sources/ingested/` and log accepted sources in **[sources.md](sources.md)** and `data/sources.yaml`.
 
 ## Folder layout
 
@@ -29,7 +30,7 @@ This is not a title report or legal ownership opinion. Every claim in this archi
 | `photos/` | Named working copies (permits, aerials, genealogy, clippings, plans) |
 | `sources/ingested/` | Unaltered originals (Word docs, newspapers, Portland Maps, research notes) |
 | `sources/extracted/` | Images and plaintext pulled from the Word files |
-| `data/` | Machine-readable YAML mirrors of sources, people, and events — keep in sync with the markdown |
+| `data/` | Machine-readable YAML mirrors of accepted sources, people, and events, plus intake manifests — keep authoritative mirrors in sync with the markdown |
 
 ## Source documents ingested
 
@@ -60,6 +61,7 @@ Oral history can be 4/5 when it is firsthand and specific. It still stays tagged
 - One claim, one or more source IDs. No unsourced sentences in the timeline.
 - If two sources disagree, add a conflict in `CONFLICTS.md`. Do not silently pick a winner.
 - Keep original files in `sources/ingested/`. Put working copies and renamed scans in `photos/`.
+- New binary captures may remain in an intake manifest until their visible text and source identity are verified; only then promote them into `sources.md` / `data/sources.yaml`.
 - When you resolve a conflict, move it to `decisions.md` and update `timeline.md` and `house-history.md`.
 - Put new events in **date order** in both `timeline.md` and `data/events.yaml`.
 - One person, one section in `people.md` (occupancy and later grantor status belong together).
