@@ -4,17 +4,54 @@ Resolved or working calls. Newest at the top. Open items remain in [CONFLICTS.md
 
 ---
 
-## C17 — Nola: marriages and given name (resolved)
+## C19 — Identity of the elderly woman remembered at 1623 (resolved)
 
-- **Date resolved:** 2026-08-18 (marriage and name-order closed; C11 remains open separately)
+- **Date resolved:** 2026-08-18
+- **Decision:** The elderly woman remembered by the neighbor as living alone at 1623 was **very likely Fern A. DeVeny, not Nola DeVeny/Dowty**.
+- **Why:**
+  - The neighbor said they **knew Fern** and identified the older woman as Fern (O2).
+  - Edgar died in 1969 with residence **1623 NE 73rd Ave** (W27/W28), leaving Fern widowed.
+  - Nola had a separate Dowty household in **Milwaukie by 1967** (W29) and was again explicitly **of Milwaukie in 1987** (W40).
+  - Nola was therefore a poor match for an elderly woman living alone at 1623 during the later DeVeny years.
+- **Important correction:** The neighbor also remembered Fern as having **died in the house**. W39 now shows Fern died at **Friendship Care Center** on 18 Jul 1986. The identity portion of the oral history is retained; the place-of-death portion is not.
+- **Relied on:** O2, O3, W27, W29, W39, W40
+- **Still open:** Fern’s **last verified residence date at 1623** and when she entered care; see `needed-records.md`.
+
+---
+
+## C16 — Sophia’s family surname: Goodwin vs Godwin (resolved)
+
+- **Date resolved:** 2026-08-18
+- **Decision:** Use **Goodwin**.
+- **Why:** *Oregon Journal*, 21 Sep 1920 (W34), reports the death of **James Goodwin** and explicitly identifies **Mrs. Sophia DeVeny of 102 Dakota Street** as his daughter. This is contemporary published evidence and is stronger for the spelling question than the later family-tree screenshot that rendered the name “Godwin.”
+- **Relied on:** W34; S2022 family-tree screenshot retained as the conflicting secondary reading.
+- **Note:** This resolves the surname spelling for family history. It does **not** prove Sophia had title to 1623 or identify the 1912 `Mr. J. Deveny` (C03).
+
+---
+
+## C10 — Fern’s place of death (resolved; last residence still open)
+
+- **Date resolved:** 2026-08-18
+- **Decision:** **Fern A. DeVeny died 18 Jul 1986 at Friendship Care Center**, not at 1623 NE 73rd Ave.
+- **Evidence:** Her *Oregonian* obituary of 22 Jul 1986 (W39) explicitly says she “died July 18 at the Friendship Care Center.”
+- **Oral-history reconciliation:** O2’s statement that Fern “died in the house” is contradicted on place of death. O2 remains useful for identifying Fern as the elderly woman who had lived alone at the house (C19).
+- **Still open:** W39 does not state Fern’s legal residence or how long she had been at the care center. Obtain the death certificate, probate, and late city-directory/voter records to determine when she left 1623.
+- **Relied on:** W39, O2, W4, W14
+
+---
+
+## C17 — Nola: marriages and given name (resolved; corrected with new newspaper evidence)
+
+- **Date resolved:** 2026-08-18; **corrected 2026-08-18 after W36/W37 transcription**
 - **Decision:**
-  - **31 Dec 1950** — **Nola Diane DeVeny** married **Jack Howard Fick**, son of the **George S. Ficks** (*Oregon Journal*, 12 Jan 1951, W26). Parents named: **Mr. and Mrs. E. A. DeVeny**.
-  - **~20 Sept 1952** — later marriage to **Lloyd Wallace Dowty** (W30; S2026c infers date from paper 26 Sept 1952). How the Fick marriage ended is not documented.
-  - **Preferred given name:** **Nola Diane** (W26, W5, W27, cemetery). **Diana Nola** on a family-tree screenshot (S2022 image11) is recorded as an alternate only.
-  - “Now at home here” (W26) means the Portland paper’s market, **not** proof she lived at 1623 after the wedding.
-  - Do **not** re-import S2022’s “married 1950; husband Lloyd” as one event.
-- **Relied on:** W26, W30, W5, S2022 image11
-- **Still open (separate):** C11 (whether she ever returned to 1623); exact Dowty wedding day pending W30 masthead check
+  - **31 Dec 1950** — **Nola Diane DeVeny** married **Jack Howard Fick**, son of the George S. Ficks (*Oregon Journal*, 12 Jan 1951, W26). Parents named: **Mr. and Mrs. E. A. DeVeny**.
+  - **4 Nov 1952** — *Oregonian* marriage-license listing gives **Nola D. DeVeny, 1623 N.E. 73d** and Lloyd W. Dowty, 4807 N.E. 75th (W36). This is direct evidence Nola was using 1623 as her residence immediately before the second marriage.
+  - **8 Nov 1952** — Nola married **Lloyd Wallace Dowty** at Grant Park Baptist Church. *Oregonian*, 11 Nov 1952 (W37), explicitly gives the wedding date and identifies her as the daughter of **Mr. and Mrs. Edgar A. DeVeny**.
+  - The prior **~20 Sep 1952** inference from W30/S2026c is rejected. W30 remains a valid wedding clipping, but its uncertain publication date no longer controls the wedding date.
+  - **Preferred given name:** **Nola Diane** (W26, W37, W5, W27). **Diana Nola** on a family-tree screenshot (S2022 image11) is recorded as an alternate only.
+  - How the Fick marriage ended remains undocumented.
+- **Relied on:** W26, W30, W36, W37, W5, S2022 image11
+- **Still open (separate):** C11 (adult residence after the Dowty marriage / any later return to 1623); C15 (birth year).
 
 ---
 
@@ -40,11 +77,12 @@ Resolved or working calls. Newest at the top. Open items remain in [CONFLICTS.md
 
 ---
 
-## C05 — 1940 census proves occupancy, not title
+## C05 — What the 1940 census proves: occupancy and reported tenure, not deed title
 
-- **Date resolved:** 2026-08-17
-- **Decision:** The 1940 census (P7, Ancestry summary pending original sheet) is evidence that Edgar, Fern, Irene, and Nola **lived at 1623 in 1940**. It is **not** treated as proof of legal title. Recover the actual census page.
-- **Relied on:** P7; S2022; S2026b
+- **Date resolved:** 2026-08-17; **expanded 2026-08-18 after P7 original-sheet transcription**
+- **Decision:** The original 1940 census schedule (P7), ED **37-308**, sheet **1A**, lines **16–19**, is direct evidence that Edgar, Fern, Irene, and Nola lived at **1623** in 1940. The household row reports **O (owned)** and a home value of **$1,500**.
+- **Rule:** The census-reported ownership field is meaningful evidence that Edgar’s household considered itself the owner, but it is **not substituted for a recorded deed or title instrument**.
+- **Relied on:** P7; S2022
 
 ---
 
