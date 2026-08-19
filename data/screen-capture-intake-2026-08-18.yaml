@@ -1,0 +1,83 @@
+# Intake manifest for commit 04126ebeac2f103153cbb0e332e283b907d20f6b.
+# These are not stable P/W source IDs until visual transcription establishes source identity.
+status: needs_visual_transcription
+source_commit: 04126ebeac2f103153cbb0e332e283b907d20f6b
+items:
+  - intake_id: SC-001
+    original_name: 1940 Census 1623.png
+    blob_sha: 102b6feeff986d69450f1826a3c78cca0f2817eb
+    canonical_original: sources/ingested/census/1940-census-1623-page-capture.png
+    working_copy: photos/genealogy/1940-census-1623-page-capture.png
+    candidate_relationship: P7 upgrade
+    follow_up: verify ED, sheet, lines, address, household and tenure fields before upgrading P7
+  - intake_id: SC-002
+    original_name: 1940 Census Enumeration District Descriptions - Oregon - Multnomah County - ED 37-228, ED 37-229, ED 37-230.htm
+    blob_sha: ab6d3245e367610c9e6feec1a15d30f687376f84
+    canonical_original: sources/ingested/census/1940-nara-ed-descriptions-37-228-37-230.htm
+    catalog_id: "5878834"
+    follow_up: determine which ED contains 1623; description page alone does not establish the address-to-ED link
+  - intake_id: SC-003
+    original_name: 945-11-01-james-b-deveny-funeral-notice  part 2.png
+    blob_sha: e7d9486d5fb0dfe2037e13e4004c7e14926d8d82
+    canonical_original: sources/ingested/newspapers/1945-11-01-james-b-deveny-funeral-notice-part-2.png
+    working_copy: photos/genealogy/1945-11-01-james-b-deveny-funeral-notice-part-2.png
+    compare_with: W33
+  - intake_id: SC-004
+    original_name: Denise Genevieve Dowty Birth Notice Oregonian.png
+    blob_sha: 48470d10306389e8809bce6541ba93a36243e8ea
+    canonical_original: sources/ingested/newspapers/1967-denise-genevieve-dowty-birth-notice-oregonian.png
+    working_copy: photos/genealogy/1967-denise-genevieve-dowty-birth-notice-oregonian.png
+    compare_with: W29
+    caution: W29 is currently Oregon Journal; verify whether this is a separate Oregonian notice or an alternate/mislabeled capture
+  - intake_id: SC-005
+    original_name: Deveney Oregon Journal September 21, 1920.png
+    blob_sha: c9ed45b229d4e760f0f511e8d862cb6a219a3fcf
+    canonical_original: sources/ingested/newspapers/1920-09-21-oregon-journal-deveney.png
+    working_copy: photos/genealogy/1920-09-21-oregon-journal-deveney.png
+    candidate_conflicts: [C03]
+  - intake_id: SC-006
+    original_name: Fern Funeral Notice Oregonian.png
+    blob_sha: 8178cd88a11e6c87956e8a5dfb84754aa345b3e9
+    canonical_original: sources/ingested/newspapers/fern-deveny-funeral-notice-oregonian.png
+    working_copy: photos/genealogy/fern-deveny-funeral-notice-oregonian.png
+    candidate_conflicts: [C10]
+    priority: high
+  - intake_id: SC-007
+    original_name: Irene Funeral Notice.png
+    blob_sha: 34ef1ecd2947cb3383fb4e5ec2cd88c947736cab
+    canonical_original: sources/ingested/newspapers/irene-f-taylor-funeral-notice.png
+    working_copy: photos/genealogy/irene-f-taylor-funeral-notice.png
+    follow_up: verify identity as Irene F. Taylor and extract date, residence and family links
+  - intake_id: SC-008
+    original_name: James B Deveny Funeral Notice Oregonian.png
+    blob_sha: bbcda09ebe8858f093682e0a4c656048acd530b4
+    canonical_original: sources/ingested/newspapers/1945-james-b-deveny-funeral-notice-oregonian.png
+    working_copy: photos/genealogy/1945-james-b-deveny-funeral-notice-oregonian.png
+    compare_with: W33
+  - intake_id: SC-009
+    original_name: Nola Deveny Marriage Licence to Lloyd Oregonian.png
+    blob_sha: 5a471cd845c043523a5df4f3d29a4a48758045ea
+    canonical_original: sources/ingested/newspapers/1952-nola-deveny-lloyd-dowty-marriage-license-oregonian.png
+    working_copy: photos/genealogy/1952-nola-deveny-lloyd-dowty-marriage-license-oregonian.png
+    follow_up: distinguish license date from wedding date
+  - intake_id: SC-010
+    original_name: Nola Deveny Wedding to Lloyd Oregonian.png
+    blob_sha: 375e49f21d8926b4a16c93997c32e43843fd4d0c
+    canonical_original: sources/ingested/newspapers/1952-nola-deveny-lloyd-dowty-wedding-oregonian.png
+    working_copy: photos/genealogy/1952-nola-deveny-lloyd-dowty-wedding-oregonian.png
+    compare_with: W30
+    follow_up: verify publication date and exact wedding date
+  - intake_id: SC-011
+    original_name: Sophia Devny.png
+    blob_sha: abc80462fb25d1449b5006659af3e221385550e2
+    canonical_original: sources/ingested/genealogy/sophia-deveny-capture.png
+    working_copy: photos/genealogy/sophia-deveny-capture.png
+    candidate_conflicts: [C16]
+    follow_up: identify document type before using any claim
+  - intake_id: SC-012
+    original_name: Sophie Devny Obituary Oregonian.png
+    blob_sha: eb9dcb1c25ec3dace868fe94e27987adf415fe0a
+    canonical_original: sources/ingested/newspapers/sophia-deveny-obituary-oregonian.png
+    working_copy: photos/genealogy/sophia-deveny-obituary-oregonian.png
+    candidate_conflicts: [C03, C16]
+    follow_up: transcribe name spelling, date, residence, family and maiden-name wording
