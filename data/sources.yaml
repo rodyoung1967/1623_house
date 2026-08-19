@@ -4,82 +4,102 @@ sources:
     type: compiled_notes
     title: 1623 NE 73rd Ave (original Word notes)
     path: sources/ingested/2022-original-notes/1623 NE 73rd Ave.docx
-    created: 2022-01-19
-    modified: 2022-04-11
+    created: "2022-01-19"
+    modified: "2022-04-11"
     author: Young, Rod
   - id: S2026
     type: compiled_report
     title: House History Evidence Report
     path: sources/ingested/2026-evidence-report/1623_NE_73rd_Ave_House_History_Evidence_Report_2026-08-16.docx
-    assembled_through: 2026-08-16
+    assembled_through: "2026-08-16"
   - id: S2026b
     type: follow_up_research
-    title: 2026-08-17 follow-up research (owner-supplied)
+    title: 2026-08-17 follow-up research
     path: sources/ingested/research-notes/2026-08-17-follow-up-research.md
   - id: S2026c
     type: compiled_report
     title: House History Evidence-Based Working Edition 2026-08-17
     path: sources/ingested/2026-08-17-house-history/1623_NE_73rd_Ave_House_History_2026-08-17.docx
     extract: sources/ingested/2026-08-17-house-history/extracted-text.txt
+
   - id: P1
-    type: primary
+    type: primary_municipal
     title: City of Portland plumbing inspection — new dwelling
     path: photos/permits/1912-plumbing-inspection.png
-    reading_conflict: [C04]
+    reading: "first 1912-03-02; final 1913-03-13; owner Mr. J. Deveny"
+    conflicts: [C03, C04]
   - id: P2
-    type: primary
+    type: primary_municipal
     title: City of Portland plumbing inspection — 1939 cesspool to sewer
     path: photos/permits/1939-plumbing-cesspool-to-sewer.png
   - id: P3
-    type: primary
+    type: primary_municipal
     title: City of Portland plumbing inspection — 1947 water service
     path: photos/permits/1947-plumbing-water-service.png
     identity_conflict: C06
   - id: P4
-    type: primary
+    type: primary_municipal
     title: Public Works sewer permit 41973
     path: photos/permits/1939-sewer-permit-41973.png
   - id: P5
-    type: primary
+    type: primary_municipal
     title: Historic sewer/service sketch
     cite: 529994.pdf page 1
   - id: P6
-    type: primary
+    type: primary_municipal
     title: Oil-burner permit — 275-gallon basement tank
     path: photos/permits/1966-oil-burner-permit.jpg
-    reading_conflict: [C07, C08]
+    conflicts: [C07, C08]
   - id: P7
-    type: census_screenshot
-    title: 1940 U.S. Census — Ancestry summary for 1623 NE 73rd
-    path: photos/genealogy/1940-census-edgar-deveney-household.jpeg
-    from: S2022
-    upgrade: original enumeration page
+    type: federal_census_original_schedule
+    title: 1940 U.S. Census — original schedule for 1623 NE 73rd
+    canonical_original: sources/ingested/census/1940-census-1623-page-capture.png
+    path: photos/genealogy/1940-census-1623-page-capture.png
+    older_summary: photos/genealogy/1940-census-edgar-deveney-household.jpeg
+    nara_naid: "137524984"
+    census_day: "1940-04-02"
+    ed: "37-308"
+    sheet: "1A"
+    lines: "16-19"
+    house_number: "1623"
+    household:
+      - {name: Edgar DeVeny, relation: Head, age: 44, birthplace: Oregon}
+      - {name: Fern DeVeny, relation: Wife, age: 34, birthplace: Idaho}
+      - {name: Irene DeVeny, relation: Daughter, age: 17, birthplace: Oregon}
+      - {name: Nola DeVeny, relation: Daughter, age: 6, birthplace: Oregon}
+    tenure: owned
+    home_value: 1500
+    farm: false
+    notes: Census-reported ownership/tenure is not substituted for a recorded deed; C05 resolved.
+    extract: sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md
   - id: P8
     type: census_index
-    title: 1950 U.S. Census — Ancestry index of ED 37-206 sheet for 1623 NE 73rd
+    title: 1950 U.S. Census — Ancestry index of ED 37-206 schedule for 1623
     path: sources/ingested/census/1950-united-states-federal-census-ed-37-206.mhtml
     extract: sources/ingested/research-notes/1950-census-ed-37-206.md
-    url: https://www.ancestry.com/imageviewer/collections/62308/images/43290879-Oregon-145375-0001
     census_day: "1950-04-01"
     ed: "37-206"
-    notes: Occupancy of Edgar, Fern, Nola. Irene gone. Indexed Fenn/Nala. Original sheet screenshot optional.
+    notes: Edgar, Fern, Nola at 1623; Irene absent; indexed Fenn/Nala.
+
   - id: O1
     type: oral_history
-    informant: Rodney A. Young (current owner, firsthand)
+    informant: Rodney A. Young
     captured_in: S2026
   - id: O2
     type: oral_history
-    informant: next-door neighbor who knew Fern (name not recorded)
+    informant: next-door neighbor who knew Fern
     captured_in: S2022
+    notes: Identifies elderly resident as Fern; statement that Fern died in house is contradicted by W39.
   - id: O3
     type: oral_history
-    informant: Randy and Christine (previous owners/occupants)
+    informant: Randy and Christine
     captured_in: S2022
   - id: O4
     type: oral_history
-    informant: unnamed ("I was told")
+    informant: unnamed
     captured_in: S2022
-    topic: oil tank removed 1992-1999 and given to 1611 NE 73rd
+    topic: basement oil tank removed 1992-1999 and reportedly given to 1611 NE 73rd
+
   - id: W1
     type: secondary_aggregation
     title: Realtor.com public-record history
@@ -87,161 +107,184 @@ sources:
   - id: W2
     type: newspaper_index
     title: Oregon obituary index — Edgar A. DeVeny
-    url: https://oregonlive.newspapers.com/articles/obituary/1092756795/83066f5e-fc17-4fb3-91f2-e515d785ac0d
   - id: W3
     type: cemetery_transcription
     title: Willamette National Cemetery — Edgar A. DeVeny
-    url: https://www.interment.net/united-states/oregon/multnomah-county/portland/willamette-national-cemetery/transcription/411.php?page=1482&sort=za
   - id: W4
     type: findagrave
     title: Fern A. Farmer DeVeny
     url: https://www.findagrave.com/memorial/567125/fern_a-deveny
   - id: W5
     type: cemetery_transcription
-    title: Willamette National Cemetery — Nola Diane Dowty
-    url: https://www.interment.net/united-states/oregon/multnomah-county/portland/willamette-national-cemetery/transcription/411.php?page=1458&sort=za
+    title: Willamette National Cemetery — Nola Diane Dowty / Lloyd Wallace Dowty
   - id: W6
     type: newspaper
-    title: Sunday Oregonian 1907-09-29 Schalk Jonesmore ad
-    url: https://oregonnews.uoregon.edu/lccn/sn83045782/1907-09-29/ed-1/seq-16/
+    title: Sunday Oregonian 1907-09-29 — George D. Schalk Jonesmore ad
   - id: W7
     type: newspaper
-    title: Sunday Oregonian 1912-04-07 North Jonesmore
-    url: https://oregonnews.uoregon.edu/lccn/sn83045782/1912-04-07/ed-1/seq-61/
+    title: Sunday Oregonian 1912-04-07 — North Jonesmore building
   - id: W8
     type: government_guide
-    title: City of Portland public records / historic plumbing
-    url: https://www.portland.gov/ppd/public-records
+    title: City of Portland historic-plumbing public-records guide
   - id: W9
     type: government_guide
-    title: Multnomah County tax, property, and recorded documents
-    url: https://multco.us/services/tax-property-marriage-and-military-discharge-records
+    title: Multnomah County tax/property/recorded-documents guide
   - id: W10
     type: library_guide
-    title: Portland address renumbering (completed 1933)
-    url: https://multcolib.org/who-lived-my-house-getting-started
+    title: Portland address renumbering guide
   - id: W11
     type: genealogical_index
-    title: SortedByName Nola Diane Dowty
-    url: https://sortedbyname.com/letter_d/dowty/index_10.html
+    title: SortedByName — Nola Diane Dowty
+    conflict: C15
   - id: W12
     type: findagrave
     title: James Benjamin DeVeny
-    url: https://www.findagrave.com/memorial/189773929/james-benjamin-deveny
   - id: W13
     type: findagrave
     title: Edgar Arthur DeVeny
-    url: https://www.findagrave.com/memorial/567124/edgar-arthur-deveny
     path: photos/genealogy/findagrave-edgar-arthur-deveny.jpeg
   - id: W14
     type: findagrave_screenshot
-    title: Fern A. DeVeny screenshot (parents, birthplace)
+    title: Fern A. DeVeny screenshot
     path: photos/genealogy/findagrave-fern-a-deveny.jpeg
-    same_memorial_as: W4
+    conflict: C20
   - id: W15
     type: secondary_aggregation
-    title: Zillow 1623 NE 73rd Ave
-    url: https://www.zillow.com/homedetails/1623-NE-73rd-Ave-Portland-OR-97213/53891405_zpid/
+    title: Zillow — 1623 NE 73rd Ave
   - id: W16
     type: archives_inventory
     title: Oregon SOS Multnomah County Records Inventory
-    url: https://sos.oregon.gov/archives/county-records-guide/Pages/multnomah-inventory.aspx
   - id: W17
     type: government_guide
     title: Multnomah Circuit Court Records
-    url: https://www.courts.oregon.gov/courts/multnomah/records/pages/default.aspx
   - id: W18
     type: government_guide
     title: Multnomah Recording and Customer Service
-    url: https://multco.us/departments/recording-customer-service
   - id: W19
     type: government_guide
     title: House and Property History Records
-    url: https://multco.us/info/house-and-property-history-records
   - id: W20
     type: census_search
     title: NARA 1950 Census search
-    url: https://1950census.archives.gov/search/
     ed: "37-206"
-    notes: Free original schedules. Household already indexed as P8.
   - id: W21
     type: library_guide
     title: Portland city directories — find past residents
-    url: https://multcolib.org/who-lived-my-house-find-past-residents-portland-city-directories
   - id: W22
     type: government_guide
-    title: Property Records and Recording (DART home-print cutoff)
-    url: https://multco.us/info/property-records-and-recording
+    title: Property Records and Recording — DART cutoff
   - id: W23
     type: city_directory
     title: Polk Portland city directory 1956
-    url: https://archive.org/details/polksportlandcity1956porich
     extract: sources/ingested/research-notes/polk-directories-1956-1959.md
   - id: W24
     type: city_directory
     title: Polk Portland city directory 1957
-    url: https://archive.org/details/polksportlandcity1957porich
     extract: sources/ingested/research-notes/polk-directories-1956-1959.md
   - id: W25
     type: city_directory
     title: Polk Portland city directory 1959
-    url: https://archive.org/details/polksportlandcity1959rich
     extract: sources/ingested/research-notes/polk-directories-1956-1959.md
   - id: W26
     type: newspaper_clipping
     title: Oregon Journal 1951-01-12 — Nola Diane DeVeny / Jack Howard Fick
     path: photos/genealogy/1951-01-12-oregon-journal-nola-deveny-fick-wedding.png
     ingested: sources/ingested/newspapers/1951-01-12-oregon-journal-nola-deveny-fick-wedding.png
-    extract: sources/ingested/research-notes/1951-01-12-oregon-journal-nola-wedding.md
   - id: W27
     type: newspaper_clipping
     title: Oregon Journal 1969-04-26 — Edgar A. DeVeny death notice
     path: photos/genealogy/1969-04-26-oregon-journal-edgar-deveny-death-notice.png
     ingested: sources/ingested/newspapers/1969-04-26-oregon-journal-edgar-deveny-death-notice.png
-    extract: sources/ingested/research-notes/1969-04-edgar-deveny-notices.md
   - id: W28
     type: newspaper_clipping
-    title: Oregon Journal 1969-04-28 — Edgar A. DeVeny funeral notice
+    title: Edgar A. DeVeny funeral notice 1969-04-28
     path: photos/genealogy/1969-04-28-oregon-journal-edgar-deveny-funeral-notice.png
     ingested: sources/ingested/newspapers/1969-04-28-oregon-journal-edgar-deveny-funeral-notice.png
-    extract: sources/ingested/research-notes/1969-04-edgar-deveny-notices.md
-    index: W2
   - id: W29
     type: newspaper_clipping
-    title: Oregon Journal 1967-06-07 p.18 — Denise Genevieve Dowty birth
+    title: Oregon Journal 1967-06-07 — Denise Genevieve Dowty birth
     path: photos/genealogy/1967-06-07-oregon-journal-denise-dowty-birth.png
-    ingested: sources/ingested/newspapers/1967-06-07-oregon-journal-denise-dowty-birth.png
-    extract: sources/ingested/research-notes/1967-06-07-oregon-journal-denise-dowty-birth.md
+    reported_birth_date: "1967-05-23"
+    residence: Milwaukie
+    conflict: C18
   - id: W30
     type: newspaper_clipping
     title: Nola D. DeVeny Weds Saturday — Lloyd Wallace Dowty
     path: photos/genealogy/1952-nola-deveny-lloyd-dowty-wedding.png
-    ingested: sources/ingested/newspapers/1952-nola-deveny-lloyd-dowty-wedding.png
-    extract: sources/ingested/research-notes/1945-1957-newspaper-clippings.md
-    s2026c: N2
-    notes: S2026c dates paper 1952-09-26 and infers wedding 1952-09-20; disk filename Nov 10 1952
+    notes: Earlier September 1952 inferred date superseded by W37, which directly gives wedding 1952-11-08.
   - id: W31
     type: newspaper_clipping
-    title: Oregon Journal 1954-10-06 — Bruce Edgar Dowty born 1954-10-02
+    title: Oregon Journal 1954-10-06 — Bruce Edgar Dowty
     path: photos/genealogy/1954-10-06-oregon-journal-bruce-edgar-dowty-birth.png
-    ingested: sources/ingested/newspapers/1954-10-06-oregon-journal-bruce-edgar-dowty-birth.png
-    s2026c: N3
   - id: W32
     type: newspaper_clipping
-    title: Oregon Journal 1957-02-15 — Diane Fern Dowty born 1957-02-08
+    title: Oregon Journal 1957-02-15 — Diane Fern Dowty
     path: photos/genealogy/1957-02-15-oregon-journal-diane-fern-dowty-birth.png
-    ingested: sources/ingested/newspapers/1957-02-15-oregon-journal-diane-fern-dowty-birth.png
-    s2026c: N4
   - id: W33
     type: newspaper_clipping
-    title: James B. DeVeny funeral notice 1945-11-01 — 0214 SW Dakota St
+    title: James B. DeVeny funeral notice 1945-11-01
     path: photos/genealogy/1945-11-01-james-b-deveny-funeral-notice.png
-    ingested: sources/ingested/newspapers/1945-11-01-james-b-deveny-funeral-notice.png
-    s2026c: N8
-    notes: paper title unverified; not 1623
+    notes: Home 0214 SW Dakota St.
+
+  - id: W34
+    type: newspaper_clipping
+    title: Oregon Journal 1920-09-21 — James Goodwin death notice
+    path: photos/genealogy/1920-09-21-oregon-journal-deveney.png
+    ingested: sources/ingested/newspapers/1920-09-21-oregon-journal-deveney.png
+    extract: sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md
+    notes: Father of Mrs. Sophia DeVeny of 102 Dakota Street; resolves C16 to Goodwin.
+  - id: W35
+    type: newspaper_clipping
+    title: Oregonian 1945-11-02 — James Benjamin DeVeny obituary
+    path: photos/genealogy/1945-james-b-deveny-funeral-notice-oregonian.png
+    ingested: sources/ingested/newspapers/1945-james-b-deveny-funeral-notice-oregonian.png
+    extract: sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md
+    notes: Home 0214 SW Dakota; born 1871-08-14 Memphis; sons include E.A., L.R., Howard.
+  - id: W36
+    type: newspaper_clipping
+    title: Oregonian 1952-11-04 — Portland Marriage Licenses, Nola DeVeny / Lloyd Dowty
+    path: photos/genealogy/1952-nola-deveny-lloyd-dowty-marriage-license-oregonian.png
+    ingested: sources/ingested/newspapers/1952-nola-deveny-lloyd-dowty-marriage-license-oregonian.png
+    extract: sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md
+    address_nola: 1623 N.E. 73d
+    address_lloyd: 4807 N.E. 75th
+  - id: W37
+    type: newspaper_clipping
+    title: Oregonian 1952-11-11 — Nola Diane DeVeny / Lloyd Wallace Dowty wedding
+    path: photos/genealogy/1952-nola-deveny-lloyd-dowty-wedding-oregonian.png
+    ingested: sources/ingested/newspapers/1952-nola-deveny-lloyd-dowty-wedding-oregonian.png
+    extract: sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md
+    wedding_date: "1952-11-08"
+    notes: Corrects prior September inference; C17 resolved/corrected.
+  - id: W38
+    type: newspaper_clipping
+    title: Oregonian 1967-06-08 — Denise Genevieve Dowty birth notice
+    path: photos/genealogy/1967-denise-genevieve-dowty-birth-notice-oregonian.png
+    ingested: sources/ingested/newspapers/1967-denise-genevieve-dowty-birth-notice-oregonian.png
+    extract: sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md
+    reported_birth_date: "1967-05-25"
+    conflict: C18
+  - id: W39
+    type: newspaper_clipping
+    title: Oregonian 1986-07-22 — Fern A. DeVeny obituary
+    path: photos/genealogy/fern-deveny-funeral-notice-oregonian.png
+    ingested: sources/ingested/newspapers/fern-deveny-funeral-notice-oregonian.png
+    extract: sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md
+    death_date: "1986-07-18"
+    place_of_death: Friendship Care Center
+    reported_birthplace: Cambridge, Idaho
+    notes: Nola Diane Dowty of Milwaukie; resolves C10, supports C19, creates C20 with W14.
+  - id: W40
+    type: newspaper_clipping
+    title: Oregonian 1987-09-17 — Irene Fern DeVeny Taylor obituary
+    path: photos/genealogy/irene-f-taylor-funeral-notice.png
+    ingested: sources/ingested/newspapers/irene-f-taylor-funeral-notice.png
+    extract: sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md
+    notes: Sister Nola Dowty of Milwaukie; Irene WWII shipyard welder, Oregon Journal classifieds, Ikebana.
+
   - id: M1910s
     type: aerial
-    title: Portland Archives aerial A2010-001.86 (neighborhood)
+    title: Portland Archives aerial A2010-001.86
     path: photos/aerials/portland-archives-A2010-001.86-neighborhood.jpeg
   - id: M1962
     type: aerial
@@ -299,4 +342,3 @@ sources:
     type: plans
     title: Backyard firepit plans 2018-05-02
     path: photos/plans/Backyeard Firepit plans - 1623 NE 73rd Ave - May 2 2018 - 3-33 PM.pdf
-    ingested: sources/ingested/plans/Backyeard Firepit plans - 1623 NE 73rd Ave - May 2 2018 - 3-33 PM.pdf
