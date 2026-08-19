@@ -1,12 +1,12 @@
 # Open conflicts
 
-Working calls already recorded are in [decisions.md](decisions.md). Items below still need your call, or a deed/census page.
+Working calls already recorded are in [decisions.md](decisions.md). Items below still need a deed, primary record, re-read, or owner call.
 
-| Working (do not re-argue unless new evidence) | Still open |
+| Resolved / working (do not re-argue unless new evidence) | Still open |
 | --- | --- |
-| C01 plumbing dates (3/2/1912; 3/13/1913), C02 “Mr. J. Deveny” (not M. J. as a person), C05 occupancy≠title, C09 basement tank only (no UST), C12 1992 parties, C17 Nola marriages & name | C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16 |
+| C01 plumbing dates; C02 “Mr. J. Deveny”; C05 census occupancy/reported tenure ≠ deed title; C09 basement tank only; C10 Fern died at Friendship Care Center; C12 1992 parties working record; C16 Goodwin; C17 Nola marriages; C19 elderly woman = Fern | **C03, C04, C06, C07, C08, C11, C13, C14, C15, C18, C20** |
 
-Primary scans are in `photos/permits/`. Genealogy screenshots and the Nola clipping are in `photos/genealogy/`.
+Primary scans are in `photos/permits/`. Genealogy/newspaper screenshots are in `photos/genealogy/`. The 2026-08-18 visual transcriptions are in `sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md`.
 
 ---
 
@@ -18,7 +18,7 @@ Primary scans are in `photos/permits/`. Genealogy screenshots and the Nola clipp
 
 ## C02 — Name on the 1912 owner line
 
-**Decided (2026-08-18):** Owner is **Mr. J. Deveny**. **M.** is the abbreviation for **Mr.**, not a given name. S2022’s “M. J. Deveny” is not a separate person. Later cards on this house type **Mr.** / **Mrs.** on the owner line (P2, P3). Identifying him as James Benjamin remains **C03**. See [decisions.md](decisions.md).
+**Decided (2026-08-18):** Owner is **Mr. J. Deveny**. **M.** is the abbreviation for **Mr.**, not a given name. S2022’s “M. J. Deveny” is not a separate person. Identifying him as James Benjamin remains **C03**. See [decisions.md](decisions.md).
 
 ---
 
@@ -26,12 +26,14 @@ Primary scans are in `photos/permits/`. Genealogy screenshots and the Nola clipp
 
 **Question:** Can the 1912 owner be identified as James Benjamin DeVeny (1871–1945), husband of Sophia?
 
-| | Assertion | Source |
-| --- | --- | --- |
-| A | House “appears to be built for” James Benjamin Deveny and Sophia Charlotte Deveny (Goodwin) and family | S2022 |
-| B | A DeVeny was the 1912 owner (5/5 for the surname on the card). Identifying him as **James Benjamin** is probable, not proven (4/5 for family; lower for the specific man) | S2026 |
+| Evidence | What it establishes |
+| --- | --- |
+| P1 | 1912 owner line reads **Mr. J. Deveny** |
+| W35 | James Benjamin DeVeny died in 1945 at **0214 SW Dakota**; sons included **E. A., L. R., Howard DeVeny** |
+| W34 | In 1920 **Mrs. Sophia DeVeny** was at **102 Dakota Street**, daughter of James Goodwin |
+| W12 / S2022 | Family-tree/genealogy lead connecting James Benjamin, Sophia, and Edgar |
 
-**Supporting / missing:** Family-tree screenshot in `photos/genealogy/james-benjamin-deveny-family-tree.jpeg` (W12 / S2022). Funeral notice 1 Nov 1945: James lived at **0214 SW Dakota Street**, not 1623 (W33). That is 1945 occupancy, not a 1912 disproof. No 1912 directory, 1910/1920 census address match, or original deed is in this archive yet.
+The new 1920/1945 newspaper evidence improves the family reconstruction but still does **not** place James Benjamin at this Jonesmore parcel in 1912. A deed, 1912 directory, or 1910/1920 address record is still needed.
 
 **Your call:** [ ] Treat James Benjamin as 1912 owner  [ ] Keep as “Mr. J. Deveny, likely DeVeny family, identity unproven”  [ ] Other: ________
 
@@ -43,35 +45,16 @@ Primary scans are in `photos/permits/`. Genealogy screenshots and the Nola clipp
 
 | | Assertion | Source |
 | --- | --- | --- |
-| A | **369 E 73rd Ave N** | S2022, stated as fact |
-| B | Card shows handwritten **369** plus later “1623 N.E.” Portland finished citywide renumbering in 1933. Exact old format is **3/5** until the official change directory is checked | S2026, P1, W10 |
+| A | **369 E 73rd Ave N** | S2022 |
+| B | Card visibly shows **369** plus later “1623 N.E.”; exact full old street form not yet confirmed | P1, W10 |
 
-**Primary document:** 1912 card, street-number field.
-
-**Your call:** [ ] Use 369 E 73rd Ave N  [ ] Use only “369” until the 1933 directory is checked  [ ] Other: ________
+**Your call:** [ ] Use 369 E 73rd Ave N  [ ] Use only “369” until official directory checked  [ ] Other: ________
 
 ---
 
-## C05 — What the 1940 census proves: occupancy vs title
+## C05 — What the 1940 census proves
 
-**Question:** Did ownership transfer to Edgar and Fern by 1940?
-
-| | Assertion | Source |
-| --- | --- | --- |
-| A | “According to 1940 Census, by 1940 **ownership** of the house had transferred to son Edgar Arthur Deveny and wife Fern.” Household: Edgar, Fern, daughters Irene and Nola | S2022, plus Ancestry summary screenshot (now P7) |
-| B | S2026 does not use the 1940 census at all. It treats continuous DeVeny **title** 1912–1992 as plausible but not deed-proven | S2026 |
-
-**Primary / near-primary document:** `photos/genealogy/1940-census-edgar-deveney-household.jpeg`
-
-Screenshot contents (Ancestry 1940 census summary):
-
-- Address: **1623 Ne 73 Avenue, Portland, Multnomah, Oregon**
-- Edgar Deveney, head, 44, born Oregon (~1896)
-- Fern Deveney, wife, 34
-- Irene Deveney, daughter, 17
-- Nola Deveney, daughter, 6
-
-**Decided (2026-08-17):** census = **occupancy only**, not title. Recover the original enumeration page (P7 upgrade). See [decisions.md](decisions.md).
+**Decided / expanded 2026-08-18:** P7 is now the original 1940 schedule, **ED 37-308, sheet 1A, lines 16–19**. Edgar, Fern, Irene and Nola are at **1623**. The row reports **O (owned)** and home value **$1,500**. Treat this as census-reported ownership/tenure, **not as a substitute for a recorded deed**. See [decisions.md](decisions.md).
 
 ---
 
@@ -81,14 +64,12 @@ Screenshot contents (Ancestry 1940 census summary):
 
 | | Assertion | Source |
 | --- | --- | --- |
-| A | Owners still **Mrs Deveny (aka Fern) and Edgar** | S2022 |
-| B | Card names **“Mrs. Deveny”** as owner. Do **not** assign that to Sophia or Fern without a directory or deed | S2026, P3 |
+| A | S2022 identifies “Mrs. Deveny” as Fern | S2022 |
+| B | P3 says only **“Mrs. Deveny”** | P3 |
 
-**Primary document:** `photos/permits/1947-plumbing-water-service.png` — dated 2/7/1947, permit 185319, “Old dwelling,” “Water Service 1 repl,” final 2/14/1947.
+**Context:** Edgar/Fern are documented at 1623 in 1940 (P7) and again in 1950 and 1956–1959 (P8, W23–W25). That makes Fern a strong candidate, but the 1947 card itself does not give a first name.
 
-**Context:** If you accept C05 occupancy, Fern is the wife in the house in 1940. Polk directories still list Fern with Edgar at 1623 in 1956–1959 (W23–W25). Sophia died in 1952 (secondary genealogy), so both women were alive in 1947. Directories after 1947 do not identify the 1947 card.
-
-**Your call:** [ ] Mrs. Deveny = Fern  [ ] Unassigned  [ ] Other: ________
+**Your call:** [ ] Mrs. Deveny = Fern  [ ] Keep unassigned  [ ] Other: ________
 
 ---
 
@@ -98,10 +79,8 @@ Screenshot contents (Ancestry 1940 census summary):
 
 | | Assertion | Source |
 | --- | --- | --- |
-| A | Permit for basement oil tank; **Edgar (and Fern) are still the owners** | S2022 |
-| B | Permit is **installed for E. A. DeVeny**; 4/5 that E.A. is Edgar. Fern is not named | S2026, P6 |
-
-**Primary document:** `photos/permits/1966-oil-burner-permit.jpg`
+| A | Edgar and Fern were still owners | S2022 interpretation |
+| B | Permit says **installed for E. A. DeVeny**; Fern is not named | P6 |
 
 **Your call:** [ ] Edgar and Fern as owners  [ ] Only “installed for E. A. DeVeny”  [ ] Other: ________
 
@@ -113,127 +92,137 @@ Screenshot contents (Ancestry 1940 census summary):
 
 | | Assertion | Source |
 | --- | --- | --- |
-| A | Year only: 1966 | S2022 text |
-| B | “dated in **July** 1966” | S2026 narrative |
-| C | The attached scan’s date line needs a human re-read (it is easy to mix 7 and 9) | P6 image in both documents |
+| A | July 1966 | S2026 reading |
+| B | Scan is ambiguous enough to require a human re-read | P6 |
 
-**Your call:** [ ] July 1966  [ ] September 1966  [ ] Year only until re-read: ________
-
----
-
-## C09 — Oil tank: basement only; removal to 1611
-
-**Decided (2026-08-18):** 1623 had **no underground storage tank**. The only documented tank is the **275-gallon basement tank** on the 1966 permit (P6). Owner confirmation (O1). The O4 story (removed 1992–1999, given to **1611 NE 73rd**, likely at gas-furnace install) refers to that basement tank. Informant for O4 still unnamed; removal paperwork still missing. See [decisions.md](decisions.md).
+**Your call:** [ ] July 1966  [ ] September 1966  [ ] Year only until re-read
 
 ---
 
-## C10 — Did Fern die in the house in 1986?
+## C09 — Oil tank: basement only; no UST
 
-**Question:** Residence and place of death for Fern.
-
-| | Assertion | Source |
-| --- | --- | --- |
-| A | Next-door neighbor who knew Fern said **she died in the house in 1986** | S2022, neighbor oral history (O2) |
-| B | Fern died **18 Jul 1986** (Find a Grave, 4/5). That she lived at 1623 until death, or died there, is **not** documented. Neighbor memory of an “old lady” living alone is 3/5 as an identification of Fern | S2026, W4, O2 |
-
-**Documents:** `photos/genealogy/findagrave-fern-a-deveny.jpeg` — birth 29 Jan 1906 Midvale, Idaho; death 18 Jul 1986; spouse Edgar; parents Daniel Webster Farmer and Diana Farmer.
-
-**Your call:** [ ] Accept neighbor: Fern died at 1623  [ ] Accept Fern died 1986; death-at-house unproven  [ ] Other: ________
+**Decided (2026-08-18):** one documented **275-gallon basement tank**, no underground storage tank. O4’s reported transfer to 1611 refers to that tank. Removal paperwork/informant remain research follow-ups, not a conflict. See [decisions.md](decisions.md).
 
 ---
 
-## C11 — Nola’s residence after marriage / after Fern’s death
+## C10 — Fern’s place of death
 
-**Question:** Did Nola ever live in the house as an adult owner-occupant after leaving?
+**Decided (2026-08-18):** W39 (*Oregonian*, 22 Jul 1986) explicitly says **Fern A. DeVeny died 18 Jul 1986 at Friendship Care Center**. The neighbor’s recollection that she died at 1623 is incorrect on place of death. Fern’s **last residence / move-to-care date is still unknown**, but that is now a collection task rather than a conflict. See [decisions.md](decisions.md) and `needed-records.md`.
 
-| | Assertion | Source |
-| --- | --- | --- |
-| A | Neighbor: Nola (1933–2000) **never moved back** with husband Lloyd and daughter Diane. Occupants 1986–1992 unknown | S2022, O2 |
-| B | Nola had moved away before her death; **move-out year unknown** (2/5). Rental-from-1986 is a hypothesis | S2026, O1, W5, W11 |
+---
 
-**Related:** W26 shows Nola married **31 Dec 1950** and was “at home here” (Portland). That is not proof she left 1623 that day, and it does not close C11. House was **tenant-occupied when Christine bought it in 1992** (O1, 4/5 oral). Christine did **not** rent it afterward (O1, 4/5 oral).
+## C11 — Nola’s adult residence / any later return to 1623
 
-**Your call:** [ ] Nola never returned after marriage  [ ] Move-out year unknown; 1992 tenant status is the firm oral fact  [ ] Other: ________
+**Question:** After leaving the parental household, did Nola ever return as an adult owner-occupant?
+
+**Documented sequence:**
+
+- 1 Apr 1950: Nola, 16, unmarried at 1623 (P8).
+- 31 Dec 1950: married Jack Howard Fick (W26).
+- **4 Nov 1952: Nola D. DeVeny is explicitly listed at 1623 NE 73d** in the Portland marriage-license column (W36).
+- **8 Nov 1952:** married Lloyd Wallace Dowty (W37).
+- 1967: Lloyd/Nola Dowty household reported **of Milwaukie** (W29).
+- **1987:** Irene’s obituary identifies **Nola Dowty of Milwaukie** (W40), one year after Fern’s death.
+- O2: neighbor says Nola never moved back with Lloyd/Diane.
+- O1: house was tenant-occupied when Christine bought it in 1992.
+
+This strongly supports that Nola was **not** the elderly resident remembered at 1623 (C19). It still does not prove she never briefly occupied 1623 at some other time or establish the exact 1986–1992 title/occupancy sequence.
+
+**Your call:** [ ] Treat Nola as never returning after the 1952 Dowty marriage  [ ] Keep exact post-1952 occupancy open while noting 1967/1987 Milwaukie  [ ] Other: ________
 
 ---
 
 ## C12 — Who bought the house in 1992?
 
-**Question:** Grantor and grantee on the 1992 sale.
+**Working record (2026-08-17):** **1 Dec 1992**, **$64,950**, Nola D. Dowty → Wayne Irvin et al.; Wayne is Christine M. Irvin’s father. Christine is likely among “et al.” Deed still required. See [decisions.md](decisions.md).
 
-| | Assertion | Source |
-| --- | --- | --- |
-| A | **Wayne Irvin ET AL** bought 12/1/1992 for **$64,950** from **Nola D. Dowty** (maiden name Deveny). “ET AL” might include **Christine M. Irvin**. Wayne is believed to be Christine’s dad. No later transfer to Christine is apparent | S2022 |
-| B | Public-record aggregator: sale **12/1/1992** for **$64,950** (5/5 for event/price). Current owner identifies **Christine M. Irvin** as buyer (4/5). Deed not in the set. Nola as seller is a working recollection | S2026, W1, O1 |
-
-**Working record (2026-08-17):** Nola D. Dowty → Wayne Irvin et al., $64,950, 12/1/1992. Wayne is Christine’s father. Christine is **likely** among “et al.” Deed still required. See [decisions.md](decisions.md).
-
-**Still open:** exact grantee list; Randy’s title status (C13).
+**Still open:** exact grantee list and title form; Randy’s status (C13).
 
 ---
 
-## C13 — Who are “Randy & Christine”?
+## C13 — Who is Randy?
 
-**Question:** Was Randy a co-owner, spouse, or someone else?
+**Question:** Was Randy Christine’s spouse/partner, co-owner, or only a prior occupant/informant?
 
-| | Assertion | Source |
-| --- | --- | --- |
-| A | Previous owners **Randy & Christine** told the current owner an old “crazy” lady lived here. Neighbor said that was **Fern**, not a tenant distinct from Nola | S2022, O3 + O2 |
-| B | S2026 names **Christine M. Irvin** only. Randy does not appear | S2026 |
+**Your call:** Randy was: [ ] spouse/partner/co-occupant  [ ] co-owner  [ ] other: ________  [ ] do not know
 
-**Your call:** Randy was: [ ] Christine’s spouse/partner and co-occupant  [ ] Co-owner  [ ] Other: ________  [ ] Do not know
+Recorded deed remains the preferred answer.
 
 ---
 
-## C14 — 1999 purchase date
-
-**Question:** Closing vs recording vs memory.
+## C14 — 1999 purchase date and “ET AL”
 
 | | Assertion | Source |
 | --- | --- | --- |
-| A | **Rodney A. Young ET AL** purchased **5/1/1999** for **$127,000** from **Christine M. Irvin** | S2022 |
-| B | Aggregator: **5/27/1999** for **$127,000**. Owner recalls buying from Christine in **summer / July 1999** | S2026, W1, O1 |
+| A | Rodney A. Young ET AL purchased **1 May 1999**, $127,000, from Christine M. Irvin | S2022 |
+| B | Public-record aggregation: **27 May 1999**, $127,000 | W1 |
+| C | Owner recalls summer / July 1999 | O1 |
 
-**Working position (2026-08-17):** keep both dates until the **recorded deed**. Price $127,000 is independently reported (W1). See C14.
+**Need:** recorded 1999 deed. Price is accepted; exact legal/recording date and co-grantee(s) remain open.
 
 ---
 
 ## C15 — Nola’s birth year
 
-**Question:** 1930 or 1933?
+| Evidence | Reading |
+| --- | --- |
+| P7 | age 6 on 2 Apr 1940 → about 1933–34 |
+| P8 | age 16 on 1 Apr 1950 → about 1933–34 |
+| W5 / S2022 | 1933 |
+| W11 | 1930 |
 
-| | Assertion | Source |
-| --- | --- | --- |
-| A | Nola **(1933–2000)** | S2022; Lloyd Dowty tree screenshot also 1933; VA cemetery data 1933 (W5) |
-| B | SortedByName index **1930**, conflicting with VA **1933**. S2026 does not resolve it | S2026, W11 vs W5 |
-| Census | Nola, daughter, **age 6 in 1940** → birth about **1933–1934**; **age 16 on 1 Apr 1950** → same window; Ancestry computed 1934 | P7, P8 |
-
-**Your call:** [ ] 1933  [ ] 1930  [ ] About 1933–34 from census only  [ ] Other: ________
+**Your call:** [ ] 1933  [ ] about 1933–34  [ ] leave unresolved pending primary birth record
 
 ---
 
-## C16 — Sophia’s maiden name
+## C16 — Sophia’s family surname
 
-**Question:** Goodwin or Godwin?
-
-| | Assertion | Source |
-| --- | --- | --- |
-| A | Sophia Charlotte Deveny **(Goodwin)** (1872–1952) | S2022 text |
-| B | Family-tree screenshot: Sophia Charlotte **Godwin** (1872–1952) | S2022 image3 / genealogy screenshot |
-| C | S2026 does not use Sophia’s maiden name | S2026 |
-
-**Your call:** [ ] Goodwin  [ ] Godwin  [ ] Unresolved  [ ] Other: ________
+**Decided (2026-08-18):** **Goodwin**. W34 identifies James Goodwin as the father of Mrs. Sophia DeVeny. The family-tree “Godwin” reading is treated as a later secondary spelling error unless stronger evidence appears. See [decisions.md](decisions.md).
 
 ---
 
 ## C17 — Nola’s marriages and given name
 
-**Decided (2026-08-18):** First marriage **31 Dec 1950** to **Jack Howard Fick** (W26). Later marriage to **Lloyd Wallace Dowty** (~Sept 1952, W30). Standard given name **Nola Diane**; **Diana Nola** is an alternate from a family-tree screenshot. S2022’s “1950 / Lloyd” conflation is closed. See [decisions.md](decisions.md).
+**Decided / corrected (2026-08-18):** first marriage **31 Dec 1950** to Jack Howard Fick (W26); Nola listed at **1623 NE 73d on 4 Nov 1952** (W36); second marriage **8 Nov 1952** to Lloyd Wallace Dowty (W37). The earlier September inference from W30/S2026c is rejected. Preferred given name **Nola Diane**. See [decisions.md](decisions.md).
+
+---
+
+## C18 — Denise Genevieve Dowty birth date: 23 or 25 May 1967?
+
+**Question:** Which newspaper birth date is correct?
+
+| Source | Date reported | Other details |
+| --- | --- | --- |
+| W29 — *Oregon Journal*, 7 Jun 1967 | **23 May 1967** | Bess Kaiser Hospital; parents of Milwaukie; siblings Bruce/Diane; grandparents Edgar A. DeVeny and Willard D. Dowty families |
+| W38 — *Oregonian*, 8 Jun 1967 | **25 May 1967** | Denise Genevieve; siblings Bruce/Diane; same grandparents |
+
+Both are contemporaneous newspaper notices and agree on identity/family but disagree by two days. Do not silently choose one.
+
+**Need:** birth certificate/index or another authoritative primary record.
+
+---
+
+## C19 — Which elderly woman did the neighbor remember?
+
+**Decided (2026-08-18):** **very likely Fern A. DeVeny, not Nola**. Neighbor knew Fern; Edgar died at 1623 in 1969; Nola is documented in Milwaukie in 1967 and 1987. W39 corrects only the neighbor’s place-of-death detail. See [decisions.md](decisions.md).
+
+---
+
+## C20 — Fern’s birthplace: Cambridge or Midvale, Idaho?
+
+**Question:** Which birthplace is correct?
+
+| Source | Birthplace |
+| --- | --- |
+| W39 — *Oregonian* obituary, 22 Jul 1986 | **Cambridge, Idaho** |
+| W14 / Find a Grave screenshot | **Midvale, Washington County, Idaho** |
+
+These towns are close geographically, but the archive should not merge them without evidence.
+
+**Need:** birth record, marriage record, Social Security application, or another primary biographical record.
 
 ---
 
 ## How to answer
 
-Remaining high-value calls: **C03, C04, C06, C07, C08, C10, C11, C13, C14, C15, C16**.
-
-Reply with the conflict ID and your call. I will move it to `decisions.md`.
+Remaining high-value calls / records: **C03, C04, C06, C07, C08, C11, C13, C14, C15, C18, C20**. The collection checklist is in [`needed-records.md`](needed-records.md).
