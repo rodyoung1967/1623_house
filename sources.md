@@ -115,6 +115,7 @@ IDs are stable. New sources get the next number in the same prefix. Machine mirr
 - **ED:** **37-206**
 - **File:** `sources/ingested/census/1950-united-states-federal-census-ed-37-206.mhtml`
 - **Extract:** `sources/ingested/research-notes/1950-census-ed-37-206.md`
+- **Ancestry image:** [collection 62308, Oregon-145375-0001](https://www.ancestry.com/imageviewer/collections/62308/images/43290879-Oregon-145375-0001)
 - **Contents:** Edgar A. Deveny, 54; Fenn A. (= Fern), 44; Nala D. (= Nola), 16 unmarried; address 1623 N.E. 73; Irene absent
 - **Use:** occupancy; not deed title
 
@@ -137,41 +138,41 @@ See [oral-history.md](oral-history.md) for full statements and reconciliation.
 
 | ID | Source | Use |
 | --- | --- | --- |
-| W1 | Realtor.com public-record history, 1623 NE 73rd Ave | Built 1912; 1,102 sq ft; 5,724 sq ft lot; 12/1/1992 $64,950; 5/27/1999 $127,000 |
-| W2 | Oregon obituary index — Edgar A. DeVeny | Index behind the 1969 funeral notice |
-| W3 | Willamette National Cemetery transcription — Edgar A. DeVeny | Birth 9/16/1895; death 4/24/1969; U.S. Army |
-| W4 | Find a Grave — Fern A. Farmer DeVeny | Birth 1/29/1906; death 7/18/1986; spouse Edgar |
-| W5 | Willamette National Cemetery — Nola Diane Dowty / Lloyd Wallace Dowty | Nola death 10/9/2000; birth year 1933; spouse Lloyd |
-| W6 | *Sunday Oregonian*, 29 Sep 1907 — George D. Schalk Jonesmore ad | Neighborhood development context only |
-| W7 | *Sunday Oregonian*, 7 Apr 1912 — North Jonesmore building | Neighborhood boom; not this lot |
-| W8 | City of Portland public-records guide | Historic plumbing retrieval |
-| W9 | Multnomah County tax/property/recorded-documents guide | Recorded documents / deed index access |
-| W10 | Multnomah County Library — address history guide | Portland renumbering completed July 1933 |
-| W11 | SortedByName — Nola Diane Dowty | Search aid only; conflicting 1930 birth year (C15) |
-| W12 | Find a Grave — James Benjamin DeVeny | Family lead; not proof of parcel |
-| W13 | Find a Grave — Edgar Arthur DeVeny | Stone: CPL CO E 63 INF 11 DIV; 16 Sep 1895 – 24 Apr 1969 |
-| W14 | Find a Grave screenshot — Fern A. DeVeny | Parents/birthplace claim Midvale, Idaho; conflicts W39 on birthplace (C20) |
-| W15 | Zillow — 1623 NE 73rd Ave | Corroborates 1912 / 1,102 sq ft / 5,724 lot / 2 bed 1 bath |
-| W16 | Oregon SOS — Multnomah County Records Inventory | Probate-file availability guidance |
-| W17 | Multnomah Circuit Court Records | Fern probate request path |
-| W18 | Multnomah Recording & Customer Service | Pre-2002 deed access |
-| W19 | Multnomah County — House and Property History Records | Research guide |
-| W20 | NARA 1950 Census search | Free original schedules; ED 37-206 |
-| W21 | MCL — Portland city directories | Reverse-directory method |
-| W22 | Multnomah — Property Records and Recording | DART/home-print cutoff; older images via office |
-| W23 | Polk's Portland city directory, 1956 | Edgar A. (Fern A.) at 1623 NE 73d |
-| W24 | Polk's Portland city directory, 1957 | Edgar A. (Fern A.), printer Ivy Press, h1623 NE 73d |
-| W25 | Polk's Portland city directory, 1959 | Edgar at 1623; reverse list; AL 2-4971 |
+| W1 | [Realtor.com public-record history, 1623 NE 73rd Ave](https://www.realtor.com/realestateandhomes-detail/1623-NE-73rd-Ave_Portland_OR_97213_M11432-78291) | Built 1912; 1,102 sq ft; 5,724 sq ft lot; **12/1/1992 $64,950**; **5/27/1999 $127,000** |
+| W2 | [Oregon obituary index — Edgar A. DeVeny](https://oregonlive.newspapers.com/articles/obituary/1092756795/83066f5e-fc17-4fb3-91f2-e515d785ac0d) | Index behind the 1969 funeral notice |
+| W3 | [Willamette National Cemetery transcription — Edgar A. DeVeny](https://www.interment.net/united-states/oregon/multnomah-county/portland/willamette-national-cemetery/transcription/411.php?page=1482&sort=za) | Birth 9/16/1895; death 4/24/1969; U.S. Army |
+| W4 | [Find a Grave — Fern A. Farmer DeVeny](https://www.findagrave.com/memorial/567125/fern_a-deveny) | Birth 1/29/1906; death 7/18/1986; spouse Edgar |
+| W5 | [Willamette National Cemetery — Nola Diane Dowty / Lloyd Wallace Dowty](https://www.interment.net/united-states/oregon/multnomah-county/portland/willamette-national-cemetery/transcription/411.php?page=1458&sort=za) | Nola death 10/9/2000; birth year 1933; spouse Lloyd |
+| W6 | [*Sunday Oregonian*, 29 Sep 1907 — George D. Schalk Jonesmore ad](https://oregonnews.uoregon.edu/lccn/sn83045782/1907-09-29/ed-1/seq-16/) | Neighborhood development context only |
+| W7 | [*Sunday Oregonian*, 7 Apr 1912 — North Jonesmore building](https://oregonnews.uoregon.edu/lccn/sn83045782/1912-04-07/ed-1/seq-61/) | Neighborhood boom; not this lot |
+| W8 | [City of Portland public-records guide](https://www.portland.gov/ppd/public-records) | Historic plumbing retrieval |
+| W9 | [Multnomah County tax/property/recorded-documents guide](https://multco.us/services/tax-property-marriage-and-military-discharge-records) | Recorded documents / deed index access |
+| W10 | [MCL — Portland house-history / address guide](https://multcolib.org/who-lived-my-house-getting-started) | Portland renumbering completed July 1933 |
+| W11 | [SortedByName — Nola Diane Dowty](https://sortedbyname.com/letter_d/dowty/index_10.html) | Search aid only; conflicting 1930 birth year (C15) |
+| W12 | [Find a Grave — James Benjamin DeVeny](https://www.findagrave.com/memorial/189773929/james-benjamin-deveny) | Family lead; not proof of parcel |
+| W13 | [Find a Grave — Edgar Arthur DeVeny](https://www.findagrave.com/memorial/567124/edgar-arthur-deveny) | Stone: CPL CO E 63 INF 11 DIV; 16 Sep 1895 – 24 Apr 1969 |
+| W14 | [Find a Grave — Fern A. DeVeny](https://www.findagrave.com/memorial/567125/fern_a-deveny) plus archived screenshot | Parents/birthplace claim Midvale, Idaho; conflicts W39 on birthplace (C20) |
+| W15 | [Zillow — 1623 NE 73rd Ave](https://www.zillow.com/homedetails/1623-NE-73rd-Ave-Portland-OR-97213/53891405_zpid/) | Corroborates 1912 / 1,102 sq ft / 5,724 lot / 2 bed 1 bath |
+| W16 | [Oregon SOS — Multnomah County Records Inventory](https://sos.oregon.gov/archives/county-records-guide/Pages/multnomah-inventory.aspx) | Probate-file availability guidance |
+| W17 | [Multnomah Circuit Court Records](https://www.courts.oregon.gov/courts/multnomah/records/pages/default.aspx) | Fern probate request path |
+| W18 | [Multnomah Recording & Customer Service](https://multco.us/departments/recording-customer-service) | Pre-2002 deed access |
+| W19 | [Multnomah County — House and Property History Records](https://multco.us/info/house-and-property-history-records) | Research guide |
+| W20 | [NARA 1950 Census search](https://1950census.archives.gov/search/) | Free original schedules; ED 37-206 |
+| W21 | [MCL — Portland city directories](https://multcolib.org/who-lived-my-house-find-past-residents-portland-city-directories) | Reverse-directory method |
+| W22 | [Multnomah — Property Records and Recording](https://multco.us/info/property-records-and-recording) | DART/home-print cutoff; older images via office |
+| W23 | [Polk's Portland city directory, 1956](https://archive.org/details/polksportlandcity1956porich) | Edgar A. (Fern A.) at 1623 NE 73d; extract in `sources/ingested/research-notes/polk-directories-1956-1959.md` |
+| W24 | [Polk's Portland city directory, 1957](https://archive.org/details/polksportlandcity1957porich) | Edgar A. (Fern A.), printer Ivy Press, h1623 NE 73d |
+| W25 | [Polk's Portland city directory, 1959](https://archive.org/details/polksportlandcity1959rich) | Edgar at 1623; reverse list; AL 2-4971 |
 | W26 | *Oregon Journal*, 12 Jan 1951, p. 15 — Nola Diane DeVeny / Jack Howard Fick | Married **31 Dec 1950**; parents Mr. and Mrs. E. A. DeVeny. Scan: `photos/genealogy/1951-01-12-oregon-journal-nola-deveny-fick-wedding.png` |
-| W27 | *Oregon Journal*, 26 Apr 1969 — Edgar A. DeVeny death notice | Residence **1623 NE 73rd Ave**; wife Fern; daughters Irene F. Taylor, Nola D. Dowty |
-| W28 | 28 Apr 1969 Edgar A. DeVeny funeral notice | Repeats address/service; publication labeling in earlier files varied |
+| W27 | *Oregon Journal*, 26 Apr 1969 — Edgar A. DeVeny death notice | Residence **1623 NE 73rd Ave**; wife Fern; daughters Irene F. Taylor, Nola D. Dowty. Scan: `photos/genealogy/1969-04-26-oregon-journal-edgar-deveny-death-notice.png` |
+| W28 | 28 Apr 1969 Edgar A. DeVeny funeral notice | Repeats address/service; scan: `photos/genealogy/1969-04-28-oregon-journal-edgar-deveny-funeral-notice.png` |
 | W29 | *Oregon Journal*, 7 Jun 1967, p. 18 — Denise Genevieve Dowty birth | Reports **23 May 1967**, Bess Kaiser; parents **of Milwaukie**; conflicts W38 on birth day (C18) |
 | W30 | “Nola D. DeVeny Weds Saturday” — Lloyd Wallace Dowty | Wedding clipping; earlier S2026c September-date inference is **superseded by W37**, which directly gives 8 Nov 1952 |
 | W31 | *Oregon Journal*, 6 Oct 1954 — Bruce Edgar Dowty | Born 2 Oct 1954; grandparents Edgar A. DeVeny |
 | W32 | *Oregon Journal*, 15 Feb 1957 — Diane Fern Dowty | Born 8 Feb 1957; brother called Bruce Lloyd |
 | W33 | James B. DeVeny funeral notice, 1 Nov 1945 | Home **0214 SW Dakota St**; scan `photos/genealogy/1945-11-01-james-b-deveny-funeral-notice.png` |
 | **W34** | ***Oregon Journal*, 21 Sep 1920 — James Goodwin death notice** | James Goodwin died 18 Sep; father of **Mrs. Sophia DeVeny of 102 Dakota Street**. Resolves C16 to **Goodwin**. Scan: `photos/genealogy/1920-09-21-oregon-journal-deveney.png` |
-| **W35** | ***Oregonian*, 2 Nov 1945 — James Benjamin DeVeny obituary** | Home 0214 SW Dakota; born 14 Aug 1871 Memphis; sons include E.A., L.R., Howard; family-link corroboration. Scan: `photos/genealogy/1945-james-b-deveny-funeral-notice-oregonian.png` |
+| **W35** | ***Oregonian*, 2 Nov 1945 — James Benjamin DeVeny obituary** | Home 0214 SW Dakota; born 14 Aug 1871 Memphis; sons include E.A., L.R., Howard. Scan: `photos/genealogy/1945-james-b-deveny-funeral-notice-oregonian.png` |
 | **W36** | ***Oregonian*, 4 Nov 1952 — Portland Marriage Licenses** | **Nola D. DeVeny, 1623 N.E. 73d**; Lloyd W. Dowty, 4807 N.E. 75th. Direct Nola-at-1623 anchor. Scan: `photos/genealogy/1952-nola-deveny-lloyd-dowty-marriage-license-oregonian.png` |
 | **W37** | ***Oregonian*, 11 Nov 1952 — Nola/Lloyd wedding article** | Wedding **8 Nov 1952**; Nola Diane DeVeny; parents Edgar A. DeVeny; Grant Park Baptist. Corrects prior September inference. Scan: `photos/genealogy/1952-nola-deveny-lloyd-dowty-wedding-oregonian.png` |
 | **W38** | ***Oregonian*, 8 Jun 1967 — Denise Genevieve Dowty birth notice** | Reports **25 May 1967**; same family as W29, which says 23 May. Creates C18. Scan: `photos/genealogy/1967-denise-genevieve-dowty-birth-notice-oregonian.png` |
