@@ -12,172 +12,237 @@ events:
     date: "1907-09"
     status: context
     title: Jonesmore lots marketed; generic build-for-buyer offer
-    certainty: "5/5 context; 1/5 builder of this house"
     sources: [W6]
+
   - id: E1912-boom
     date: "1912-04-07"
     status: context
     title: North Jonesmore building boom reported
     sources: [W7]
+
   - id: E1912-build
     date: "1913-03-13"
     date_note: final inspection; first inspection 1912-03-02
     status: documented
     title: New 1-story frame dwelling plumbing inspection
     sources: [P1, W1]
-    reading: first 1912-03-02; final 1913-03-13
-    s2022_reading_not_carried: first inspection 2/2/1912 (queried)
-    prior_reading_not_carried: September 1912 misread
+
   - id: E1912-owner
     date: "1912"
-    status: documented
-    conflict: [C03]
-    title: DeVeny named as owner on first plumbing card
+    status: documented_name_identity_open
+    conflict: C03
+    title: Mr. J. Deveny named as owner on first plumbing card
     sources: [P1]
-    reading: Mr. J. Deveny
-    s2022_reading_not_carried: M. J. Deveny
+
   - id: E-pre1933-address
     date: before-1933
     status: disputed
     conflict: C04
     title: Earlier street number 369
     sources: [P1, W10, S2022]
+
+  - id: E1920-goodwin
+    date: "1920-09-21"
+    status: accepted_family_context
+    title: James Goodwin death notice identifies daughter Mrs. Sophia DeVeny of 102 Dakota Street
+    notes: Resolves C16 to Goodwin; does not prove title to 1623.
+    sources: [W34]
+
   - id: E1939-sewer
     date: "1939-09-26"
     status: accepted
     title: Change from cesspool to sewer; permit 41973
-    certainty: "5/5"
     sources: [P2, P4, P5]
+
   - id: E1940-census
-    date: "1940"
-    status: occupancy_working_not_title
-    conflict: C05
-    title: Edgar Deveney household enumerated at 1623
-    household: [Edgar Deveney 44, Fern Deveney 34, Irene Deveney 17, Nola Deveney 6]
+    date: "1940-04-02"
+    status: documented_occupancy_reported_tenure_not_deed
+    title: Edgar DeVeny household enumerated at 1623 on original census schedule
+    ed: "37-308"
+    sheet: "1A"
+    lines: "16-19"
+    household:
+      - Edgar DeVeny, 44, head
+      - Fern DeVeny, 34, wife
+      - Irene DeVeny, 17, daughter
+      - Nola DeVeny, 6, daughter
+    tenure: owned
+    home_value: 1500
+    notes: C05 resolved; census-reported ownership is not substituted for a deed.
     sources: [P7, S2022]
+
   - id: E1945-james-address
-    date: "1945-11-01"
+    date: "1945-11-02"
     status: accepted
-    title: James B. DeVeny funeral notice gives home 0214 SW Dakota St, not 1623
-    notes: Occupancy at death; does not resolve whether he was the 1912 Mr. J. Deveny (C03).
-    sources: [W33, S2026c]
+    title: James Benjamin DeVeny obituary gives home 0214 SW Dakota Street
+    notes: W35 gives birth 1871-08-14 Memphis and sons including E.A.; W33 is the 1945-11-01 notice. Does not resolve C03.
+    sources: [W33, W35, S2026c]
+
   - id: E1947-water
     date: "1947-02-07"
     status: work_accepted_identity_disputed
     conflict: C06
-    title: Water service replacement; owner Mrs. Deveny
+    title: Water-service replacement; owner Mrs. Deveny
     sources: [P3]
+
   - id: E1950-census
     date: "1950-04-01"
     status: occupancy_documented_not_title
     title: Edgar A. Deveny household enumerated at 1623
-    household: [Edgar A. Deveny 54 printer, Fenn A. Deveny 44 wife, Nala D. Deveny 16 unmarried daughter]
-    notes: ED 37-206. Indexed Fenn/Nala = Fern/Nola. Irene not listed. Occupancy only (C05 rule).
+    household:
+      - Edgar A. Deveny, 54, printer
+      - Fenn A. Deveny, 44, wife
+      - Nala D. Deveny, 16, unmarried daughter
+    notes: ED 37-206. Indexed Fenn/Nala = Fern/Nola. Irene absent.
     sources: [P8, W20]
+
   - id: E1950-nola-marriage
     date: "1950-12-31"
     status: documented
     title: Nola Diane DeVeny married Jack Howard Fick
-    notes: Oregon Journal 1951-01-12. "At home here" is Portland, not 1623 occupancy.
     sources: [W26]
+
+  - id: E1952-nola-license
+    date: "1952-11-04"
+    status: documented_address
+    title: Marriage-license listing places Nola D. DeVeny at 1623 N.E. 73d
+    notes: Lloyd W. Dowty listed at 4807 N.E. 75th. License listing is not the wedding date.
+    sources: [W36]
+
   - id: E1952-nola-dowty-marriage
-    date: "1952-09-20"
-    date_precision: working_inference
-    status: working
+    date: "1952-11-08"
+    status: documented
     title: Nola Diane DeVeny married Lloyd Wallace Dowty
-    notes: S2026c infers 20 Sep from a clipping dated 26 Sep 1952; verify the W30 masthead. How the Fick marriage ended is not documented.
-    sources: [W30, S2026c]
+    notes: Oregonian 1952-11-11 directly gives the wedding date; supersedes old September inference from W30/S2026c.
+    sources: [W37, W30]
+
   - id: E1954-bruce-birth
     date: "1954-10-02"
     status: accepted
     title: Bruce Edgar Dowty born
-    notes: W31 calls him Bruce Edgar; W32 later calls the brother Bruce Lloyd. Family event, not evidence of 1623 occupancy.
+    notes: W32 later calls the brother Bruce Lloyd.
     sources: [W31, W32]
+
   - id: E1956-dir
     date: "1956"
     status: occupancy_working
     title: Polk directory — Edgar A. (Fern A.) at 1623 NE 73d
     sources: [W23]
+
   - id: E1957-diane-birth
     date: "1957-02-08"
     status: accepted
     title: Diane Fern Dowty born
-    notes: Family event, not evidence of 1623 occupancy.
     sources: [W32]
+
   - id: E1957-dir
     date: "1957"
     status: occupancy_working
     title: Polk directory — Edgar printer Ivy Press h1623 NE 73d
     sources: [W24]
+
   - id: E1959-dir
     date: "1959"
     status: occupancy_working
     title: Polk directory and reverse list — Edgar A. DeVeny at 1623, AL 2-4971
     sources: [W25]
+
   - id: E1962-aerial
     date: "1962"
     status: accepted
     title: House visible on Portland Maps aerial; 1611 immediately south
     sources: [M1962]
+
   - id: E1966-oil
     date: "1966"
     date_precision: month_disputed
-    conflict: [C07, C08]
+    status: documented_with_open_readings
+    conflicts: [C07, C08]
     title: Oil burner; 275-gallon basement tank; installed for E. A. DeVeny
     sources: [P6]
+
   - id: E1967-denise-birth
-    date: "1967-05-23"
-    status: accepted
+    date: "1967-05"
+    date_precision: disputed_day
+    status: identity_and_family_accepted_date_disputed
+    conflict: C18
     title: Denise Genevieve Dowty born; parents reported of Milwaukie
-    notes: Establishes the Lloyd and Nola Dowty household in Milwaukie in 1967. Supports a separate household but does not prove Nola never later returned to 1623 (C11).
-    sources: [W29, W27]
+    w29_date: "1967-05-23"
+    w38_date: "1967-05-25"
+    notes: W29 establishes the Lloyd/Nola Dowty household in Milwaukie; newspapers disagree by two days on birth date.
+    sources: [W29, W38, W27]
+
   - id: E1969-edgar-death
     date: "1969-04-24"
     status: accepted
     title: Edgar A. DeVeny died; notices give residence 1623 NE 73rd Ave
-    sources: [W27, W28, W2, W3, W13, S2026b]
-    death_notice: Oregon Journal 1969-04-26
-    funeral_notice: Oregon Journal 1969-04-28
+    death_notice: "Oregon Journal 1969-04-26"
+    funeral_notice: "1969-04-28"
     survivors: [Fern A. DeVeny, Irene F. Taylor, Nola D. Dowty]
+    sources: [W27, W28, W2, W3, W13]
+
+  - id: E1969-1986-fern
+    date: "1969/1986"
+    status: strong_working_identity
+    title: Elderly woman remembered living alone at 1623 very likely Fern, not Nola
+    notes: C19 resolved. Neighbor knew Fern; Nola documented in Milwaukie in 1967 and 1987. Exact last residence date for Fern remains unknown.
+    sources: [O2, O3, W27, W29, W40]
+
   - id: E1986-fern-death
     date: "1986-07-18"
-    status: date_accepted_place_disputed
-    conflict: C10
-    title: Fern A. DeVeny died
-    sources: [W4, W14, O2]
+    status: documented_place_of_death
+    title: Fern A. DeVeny died at Friendship Care Center
+    place_of_death: Friendship Care Center
+    notes: W39 corrects O2's recollection that Fern died at the house. Birthplace conflict Cambridge vs Midvale remains C20.
+    sources: [W39, W4, W14, O2]
+
+  - id: E1987-irene-obituary
+    date: "1987-09-17"
+    status: accepted
+    title: Irene Fern DeVeny Taylor obituary places sister Nola Dowty in Milwaukie
+    notes: Also records Irene's WWII shipyard welding, Oregon Journal work and Ikebana activity.
+    sources: [W40]
+
   - id: E1986-1992-occupancy
     date: "1986/1992"
-    status: disputed
+    status: mixed_open
     conflict: C11
-    title: Occupancy between Fern's death and 1992 sale
-    sources: [O1, O2, S2022, S2026]
+    title: Occupancy and title between Fern's final residence and 1992 sale
+    notes: Fern's last date at 1623 unknown; Nola in Milwaukie 1987; tenant-occupied at 1992 purchase; title path Fern/estate to Nola unknown.
+    sources: [W39, W40, O1, O2, S2022, S2026]
+
   - id: E1992-sale
     date: "1992-12-01"
     status: working
-    conflict: [C12, C13]
-    title: Nola D. Dowty sold to Wayne Irvin et al for $64950
-    notes: Wayne is Christine M. Irvin's father (O1). Christine likely among et al. Deed required.
+    conflicts: [C12, C13]
+    title: Nola D. Dowty sold to Wayne Irvin et al. for $64950
+    notes: Wayne is Christine M. Irvin's father; deed required for exact grantee list/title form.
     sources: [W1, S2022, O1, S2026b]
+
   - id: E1992-tenant
     date: "1992"
     status: oral
     title: Tenant-occupied at Christine's purchase; Christine did not later rent it
     sources: [O1]
+
   - id: E1992-1999-tank
     date: "1992/1999"
     status: oral
-    title: Basement oil tank removed; given to 1611; possible gas furnace
+    title: Basement oil tank removed; reportedly given to 1611; possible gas-furnace conversion
     notes: P6 basement tank only; no UST (C09 resolved).
     sources: [O4, P6, O1]
+
   - id: E1999-sale
     date: "1999"
     date_precision: day_disputed
+    status: working
     conflict: C14
     title: Sale $127,000 to Rodney A. Young ET AL from Christine M. Irvin
     s2022_date: "1999-05-01"
     w1_date: "1999-05-27"
     owner_recall: summer/July 1999
     sources: [W1, S2022, O1]
+
   - id: E2018-firepit
     date: "2018-05-02"
     status: accepted
