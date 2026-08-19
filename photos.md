@@ -8,7 +8,6 @@ Working copies for daily use. Unaltered originals also remain under `sources/ing
 
 Each card has an S2026 scan (usually clearer) and an S2022 companion from the Word notes.
 
-
 | File                                                            | What it is                             | Source IDs |
 | --------------------------------------------------------------- | -------------------------------------- | ---------- |
 | `photos/permits/1912-plumbing-inspection.png`                   | New-dwelling plumbing card (best scan) | P1, S2026  |
@@ -22,34 +21,27 @@ Each card has an S2026 scan (usually clearer) and an S2022 companion from the Wo
 | `photos/permits/1966-oil-burner-permit.jpg`                     | Basement oil tank / warm air           | P6, S2026  |
 | `photos/permits/1966-oil-burner-permit-2022-scan.jpeg`          | Same permit from 2022 notes            | P6, S2022  |
 
-
 P5 (sewer/service sketch) is described in S2026 (529994.pdf) and also appears on the reverse/lower portion of the P2 scan. No separate named file yet.
 
 ---
 
+## Genealogy and census
 
-
-## Genealogy and census (from S2022)
-
-These are screenshots of databases, not substitutes for the underlying certificate or census sheet.
-
-
-| File                                                        | What it is                            | Source IDs         |
+| File                                                        | What it is                            | Source IDs / status |
 | ----------------------------------------------------------- | ------------------------------------- | ------------------ |
-| `photos/genealogy/1940-census-edgar-deveney-household.jpeg` | Ancestry 1940 census summary for 1623 | P7                 |
+| `photos/genealogy/1940-census-edgar-deveney-household.jpeg` | Ancestry 1940 census summary for 1623 | P7 |
+| `photos/genealogy/1940-census-1623-page-capture.png` | New 2026-08-18 page-style 1940 census capture; exact ED/sheet/line still needs visual verification before P7 is upgraded | intake `SC-001` |
+| `sources/ingested/census/1940-nara-ed-descriptions-37-228-37-230.htm` | Saved NARA Catalog finding-aid page for ED 37-228, 37-229, 37-230; does not by itself identify 1623's ED | intake `SC-002` |
 | `sources/ingested/census/1950-united-states-federal-census-ed-37-206.mhtml` | Ancestry 1950 image-viewer save (ED 37-206 index) | P8 |
 | `photos/genealogy/james-benjamin-deveny-family-tree.jpeg`   | James Benjamin family tree            | S2022, W12 context |
-| `photos/genealogy/findagrave-edgar-arthur-deveny.jpeg`      | Edgar memorial + stone                | W13                |
-| `photos/genealogy/findagrave-fern-a-deveny.jpeg`            | Fern memorial + stone                 | W4, W14            |
-| `photos/genealogy/lloyd-wallace-dowty-family-tree.jpeg`     | Lloyd / Diana Nola / Diane Fern       | S2022              |
-
+| `photos/genealogy/findagrave-edgar-arthur-deveny.jpeg`      | Edgar memorial + stone                | W13 |
+| `photos/genealogy/findagrave-fern-a-deveny.jpeg`            | Fern memorial + stone                 | W4, W14 |
+| `photos/genealogy/lloyd-wallace-dowty-family-tree.jpeg`     | Lloyd / Diana Nola / Diane Fern       | S2022 |
+| `photos/genealogy/sophia-deveny-capture.png` | New Sophia capture; document type and text not yet verified | intake `SC-011` |
 
 ---
 
-
-
-## Newspaper clippings
-
+## Newspaper clippings — accepted / already integrated
 
 | File                                                                         | What it is                                                                                   | Source IDs |
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------- |
@@ -62,17 +54,31 @@ These are screenshots of databases, not substitutes for the underlying certifica
 | `photos/genealogy/1969-04-26-oregon-journal-edgar-deveny-death-notice.png`   | *Oregon Journal* 26 Apr 1969: Edgar of 1623; Fern A.; Irene F. Taylor; Nola D. Dowty         | W27        |
 | `photos/genealogy/1969-04-28-oregon-journal-edgar-deveny-funeral-notice.png` | *Oregon Journal* 28 Apr 1969: shorter funeral notice, same address                           | W28        |
 
-
 Ingested originals: `sources/ingested/newspapers/`.
 
 ---
 
+## Newspaper / genealogy captures received 2026-08-18 — pending visual transcription
 
+These files are organized and preserved, but **not yet promoted to stable W/P source IDs**. Some may be alternate scans of W29/W30/W33; others appear to be new sources. See the full intake analysis at `sources/ingested/research-notes/2026-08-18-screen-capture-intake.md` and machine checklist `data/screen-capture-intake-2026-08-18.yaml`.
+
+| Working copy | Intake | Why it matters |
+| --- | --- | --- |
+| `photos/genealogy/1945-11-01-james-b-deveny-funeral-notice-part-2.png` | SC-003 | Compare with W33; may be continuation/alternate crop. |
+| `photos/genealogy/1967-denise-genevieve-dowty-birth-notice-oregonian.png` | SC-004 | Compare with W29; filename says Oregonian while W29 is Oregon Journal, so source identity must be checked. |
+| `photos/genealogy/1920-09-21-oregon-journal-deveney.png` | SC-005 | New early-family lead; transcribe before assessing C03 relevance. |
+| `photos/genealogy/fern-deveny-funeral-notice-oregonian.png` | SC-006 | High-priority C10 evidence candidate; residence/place-of-death wording must be read exactly. |
+| `photos/genealogy/irene-f-taylor-funeral-notice.png` | SC-007 | Could extend Irene's biography after identity/date verification. |
+| `photos/genealogy/1945-james-b-deveny-funeral-notice-oregonian.png` | SC-008 | Compare with W33; may confirm publication or be a separate notice. |
+| `photos/genealogy/1952-nola-deveny-lloyd-dowty-marriage-license-oregonian.png` | SC-009 | Could provide a license date; do not equate a license date with wedding date. |
+| `photos/genealogy/1952-nola-deveny-lloyd-dowty-wedding-oregonian.png` | SC-010 | Compare with W30; could verify/correct exact wedding/publication date. |
+| `photos/genealogy/sophia-deveny-obituary-oregonian.png` | SC-012 | Could bear on C03/C16 and family context after transcription. |
+
+---
 
 ## Aerials
 
 Portland Maps originals also live in `sources/ingested/portland-maps/`.
-
 
 | File                                                              | Date                    | Notes                                                                                                                                                           |
 | ----------------------------------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -91,30 +97,23 @@ Portland Maps originals also live in `sources/ingested/portland-maps/`.
 | `photos/aerials/Portland Maps 2024 Summer.jpg`                    | 2024                    | Pergola is partly obfuscating the fire pit                                                                                                                      |
 | `photos/aerials/Portland Maps 2025 Summer.jpg`                    | 2025                    | Pergola is "closed" blocking view of the fire pit                                                                                                               |
 
-
 ---
 
-
-
 ## Plans
-
 
 | File                                                                                 | Date       | Notes                                                                         |
 | ------------------------------------------------------------------------------------ | ---------- | ----------------------------------------------------------------------------- |
 | `photos/plans/Backyeard Firepit plans - 1623 NE 73rd Ave - May 2 2018 - 3-33 PM.pdf` | 2018-05-02 | Filename spelling left as in the original. Also in `sources/ingested/plans/`. |
 
-
 ---
 
-
-
-## Still missing (high value)
+## Still missing / still needing confirmation (high value)
 
 - Any **ground-level historic photo** of the house (porch, street elevation, interior)
-- Original **1940 census sheet** (not just the Ancestry card)
+- **1940 census capture:** received, but exact ED / sheet / line and visible fields still need transcription before P7 is upgraded
 - Optional crop of **1950** ED 37-206 lines 1–3 (index already P8)
 - **1992 and 1999 deeds**
 - Photos of the **oil tank**, **furnace**, and **1611** transfer if they exist
 - Named photos of **Fern, Edgar**, or later occupants **at this address** (Nola’s W26 portrait is a wedding-page headshot, not a house photo)
 
-Drop new photos in `photos/` (or a dated subfolder) and add a row here.
+Drop new photos under the appropriate `sources/ingested/` folder. Working copies belong in `photos/`. If a capture cannot yet be read/identified reliably, add it to an intake manifest before assigning a stable source ID.
