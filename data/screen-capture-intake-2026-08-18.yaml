@@ -1,83 +1,111 @@
-# Intake manifest for commit 04126ebeac2f103153cbb0e332e283b907d20f6b.
-# These are not stable P/W source IDs until visual transcription establishes source identity.
-status: needs_visual_transcription
+# Intake manifest for the 2026-08-18 screenshot batch.
+# Major visually readable items are now integrated. Only the Sophia/Sophie captures remain pending for additional detail.
+status: partially_integrated
 source_commit: 04126ebeac2f103153cbb0e332e283b907d20f6b
+transcription_note: sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md
 items:
   - intake_id: SC-001
     original_name: 1940 Census 1623.png
     blob_sha: 102b6feeff986d69450f1826a3c78cca0f2817eb
     canonical_original: sources/ingested/census/1940-census-1623-page-capture.png
     working_copy: photos/genealogy/1940-census-1623-page-capture.png
-    candidate_relationship: P7 upgrade
-    follow_up: verify ED, sheet, lines, address, household and tenure fields before upgrading P7
+    status: integrated
+    stable_source_id: P7
+    result: original schedule; ED 37-308; sheet 1A; lines 16-19; 1623 household; owned; $1500
+
   - intake_id: SC-002
     original_name: 1940 Census Enumeration District Descriptions - Oregon - Multnomah County - ED 37-228, ED 37-229, ED 37-230.htm
     blob_sha: ab6d3245e367610c9e6feec1a15d30f687376f84
     canonical_original: sources/ingested/census/1940-nara-ed-descriptions-37-228-37-230.htm
     catalog_id: "5878834"
-    follow_up: determine which ED contains 1623; description page alone does not establish the address-to-ED link
+    status: preserved_finding_aid_not_house_ed
+    result: actual P7 schedule independently establishes house ED as 37-308; this saved page is not used for the address-to-ED link
+
   - intake_id: SC-003
     original_name: 945-11-01-james-b-deveny-funeral-notice  part 2.png
     blob_sha: e7d9486d5fb0dfe2037e13e4004c7e14926d8d82
     canonical_original: sources/ingested/newspapers/1945-11-01-james-b-deveny-funeral-notice-part-2.png
     working_copy: photos/genealogy/1945-11-01-james-b-deveny-funeral-notice-part-2.png
-    compare_with: W33
+    status: alternate_or_continuation_crop
+    related_sources: [W33, W35]
+    result: no separate stable W ID assigned solely for this crop
+
   - intake_id: SC-004
     original_name: Denise Genevieve Dowty Birth Notice Oregonian.png
     blob_sha: 48470d10306389e8809bce6541ba93a36243e8ea
     canonical_original: sources/ingested/newspapers/1967-denise-genevieve-dowty-birth-notice-oregonian.png
     working_copy: photos/genealogy/1967-denise-genevieve-dowty-birth-notice-oregonian.png
-    compare_with: W29
-    caution: W29 is currently Oregon Journal; verify whether this is a separate Oregonian notice or an alternate/mislabeled capture
+    status: integrated
+    stable_source_id: W38
+    result: reports 1967-05-25; conflicts with W29 1967-05-23
+    conflict: C18
+
   - intake_id: SC-005
     original_name: Deveney Oregon Journal September 21, 1920.png
     blob_sha: c9ed45b229d4e760f0f511e8d862cb6a219a3fcf
     canonical_original: sources/ingested/newspapers/1920-09-21-oregon-journal-deveney.png
     working_copy: photos/genealogy/1920-09-21-oregon-journal-deveney.png
-    candidate_conflicts: [C03]
+    status: integrated
+    stable_source_id: W34
+    result: James Goodwin death notice identifies daughter Mrs. Sophia DeVeny of 102 Dakota Street; resolves C16 to Goodwin
+
   - intake_id: SC-006
     original_name: Fern Funeral Notice Oregonian.png
     blob_sha: 8178cd88a11e6c87956e8a5dfb84754aa345b3e9
     canonical_original: sources/ingested/newspapers/fern-deveny-funeral-notice-oregonian.png
     working_copy: photos/genealogy/fern-deveny-funeral-notice-oregonian.png
-    candidate_conflicts: [C10]
-    priority: high
+    status: integrated
+    stable_source_id: W39
+    result: Fern died 1986-07-18 at Friendship Care Center; Nola of Milwaukie; C10 resolved; C19 supported; C20 created
+
   - intake_id: SC-007
     original_name: Irene Funeral Notice.png
     blob_sha: 34ef1ecd2947cb3383fb4e5ec2cd88c947736cab
     canonical_original: sources/ingested/newspapers/irene-f-taylor-funeral-notice.png
     working_copy: photos/genealogy/irene-f-taylor-funeral-notice.png
-    follow_up: verify identity as Irene F. Taylor and extract date, residence and family links
+    status: integrated
+    stable_source_id: W40
+    result: Irene Fern DeVeny Taylor obituary; sister Nola Dowty of Milwaukie; later-life biography
+
   - intake_id: SC-008
     original_name: James B Deveny Funeral Notice Oregonian.png
     blob_sha: bbcda09ebe8858f093682e0a4c656048acd530b4
     canonical_original: sources/ingested/newspapers/1945-james-b-deveny-funeral-notice-oregonian.png
     working_copy: photos/genealogy/1945-james-b-deveny-funeral-notice-oregonian.png
-    compare_with: W33
+    status: integrated
+    stable_source_id: W35
+    result: James Benjamin DeVeny obituary; 0214 SW Dakota; born 1871-08-14 Memphis; sons include E.A., L.R., Howard
+
   - intake_id: SC-009
     original_name: Nola Deveny Marriage Licence to Lloyd Oregonian.png
     blob_sha: 5a471cd845c043523a5df4f3d29a4a48758045ea
     canonical_original: sources/ingested/newspapers/1952-nola-deveny-lloyd-dowty-marriage-license-oregonian.png
     working_copy: photos/genealogy/1952-nola-deveny-lloyd-dowty-marriage-license-oregonian.png
-    follow_up: distinguish license date from wedding date
+    status: integrated
+    stable_source_id: W36
+    result: 1952-11-04 listing places Nola D. DeVeny at 1623 N.E. 73d; Lloyd W. Dowty at 4807 N.E. 75th
+
   - intake_id: SC-010
     original_name: Nola Deveny Wedding to Lloyd Oregonian.png
     blob_sha: 375e49f21d8926b4a16c93997c32e43843fd4d0c
     canonical_original: sources/ingested/newspapers/1952-nola-deveny-lloyd-dowty-wedding-oregonian.png
     working_copy: photos/genealogy/1952-nola-deveny-lloyd-dowty-wedding-oregonian.png
-    compare_with: W30
-    follow_up: verify publication date and exact wedding date
+    status: integrated
+    stable_source_id: W37
+    result: Oregonian 1952-11-11 directly gives wedding date 1952-11-08; prior September inference rejected
+
   - intake_id: SC-011
     original_name: Sophia Devny.png
     blob_sha: abc80462fb25d1449b5006659af3e221385550e2
     canonical_original: sources/ingested/genealogy/sophia-deveny-capture.png
     working_copy: photos/genealogy/sophia-deveny-capture.png
-    candidate_conflicts: [C16]
-    follow_up: identify document type before using any claim
+    status: needs_visual_transcription_for_additional_detail
+    note: C16 already resolved to Goodwin from W34; transcribe only for additional dates/residences/relationships
+
   - intake_id: SC-012
     original_name: Sophie Devny Obituary Oregonian.png
     blob_sha: eb9dcb1c25ec3dace868fe94e27987adf415fe0a
     canonical_original: sources/ingested/newspapers/sophia-deveny-obituary-oregonian.png
     working_copy: photos/genealogy/sophia-deveny-obituary-oregonian.png
-    candidate_conflicts: [C03, C16]
-    follow_up: transcribe name spelling, date, residence, family and maiden-name wording
+    status: needs_visual_transcription_for_additional_detail
+    note: C16 already resolved to Goodwin from W34; do not infer parcel title without an address/property link
