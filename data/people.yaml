@@ -5,7 +5,7 @@ people:
     role: named owner on 1912 plumbing card
     reading: Mr. J. Deveny (C02 resolved)
     sources: [P1]
-    conflict: C03
+    conflicts: [C03]
 
   - id: person-james-benjamin-deveny
     name: James Benjamin DeVeny
@@ -16,7 +16,7 @@ people:
     family_note: W35 names sons including E.A., L.R., and Howard DeVeny
     house_claim: possible original owner; not proved for 1912 parcel
     sources: [S2022, W12, W33, W35]
-    conflict: C03
+    conflicts: [C03]
 
   - id: person-sophia-charlotte-deveny
     name: Sophia Charlotte Goodwin DeVeny
@@ -191,7 +191,7 @@ people:
     role: named 1992 purchaser (et al.)
     relation: father of Christine M. Irvin
     sources: [S2022, O1, S2026b]
-    conflict: C12
+    conflicts: [C12]
 
   - id: person-christine-m-irvin
     name: Christine M. Irvin
@@ -201,17 +201,17 @@ people:
       rented_after_purchase: false
       source: O1
     sources: [S2022, O1, W1, S2026b]
-    conflict: C12
+    conflicts: [C12]
 
   - id: person-randy
     name: Randy
     role: named with Christine as previous owner/occupant in S2022
     sources: [S2022, O3]
-    conflict: C13
+    conflicts: [C13]
 
   - id: person-rodney-a-young
     name: Rodney A. Young
     role: current owner; compiler of S2022; informant O1
     purchase: 1999
     sources: [S2022, O1, W1]
-    conflict: C14
+    conflicts: [C14]

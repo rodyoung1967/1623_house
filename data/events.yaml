@@ -30,14 +30,14 @@ events:
   - id: E1912-owner
     date: "1912"
     status: documented_name_identity_open
-    conflict: C03
+    conflicts: [C03]
     title: Mr. J. Deveny named as owner on first plumbing card
     sources: [P1]
 
   - id: E-pre1933-address
     date: before-1933
     status: disputed
-    conflict: C04
+    conflicts: [C04]
     title: Earlier street number 369
     sources: [P1, W10, S2022]
 
@@ -81,7 +81,7 @@ events:
   - id: E1947-water
     date: "1947-02-07"
     status: work_accepted_identity_disputed
-    conflict: C06
+    conflicts: [C06]
     title: Water-service replacement; owner Mrs. Deveny
     sources: [P3]
 
@@ -165,12 +165,12 @@ events:
     date: "1967-05"
     date_precision: disputed_day
     status: identity_and_family_accepted_date_disputed
-    conflict: C18
+    conflicts: [C18]
     title: Denise Genevieve Dowty born; parents reported of Milwaukie
     w29_date: "1967-05-23"
     w38_date: "1967-05-25"
     notes: W29 establishes the Lloyd/Nola Dowty household in Milwaukie; newspapers disagree by two days on birth date.
-    sources: [W29, W38, W27]
+    sources: [W29, W38]
 
   - id: E1969-edgar-death
     date: "1969-04-24"
@@ -206,7 +206,7 @@ events:
   - id: E1986-1992-occupancy
     date: "1986/1992"
     status: mixed_open
-    conflict: C11
+    conflicts: [C11]
     title: Occupancy and title between Fern's final residence and 1992 sale
     notes: Fern's last date at 1623 unknown; Nola in Milwaukie 1987; tenant-occupied at 1992 purchase; title path Fern/estate to Nola unknown.
     sources: [W39, W40, O1, O2, S2022, S2026]
@@ -236,7 +236,7 @@ events:
     date: "1999"
     date_precision: day_disputed
     status: working
-    conflict: C14
+    conflicts: [C14]
     title: Sale $127,000 to Rodney A. Young ET AL from Christine M. Irvin
     s2022_date: "1999-05-01"
     w1_date: "1999-05-27"

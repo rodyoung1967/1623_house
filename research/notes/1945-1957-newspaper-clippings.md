@@ -2,6 +2,8 @@
 
 Cited in the compiled Word history `1623_NE_73rd_Ave_House_History_2026-08-17.docx` (S2026c) as N2, N3, N4, N8. Archive IDs below.
 
+> **2026-08-19 consistency update:** This note preserves the original ingest context, but two readings are superseded by later direct review. W35 gives James Benjamin DeVeny's birth date as **14 Aug 1871**. W37 directly gives Nola/Lloyd's wedding date as **8 Nov 1952**. Do not use the older 19 Aug / September-1952 readings below as current conclusions.
+
 These are **family** records. None of them print **1623 NE 73rd** except by naming Edgar/Fern as grandparents or Nola’s parents.
 
 ## W33 — James B. DeVeny funeral notice, 1 Nov 1945
@@ -12,7 +14,7 @@ These are **family** records. None of them print **1623 NE 73rd** except by nami
 Working reading from the clipping / S2026c:
 
 - **James Benjamin DeVeny** died at his home, **0214 SW Dakota Street** (not 1623)
-- Born Memphis, Tennessee, August 1871 (S2026c reads **19 Aug**; re-read the day on the scan if needed)
+- Born Memphis, Tennessee, August 1871. S2026c read **19 Aug**; later direct review of the fuller 2 Nov *Oregonian* obituary (W35) gives **14 Aug 1871**, which is the current accepted reading.
 - In Portland about 61 years; services Saturday 11 a.m., Finley’s chapel; entombment Riverview Abbey
 
 **House use:** proves James was living **elsewhere by 1945**. It does **not** prove or disprove that he was the 1912 “Mr. J. Deveny” (C03).
@@ -21,14 +23,14 @@ Working reading from the clipping / S2026c:
 
 **File:** `photos/genealogy/1952-nola-deveny-lloyd-dowty-wedding.png`  
 **Headline:** “Nola D. DeVeny Weds Saturday”  
-**S2026c cite:** N2 — *Oregon Journal*, **26 Sept 1952**. Disk filename is **Nov 10 1952**; verify the masthead.
+**S2026c cite:** N2 — *Oregon Journal*, **26 Sept 1952**. Disk filename is **Nov 10 1952**; the publication-date ambiguity made the original inferred wedding date unreliable.
 
 Working reading:
 
 - Bride: **Miss Nola Diane DeVeny**, daughter of **Mr. and Mrs. E. A. DeVeny**
 - Groom: **Lloyd Wallace Dowty**, son of **Mr. and Mrs. Willard D. Dowty**
 - Grant Park Baptist Church; Rev. Stuart P. Benson; Mr. DeVeny gave her in marriage
-- S2026c infers wedding date **20 Sept 1952** (the Saturday before a 26 Sept paper). That inference depends on the publication date being 26 Sept, not 10 Nov.
+- **Superseded date inference:** S2026c inferred **20 Sept 1952** from the uncertain publication date. W37 later directly establishes the wedding as **8 Nov 1952**.
 
 The Fick marriage had ended by this date; how it ended is not in this clipping (open).
 

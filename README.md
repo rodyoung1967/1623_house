@@ -11,8 +11,9 @@ This is not a title report or legal ownership opinion. Every claim in this archi
 3. Use **[timeline.md](timeline.md)** as the dated working record.
 4. Use **[needed-records.md](needed-records.md)** as the master checklist of everything still worth collecting.
 5. Use **[research-queue.md](research-queue.md)** for exact offices, contacts, and search instructions for the highest-value records.
-6. The latest screenshot batch is documented in **[2026-08-18 screenshot transcriptions](sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md)**. Its original intake/status log is **[here](sources/ingested/research-notes/2026-08-18-screen-capture-intake.md)** with machine mirror `data/screen-capture-intake-2026-08-18.yaml`.
-7. Add new photos, deeds, and notes under `sources/ingested/` and log accepted sources in **[sources.md](sources.md)** and `data/sources.yaml`.
+6. The latest screenshot batch is documented in **[2026-08-18 screenshot transcriptions](research/notes/2026-08-18-screenshot-transcriptions.md)**. Its intake/status log is **[here](research/notes/2026-08-18-screen-capture-intake.md)** with machine mirror `data/screen-capture-intake-2026-08-18.yaml`.
+7. Repository-maintenance findings are recorded in **[the 2026-08-19 repository audit](research/audits/2026-08-19-repository-audit.md)**.
+8. Add preserved source files under `sources/ingested/`, derived extraction output under `sources/extracted/`, and project-created research notes under `research/notes/`. Log accepted sources in **[sources.md](sources.md)** and `data/sources.yaml`.
 
 ## Current high-value conclusions
 
@@ -38,10 +39,14 @@ This is not a title report or legal ownership opinion. Every claim in this archi
 | `decisions.md` | Resolved or working calls, with dates and evidence |
 | `needed-records.md` | Master collection checklist |
 | `research-queue.md` | Offices, contacts, searches, and next-record strategy |
+| `research/notes/` | Project-created transcriptions, source readings, methods, and follow-up research |
+| `research/audits/` | Repository and consistency audits |
 | `photos/` | Named working copies (permits, aerials, genealogy, clippings, plans) |
-| `sources/ingested/` | Preserved originals and research notes |
-| `sources/extracted/` | Images/plaintext extracted from compiled documents |
+| `sources/ingested/` | Preserved original/source files and captures |
+| `sources/extracted/` | Derived text/images extracted from compiled source documents |
 | `data/` | Machine-readable YAML mirrors of accepted sources, people, events, and intake state |
+
+`photos/` can intentionally contain a convenience copy that is byte-identical to a file under `sources/ingested/` or `sources/extracted/`. Git stores identical content as one blob; the separate paths preserve usability and provenance without duplicating the underlying object.
 
 ## Source documents ingested
 
@@ -49,11 +54,11 @@ This is not a title report or legal ownership opinion. Every claim in this archi
 | --- | --- | --- |
 | S2022 | `sources/ingested/2022-original-notes/1623 NE 73rd Ave.docx` | Word notes by Rod Young, created 2022-01-19, last saved 2022-04-11 |
 | S2026 | `sources/ingested/2026-evidence-report/1623_NE_73rd_Ave_House_History_Evidence_Report_2026-08-16.docx` | Evidence report assembled through 2026-08-16 |
-| S2026b | `sources/ingested/research-notes/2026-08-17-follow-up-research.md` | Follow-up research, 2026-08-17 |
+| S2026b | `research/notes/2026-08-17-follow-up-research.md` | Follow-up research, 2026-08-17; later evidence is reconciled in-place |
 | S2026c | `sources/ingested/2026-08-17-house-history/1623_NE_73rd_Ave_House_History_2026-08-17.docx` | Compiled working history; some dates later corrected by direct clippings |
-| 2026-08-18 review | `sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md` | Direct visual transcription of P7 and W34–W40 |
+| 2026-08-18 review | `research/notes/2026-08-18-screenshot-transcriptions.md` | Direct visual transcription of P7 and W34–W40 |
 
-Also ingested: Portland Maps aerials (1962–2025), the 2018 firepit plan, historic plumbing/sewer records, census saves, newspaper clippings, and research notes.
+Also ingested: Portland Maps aerials (1962–2025), the 2018 firepit plan, historic plumbing/sewer records, census saves, and newspaper clippings.
 
 ## Certainty scale
 
@@ -71,7 +76,7 @@ Oral history can be 4/5 when firsthand and specific. A contradicted detail is co
 
 - One claim, one or more source IDs. No unsourced factual assertions in the timeline.
 - If two credible sources disagree, add a conflict in `CONFLICTS.md`; do not silently pick a winner.
-- Keep original files in `sources/ingested/`. Put working copies and renamed scans in `photos/`.
+- Keep preserved source files in `sources/ingested/`; keep derived extraction output in `sources/extracted/`; put working copies and renamed scans in `photos/`; put project-created analysis/transcriptions in `research/notes/`.
 - New binary captures may remain in an intake manifest until visible text/source identity are checked; then promote them to stable IDs.
 - When resolving a conflict, update `decisions.md`, `CONFLICTS.md`, `timeline.md`, `house-history.md`, and the relevant YAML mirrors.
 - Put new events in date order in both `timeline.md` and `data/events.yaml`.

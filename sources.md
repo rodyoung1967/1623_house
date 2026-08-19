@@ -35,20 +35,20 @@ IDs are stable. New sources get the next number in the same prefix. Machine mirr
 
 ### S2026b — 2026-08-17 follow-up research
 
-- **File:** `sources/ingested/research-notes/2026-08-17-follow-up-research.md`
-- **Type:** Second-pass synthesis plus owner addendum
+- **File:** `research/notes/2026-08-17-follow-up-research.md`
+- **Type:** Second-pass synthesis plus owner addendum; later evidence reconciled in-place
 - **Use:** working 1992 wording; R193918; Fern probate/recorder path; stronger reading of neighbor interview
-- **Companion excerpt:** `sources/ingested/research-notes/multnomah-probate-inventory-excerpt.md`
+- **Companion excerpt:** `research/notes/multnomah-probate-inventory-excerpt.md`
 
 ### S2026c — 2026-08-17 compiled house history (Word)
 
 - **File:** `sources/ingested/2026-08-17-house-history/1623_NE_73rd_Ave_House_History_2026-08-17.docx`
-- **Plaintext extract:** `sources/ingested/2026-08-17-house-history/extracted-text.txt`
+- **Plaintext extract:** `sources/extracted/2026-08-17-house-history/extracted-text.txt`
 - **Use:** Nola/Dowty family newspaper material and James B. DeVeny 1945 material. Some dates in this compilation have since been corrected by direct visual review of W36/W37.
 
 ### 2026-08-18 screenshot transcription note
 
-- **File:** `sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md`
+- **File:** `research/notes/2026-08-18-screenshot-transcriptions.md`
 - **Use:** Visual transcription and integration record for P7 and W34–W40; documents corrections to C10, C16, C17, C19 and new conflicts C18/C20.
 - This note is a project transcription aid, not a replacement for the underlying images.
 
@@ -106,7 +106,7 @@ IDs are stable. New sources get the next number in the same prefix. Machine mirr
 - **Lines 16–19:** Edgar DeVeny 44 head; Fern 34 wife; Irene 17 daughter; Nola 6 daughter; house number **1623**
 - **Tenure fields:** **O (owned)**; home value **$1,500**; farm **No**
 - **Use:** direct occupancy and census-reported tenure. Not substituted for a recorded deed (C05).
-- **Transcription:** `sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md`
+- **Transcription:** `research/notes/2026-08-18-screenshot-transcriptions.md`
 
 ### P8 — 1950 U.S. Census household at 1623 NE 73rd
 
@@ -114,7 +114,7 @@ IDs are stable. New sources get the next number in the same prefix. Machine mirr
 - **Census day:** 1 Apr 1950
 - **ED:** **37-206**
 - **File:** `sources/ingested/census/1950-united-states-federal-census-ed-37-206.mhtml`
-- **Extract:** `sources/ingested/research-notes/1950-census-ed-37-206.md`
+- **Extract:** `research/notes/1950-census-ed-37-206.md`
 - **Ancestry image:** [collection 62308, Oregon-145375-0001](https://www.ancestry.com/imageviewer/collections/62308/images/43290879-Oregon-145375-0001)
 - **Contents:** Edgar A. Deveny, 54; Fenn A. (= Fern), 44; Nala D. (= Nola), 16 unmarried; address 1623 N.E. 73; Irene absent
 - **Use:** occupancy; not deed title
@@ -160,7 +160,7 @@ See [oral-history.md](oral-history.md) for full statements and reconciliation.
 | W20 | [NARA 1950 Census search](https://1950census.archives.gov/search/) | Free original schedules; ED 37-206 |
 | W21 | [MCL — Portland city directories](https://multcolib.org/who-lived-my-house-find-past-residents-portland-city-directories) | Reverse-directory method |
 | W22 | [Multnomah — Property Records and Recording](https://multco.us/info/property-records-and-recording) | DART/home-print cutoff; older images via office |
-| W23 | [Polk's Portland city directory, 1956](https://archive.org/details/polksportlandcity1956porich) | Edgar A. (Fern A.) at 1623 NE 73d; extract in `sources/ingested/research-notes/polk-directories-1956-1959.md` |
+| W23 | [Polk's Portland city directory, 1956](https://archive.org/details/polksportlandcity1956porich) | Edgar A. (Fern A.) at 1623 NE 73d; extract in `research/notes/polk-directories-1956-1959.md` |
 | W24 | [Polk's Portland city directory, 1957](https://archive.org/details/polksportlandcity1957porich) | Edgar A. (Fern A.), printer Ivy Press, h1623 NE 73d |
 | W25 | [Polk's Portland city directory, 1959](https://archive.org/details/polksportlandcity1959rich) | Edgar at 1623; reverse list; AL 2-4971 |
 | W26 | *Oregon Journal*, 12 Jan 1951, p. 15 — Nola Diane DeVeny / Jack Howard Fick | Married **31 Dec 1950**; parents Mr. and Mrs. E. A. DeVeny. Scan: `photos/genealogy/1951-01-12-oregon-journal-nola-deveny-fick-wedding.png` |
@@ -179,7 +179,7 @@ See [oral-history.md](oral-history.md) for full statements and reconciliation.
 | **W39** | ***Oregonian*, 22 Jul 1986 — Fern A. DeVeny obituary** | Fern died **18 Jul 1986 at Friendship Care Center**, age 80; Nola Diane Dowty of Milwaukie; square dancing/gardening; birthplace reported Cambridge, Idaho. Resolves C10; supports C19; creates C20 with W14. Scan: `photos/genealogy/fern-deveny-funeral-notice-oregonian.png` |
 | **W40** | ***Oregonian*, 17 Sep 1987 — Irene Fern DeVeny Taylor obituary** | Irene age 65; WWII welder; Oregon Journal classifieds; Ikebana; sister **Nola Dowty of Milwaukie**. Scan: `photos/genealogy/irene-f-taylor-funeral-notice.png` |
 
-**Visual transcription for W34–W40:** `sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md`.
+**Visual transcription for W34–W40:** `research/notes/2026-08-18-screenshot-transcriptions.md`.
 
 ---
 

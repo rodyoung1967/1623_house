@@ -8,19 +8,18 @@ https://multco.us/info/house-and-property-history-records
 
 Points to Portland Maps (year built + Historic Permits), Oregon Historic Sites Database, MCL *Historic Resource Inventory of Portland* (1984) and Sanborn maps, County Surveyor, Recorder, OHS house-history collections, and **neighbors** as oral-history sources (already O2).
 
-## 1950 U.S. Census (not yet retrieved)
+## 1950 U.S. Census — retrieved 2026-08-18 as P8
 
 https://1950census.archives.gov/search/
 
-Worth running because S2022 / P7 place **Edgar, Fern, Irene, and Nola** at 1623 in **1940**. A 1950 hit would:
+The original research goal was to test the 1940-to-1969 occupancy gap. P8 now supplies the 1950 hit:
 
-- Confirm whether Edgar and Fern were still there (between 1940 census and 1966 oil permit / 1969 death)
-- Show whether Irene (age ~27 in 1950) and Nola (age ~16 in 1950) still lived at home
-- Remain **occupancy**, not title (same rule as C05)
+- Edgar, Fern, and Nola are indexed at **1623 N.E. 73** on 1 Apr 1950.
+- Irene is not in the household.
+- Nola is 16 and unmarried.
+- This remains **occupancy, not title** (same rule as [C05](../../CONFLICTS.md#c05--what-the-1940-census-proves)).
 
-**Search:** address `1623 NE 73rd Ave`, Portland, Multnomah County, Oregon; names Edgar / Fern DeVeny, Deveney, Deveny.
-
-**Later:** retrieved 2026-08-18 as **P8** (ED **37-206**). See `sources/ingested/research-notes/1950-census-ed-37-206.md`.
+See `research/notes/1950-census-ed-37-206.md` and the saved Ancestry viewer under `sources/ingested/census/`.
 
 ## Portland city directories (MCL)
 

@@ -21,6 +21,6 @@ This is the clipping behind the W2 newspapers.com index (same date, same address
 
 ## What 1623 means here
 
-The address is printed as **Edgar’s residence** on both notices. That upgrades the death-at/of-this-address claim from an index line (W2) to the actual text.
+The address is printed as **Edgar’s residence** on both notices. That upgrades the address association from an index line (W2) to the actual text.
 
-The notices do **not** say Irene or Nola lived at 1623. They are listed as his daughters. Fern is named as wife; that is not a separate address line for her, and it is not a title record.
+The notices do **not** state Edgar's place of death. They also do **not** say Irene or Nola lived at 1623. Irene and Nola are listed as his daughters. Fern is named as wife; that is not a separate address line for her, and it is not a title record.

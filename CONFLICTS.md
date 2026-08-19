@@ -6,7 +6,7 @@ Working calls already recorded are in [decisions.md](decisions.md). Items below 
 | --- | --- |
 | C01 plumbing dates; C02 “Mr. J. Deveny”; C05 census occupancy/reported tenure ≠ deed title; C09 basement tank only; C10 Fern died at Friendship Care Center; C12 1992 parties working record; C16 Goodwin; C17 Nola marriages; C19 elderly woman = Fern | **C03, C04, C06, C07, C08, C11, C13, C14, C15, C18, C20** |
 
-Primary scans are in `photos/permits/`. Genealogy/newspaper screenshots are in `photos/genealogy/`. The 2026-08-18 visual transcriptions are in `sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md`.
+Primary scans are in `photos/permits/`. Genealogy/newspaper screenshots are in `photos/genealogy/`. The 2026-08-18 visual transcriptions are in `research/notes/2026-08-18-screenshot-transcriptions.md`.
 
 ---
 

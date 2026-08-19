@@ -8,7 +8,7 @@ Parcel / tax account: **R193918** · Legal description: Lots 27 & 28, Block 33, 
 
 The new captures were visually reviewed and integrated in:
 
-- `sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md`
+- `research/notes/2026-08-18-screenshot-transcriptions.md`
 - `sources.md` / `data/sources.yaml`
 - `timeline.md`, `people.md`, `house-history.md`
 - `decisions.md` / `CONFLICTS.md`

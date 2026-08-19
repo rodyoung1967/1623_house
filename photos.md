@@ -56,7 +56,7 @@ P5 is the historic sewer/service sketch described in S2026; no separate named wo
 | `photos/genealogy/fern-deveny-funeral-notice-oregonian.png` | *Oregonian* 22 Jul 1986: Fern died **at Friendship Care Center**; Nola of Milwaukie | **W39** |
 | `photos/genealogy/irene-f-taylor-funeral-notice.png` | *Oregonian* 17 Sep 1987: Irene Taylor obituary; sister Nola Dowty of Milwaukie | **W40** |
 
-Visual transcription/interpretation for P7 and W34–W40: `sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md`.
+Visual transcription/interpretation for P7 and W34–W40: `research/notes/2026-08-18-screenshot-transcriptions.md`.
 
 ---
 

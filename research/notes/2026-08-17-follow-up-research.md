@@ -2,16 +2,18 @@
 
 Owner-supplied synthesis from a second research pass, compared against S2022 and S2026. Ingested into this archive on 2026-08-17. Not a title opinion.
 
+> **2026-08-19 consistency update:** This is a historical research snapshot. Later direct review supersedes two points: W39 shows Fern **died at Friendship Care Center**, not at 1623; W27/W28 establish **Edgar's residence** as 1623 in 1969, not his place of death. Current conclusions are in `../../decisions.md`, `../../house-history.md`, and `../../CONFLICTS.md`.
+
 **Owner addendum (same day):** “Wayne Irvin et al. Wayne is Christine’s dad.”
 
 ## Findings adopted as working positions
 
-See [decisions.md](../../../decisions.md) for C01, C02, C05, C09, C12. C17 (Nola’s 1950 marriage to Jack Howard Fick) was added later from clipping W26; this note was written before that ingest.
+See [decisions.md](../../decisions.md) for C01, C02, C05, C09, C12. C17 (Nola’s 1950 marriage to Jack Howard Fick) was added later from clipping W26; this note was written before that ingest.
 
 ## New identifiers and citations
 
 - Parcel / tax account: **R193918** (needs confirmation on a county printout or Portland Maps; format matches Multnomah R-numbers).
-- Edgar A. DeVeny indexed obituary: *Oregon Daily Journal*, **28 Apr 1969**; death place **1623 NE 73rd Ave**.
+- Edgar A. DeVeny indexed obituary: *Oregon Daily Journal*, **28 Apr 1969**; the notice gives **residence 1623 NE 73rd Ave**. It should not be cited as proof of place of death.
   - https://oregonlive.newspapers.com/articles/obituary/1092756795/83066f5e-fc17-4fb3-91f2-e515d785ac0d
 - Fern A. Farmer DeVeny: Find a Grave memorial 567125; born 29 Jan 1906, died **18 Jul 1986**.
   - https://www.findagrave.com/memorial/567125/fern_a-deveny
@@ -55,20 +57,23 @@ MUL.Records@ojd.state.or.us · 971-274-0570 · walk-in Room 3315, 1200 SW 1st Av
 
 ## Neighbor oral history (S2022), restated
 
-If the 2022 notes accurately captured the conversation: the next-door neighbor **knew Fern**, said Fern **died in the house in 1986**, confirmed Randy & Christine’s “old crazy lady” **was Fern** (not an unrelated tenant), and said **Nola never moved back** with Lloyd and Diane. That is stronger oral history than S2026 used. It is still not a death certificate.
+If the 2022 notes accurately captured the conversation: the next-door neighbor **knew Fern**, said Fern **died in the house in 1986**, confirmed Randy & Christine’s “old crazy lady” **was Fern** (not an unrelated tenant), and said **Nola never moved back** with Lloyd and Diane.
 
-## Working 1986–1992 scenario (mixed evidence)
+**Later reconciliation:** W39 directly contradicts only the place-of-death detail: Fern died at **Friendship Care Center**. The neighbor's identification of the elderly woman as Fern remains the accepted high-confidence working conclusion (C19).
 
-- Known (documentary): Edgar died at 1623 in 1969 (obituary index).
-- Known (secondary): Fern died 18 Jul 1986.
-- Strong oral history: Fern was still living at 1623 and died there; Nola did not move back.
-- Known (aggregator): property sold 1 Dec 1992 for $64,950.
+## Working 1986–1992 scenario (updated after later evidence)
+
+- Documentary: Edgar's 1969 notices give **residence 1623 NE 73rd Ave** (W27/W28); those notices do not establish place of death.
+- Documentary: Fern died **18 Jul 1986 at Friendship Care Center** (W39).
+- Strong oral history: the elderly woman who had lived alone at 1623 was **Fern**; the “died in the house” detail is superseded by W39.
+- Documentary: Nola was **of Milwaukie in 1987** (W40).
+- Aggregator: property sold 1 Dec 1992 for $64,950.
 - Old research + owner: seller Nola D. Dowty; buyer Wayne Irvin et al.; Wayne is Christine’s father.
-- Still unknown: when/how title moved to Nola; who occupied 1623 between Fern’s death and the 1992 sale (tenant-occupied at purchase is O1).
+- Still unknown: Fern's last date at 1623, when/how title moved to Nola, and who occupied 1623 between Fern's departure/death and the 1992 sale (tenant-occupied at purchase is O1).
 
 ## Explicitly not confirmed
 
-- James Benjamin DeVeny and Sophia Charlotte Goodwin DeVeny as original family: useful leads, not confirmed.
+- James Benjamin DeVeny and Sophia Charlotte Goodwin DeVeny as original family: useful leads, not confirmed as the 1912 parcel owners.
 - Full original address **369 E 73rd Ave N**: useful lead; card shows “369”; official 1933 directory not checked.
 - 1947 “Mrs. Deveny” = Fern; 1966 Fern as owner: permit does not prove those identities.
 - SortedByName Nola/Dowty index: search aid only; conflicting birth year (see C15).

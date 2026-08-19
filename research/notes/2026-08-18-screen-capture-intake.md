@@ -6,7 +6,7 @@ This note records the intake status after **visual review and integration**. The
 
 The detailed visual transcription for the integrated material is now:
 
-**`sources/ingested/research-notes/2026-08-18-screenshot-transcriptions.md`**
+**`research/notes/2026-08-18-screenshot-transcriptions.md`**
 
 Machine status mirror: **`data/screen-capture-intake-2026-08-18.yaml`**.
 
